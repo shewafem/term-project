@@ -1,0 +1,703 @@
+-Cell Deﬁcit and Increased -Cell Apoptosis in
+Humans With Type 2 Diabetes
+Alexandra E. Butler,1 Juliette Janson,2 Susan Bonner-Weir,3 Robert Ritzel,1 Robert A. Rizza,4 and
+Peter C. Butler1
+Type 2 diabetes is characterized by impaired insulin
+secretion. Some but not all studies suggest that a
+decrease in -cell mass contributes to this. We examined pancreatic tissue from 124 autopsies: 91 obese
+cases (BMI >27 kg/m2; 41 with type 2 diabetes, 15 with
+impaired fasting glucose [IFG], and 35 nondiabetic subjects) and 33 lean cases (BMI <25 kg/m2; 16 type 2
+diabetic and 17 nondiabetic subjects). We measured
+relative -cell volume, frequency of -cell apoptosis and
+replication, and new islet formation from exocrine
+ducts (neogenesis). Relative -cell volume was increased in obese versus lean nondiabetic cases (P 
+0.05) through the mechanism of increased neogenesis
+(P < 0.05). Obese humans with IFG and type 2 diabetes
+had a 40% (P < 0.05) and 63% (P < 0.01) deﬁcit and
+lean cases of type 2 diabetes had a 41% deﬁcit (P <
+0.05) in relative -cell volume compared with nondiabetic obese and lean cases, respectively. The frequency
+of -cell replication was very low in all cases and no
+different among groups. Neogenesis, while increased
+with obesity, was comparable in obese type 2 diabetic,
+IFG, or nondiabetic subjects and in lean type 2 diabetic
+or nondiabetic subjects. However, the frequency of
+-cell apoptosis was increased 10-fold in lean and 3-fold
+in obese cases of type 2 diabetes compared with their
+respective nondiabetic control group (P < 0.05). We
+conclude that -cell mass is decreased in type 2 diabetes
+and that the mechanism underlying this is increased
+-cell apoptosis. Since the major defect leading to a
+decrease in -cell mass in type 2 diabetes is increased
+apoptosis, while new islet formation and -cell replication are normal, therapeutic approaches designed to
+arrest apoptosis could be a signiﬁcant new development
+in the management of type 2 diabetes, because this
+approach might actually reverse the disease to a degree
+rather than just palliate glycemia. Diabetes 52:102–110,
+2003
+T
+ype 2 diabetes is characterized by a progressive
+decline in -cell function and chronic insulin
+resistance (1,2). Obesity is a major risk factor for
+the development of type 2 diabetes (3,4) and is
+thought to confer increased risk for type 2 diabetes
+through the mechanism of associated insulin resistance
+(5). However, most people who are obese (and relatively
+insulin resistant) do not develop diabetes but compensate
+by increasing insulin secretion (6). In rodent models of
+obesity without diabetes there is an adaptive increase in
+-cell mass (7). Although not much data are available,
+prior studies suggest that -cell mass is also adaptively
+increased in nondiabetic obese humans (8,9). Regulation
+of the -cell mass appears to involve a balance of -cell
+replication and apoptosis, as well as development of new
+islets from exocrine pancreatic ducts (10,11). Disruption
+of any of these pathways of -cell formation or increased
+rates of -cell death could cause a decrease in -cell mass.
+The islet in type 2 diabetes is characterized by deposits of
+amyloid (12) derived from the peptide islet amyloid
+polypeptide (IAPP), also known as amylin (13). This
+peptide has been shown to cause apoptosis of -cells
+(14,15), particularly when it is in the form of small IAPP
+oligomers (16). However, it is unknown whether -cell
+apoptosis is increased in type 2 diabetes.
+Also, there is controversy whether -cell mass is decreased in type 2 diabetes (9,17–24). These discrepancies
+are in part due to the paucity of available data in humans.
+It is difﬁcult to obtain pancreatic tissue from humans,
+since this usually only becomes available at autopsy, when
+the pancreas may have undergone extensive autolysis.
+Also, reliable clinical information about autopsy cases is
+often unavailable. It is therefore not surprising that there
+are few studies of islet morphology in humans with
+diabetes, and in most of these, only small numbers of
+cases were included. Also, clinical data before death is
+minimal in many of these studies. Given the small number
+of cases, matching the cases for degree of obesity and age
+of death has not always been possible. At the Mayo Clinic
+some of these difﬁculties are overcome. Autopsies are
+performed within 12 h of death (usually 6 h), including
+weekends. The Mayo Clinic integrated medical record
+system allows easy access to the prior clinical records of
+the cases. As the Mayo Clinic tends to be the primary
+health care provider for people hospitalized at the medical
+center for their ﬁnal illness, most of the autopsy cases
+From the 1Division of Endocrinology and Diabetes, Keck School of Medicine,
+University of Southern California, Los Angeles, California; the 2Karolinska
+Institute, Stockholm, Sweden; the 3Joslin Diabetes Center, Boston, Massachusetts; and the 4Division of Endocrinology, Mayo Clinic, Rochester, Minnesota.
+Address correspondence and reprint requests to Dr. Peter C. Butler,
+Division of Endocrinology and Diabetes, Keck School of Medicine, University
+of Southern California, 1333 San Pablo St., BMT-B11, Los Angeles, CA 90033.
+E-mail: pbutler@usc.edu.
+Received for publication 19 July 2002 and accepted in revised form 9
+October 2002.
+FPG, fasting plasma glucose; IAPP, islet amyloid polypeptide; IFG, impaired
+fasting glucose.
+102
+DIABETES, VOL. 52, JANUARY 2003
+have had a general medical examination (including a
+fasting blood glucose) during the year before death.
+In the present study, we took advantage of the unique
+autopsy material available at the Mayo Clinic to study 124
+human pancreata from cases with and without diabetes
+and matched for obesity. All cases had a well-preserved
+pancreatic specimen and documented general medical
+exam, including a fasting blood glucose obtained during
+the 12 months before death. With this unique resource, we
+sought to address the following questions: 1) In humans
+with obesity, is -cell mass increased compared with lean
+nondiabetic humans? 2) In humans with type 2 diabetes, is
+-cell mass decreased compared with age-, sex-, and
+weight-matched nondiabetic humans? 3) Are there measurable changes in the frequency of -cell apoptosis or
+replication or new islet (ductal) formation among these
+groups in human pancreatic tissue obtained at autopsy
+that might provide insight into the mechanism subserving
+any deﬁcit in -cell mass in type 2 diabetes?
+RESEARCH DESIGN AND METHODS
+Design. We obtained human pancreatic tissue at autopsy from nondiabetic
+subjects, patients with type 2 diabetes, and patients with impaired fasting
+glucose (IFG); pancreatic samples from both obese and lean patients were
+obtained in the nondiabetic and diabetic groups. The current study reﬂects the
+population in Minnesota during the time these patients died, which was 98%
+Caucasian of Northern European origin.
+Subjects. Potential cases were ﬁrst identiﬁed by retrospective analysis of the
+Mayo Clinic autopsy database. To be included, cases were required to have 1)
+had a full autopsy within 12 h of death, 2) had a general medical examination,
+including at least one fasting blood glucose documented within the year
+before death, and 3) pancreatic tissue stored that was of adequate size and
+quality. Cases were excluded if 1) potential secondary causes of type 1 or type
+2 diabetes were present, 2) patients had been exposed to chronic glucocorticoid treatment, or 3) pancreatic tissue had undergone autolysis or showed
+evidence of pancreatitis. Inclusion in the lean subgroup required a BMI 25
+kg/m2, while inclusion in the obese subgroup required a BMI 27 kg/m2. Cases
+were further classiﬁed as nondiabetic (fasting plasma glucose [FPG] 110
+mg/dl), IFG (FPG 110–125 mg/dl), or diabetic subjects (FPG 126 mg/dl). As
+a consequence of this process, we ultimately included 124 cases (Table 1).
+Pancreatic tissue processing. At autopsy in all cases, pancreas was
+resected from the tail and, with a sample of spleen, ﬁxed in formaldehyde and
+embedded in parafﬁn for subsequent analysis. The autopsy process does not
+include full dissection and removal of the retroperitoneal pancreas to determine pancreas weight (as is routinely possible in rodent studies with a more
+accessible pancreas). Sections were cut from these parafﬁn blocks and stained
+by Congo Red for hematoxylin/eosin and by immunohistochemistry for
+insulin, as previously described (25). In addition, sections were analyzed for
+replication by immunohistochemistry for Ki67 (anti-Human Ki-67 monoclonal
+antibody MIB-1, 1/25; Dako, Carpinteria, CA) (26) and for apoptosis using the
+TdT-FragEL Kit (cat. no. QIA 33) from Oncogene Research Products (Cambridge, MA).
+Analysis of endocrine pancreatic morphology. The hematoxylin/eosin
+slides were examined in all cases to exclude cases with pancreatitis, autolysis,
+etc., as per case selection above. Slides stained for insulin (J.J. and A.E.B.),
+Congo Red, TUNEL, and Ki67 (A.E.B.) were then examined blinded for
+subgroup as detailed below. The blind was broken by P.C.B. and R.R., who
+performed the statistical analysis. S.B.-W. provided guidance with measurement of new islet formation and all aspects of -cell sterology. R.A.R.
+coordinated availability of samples from Mayo Clinic and clinical information
+and overall guidance in study analysis.
+Relative -cell volume to exocrine pancreas. As the pancreas weight was
+not available, it was not possible to calculate the -cell mass. The pancreas
+tends to be slightly larger in nondiabetic than in diabetic humans (27).
+Therefore, the ratio of the -cell area/exocrine area (by convention called the
+relative -cell volume) should provide a conservative estimate of any decline
+in -cell mass in patients with diabetes. To measure this ratio, slides from
+each case were examined using an Olympus IX70 inverted system microscope
+(Olympus America, Melville, NY) connected to a Hewlett Packard computer
+with Image-Pro Plus software (Media Cybernetics, Silver Springs, MD). Slides
+immunostained for insulin were analyzed using the Image-Pro Plus system.
+The slide was scanned using 4 objective magniﬁcation. A representative area
+of pancreas section was chosen for analysis and the coordinates entered into
+the program. The image analysis quantiﬁed total tissue area within this region,
+followed by the insulin-positive area to generate the ratio of insulin staining to
+total pancreas area. The sensitivity for the insulin-positive areas was high, so
+that all insulin-positive areas were included irrespective of the intensity of
+staining.
+To ensure that any changes in the relative -cell volume were not due to
+changes in the size of individual -cells (for example due to degranulation),
+we also measured the density of nuclei per insulin-positive area in the obese
+and lean type 2 diabetic and nondiabetic groups. Five islets from each case
+stained for insulin were imaged to provide the insulin-positive area (m2) and
+digitally photographed at high power (40). The resulting images were
+examined by A.E.B. to manually count the number of nuclei present within the
+insulin-stained area in order to compute the ratio of nuclei per insulin-positive
+area (m2).
+Quantiﬁcation of islet size and islet relative -cell volume. To establish
+islet size and the islet relative -cell volume, 20 islets larger than four cells
+were studied in detail from each case. First, a ﬁeld at objective magniﬁcation
+20 was chosen at random, and then the islets in this ﬁeld and those in the
+immediately adjacent ﬁelds were examined until 20 islets had been evaluated.
+Each of these 20 islets was evaluated to obtain the total islet cross-sectional
+area and the area within this islet positive for insulin. For each case, a mean
+TABLE 1
+Characteristics of patients
+Obese
+Lean
+Type 2 diabetic
+subjects
+IFG
+Nondiabetic
+subjects
+Type 2 diabetic
+subjects
+Nondiabetic
+subjects
+n
+41
+19
+31
+16
+17
+Sex (F/M)
+17/24
+9/10
+15/16
+7/9
+7/10
+Age (years)
+63.3  1.8
+63.1  2.3
+66.9  2.7
+80.2  1.9
+78.1  2.9
+Data are means  SE.
+TABLE 2
+Obese and lean cases of type 2 diabetes, subdivided according to treatment (insulin, oral, or diet) to show sex, age, and BMI
+Obese type 2 diabetic subjects*
+Lean type 2 diabetic subjects
+Insulin
+Oral
+Diet
+Insulin
+Oral
+Diet
+n
+17
+16
+7
+3
+6
+7
+Sex (F/M)
+10/7
+5/11
+1/6
+1/2
+4/2
+2/5
+Age (years)
+65.9  1.7
+61.9  3.7
+59.7  4.7
+82.0  3.5
+78.2  3.4
+81.1  3.0
+BMI (kg/m2)
+38.3  1.5
+38.5  2.1
+36.5  2.0
+23.6  0.5
+23.3  0.8
+21.2  0.7
+Data are means  SE. *In one obese type 2 diabetic subject, the treatment was unknown.
+A.E. BUTLER AND ASSOCIATES
+DIABETES, VOL. 52, JANUARY 2003
+103
+cross-sectional islet area, a mean cross-sectional insulin area within the islet,
+and a mean percentage area positive for insulin within the islet were therefore
+determined to provide the islet relative -cell volume.
+Quantiﬁcation of exocrine duct cells positive for insulin for islet
+neogenesis estimate. To assess the relative rate of islet neogenesis from
+exocrine duct cells, we quantiﬁed the percentage of exocrine duct cells that
+were immunoreactive for insulin. A mean (SE) of 281  11 duct cells were
+evaluated as positive or negative for insulin from each pancreas. The resulting
+data were expressed as the percentage of duct cells positive for insulin in each
+pancreas, and the mean was calculated for each group.
+Apoptosis and replication. Slides stained by the TUNEL and Ki67 techniques were each evaluated in direct comparison with those immunostained
+for insulin in each case. In most cases, samples of spleen were ﬁxed and
+parafﬁn embedded with the pancreas, providing positive controls for apoptosis and replication in the splenic follicles. The number of positive cells that
+corresponded to an insulin-positive area in the adjacent section were counted
+per islet. An average of 75 islets were examined per case, and the mean
+number of positive cells per islet calculated for each case. TUNEL staining
+was occasionally present in debris that was no longer present in a distinct cell;
+these were not counted. Only discernible cells with TUNEL-positive nuclei
+were included. As the relative -cell volume differed among groups (see
+RESULTS), we also computed the frequency of -cell apoptosis and -cell
+replication events divided by the relative -cell volume to provide a comparison of these events relative to -cell volume per case.
+Islet amyloid. To quantify islet amyloid, slides from each case were stained
+by Congo Red and examined under polarized light for birefringence. Cases
+were scored for 1) presence or absence, 2) frequency of islet amyloid (using
+a scale from 0 to 3, where 0 indicated that no islets showed apple green
+birefringence, 1 indicated that a few islets in the sample were birefringent, 2
+indicated that numerous islets in the sample were birefringent, and 3 indicated
+that most islets were birefringent), and 3) extent of islet amyloid (again using
+a scale from 0 to 3, where 0 indicated that no islets were birefringent, 1
+indicated minimal extent and weak intensity of birefringence in affected islets,
+2 indicated moderate extent and intensity of birefringence in affected islets,
+and 3 indicated marked extent and intensity of birefringence within affected
+islets).
+Statistics. The speciﬁc hypotheses posed were tested by use of a Student’s t
+test. When all ﬁve groups of cases were compared, ANOVA was used. A P
+value 0.05 was considered statistically signiﬁcant. Linear correlation was
+performed by regression analysis with a best-ﬁt line and 95% CIs shown
+graphically.
+RESULTS
+Cases (Tables 1 and 2 and Fig. 1). BMI and age of death
+did not differ among the type 2 diabetic, nondiabetic, or
+IFG subgroups within the obese group. Similarly, there
+was no difference in age of death or BMI between lean type
+2 diabetic and nondiabetic patients. As expected, the
+obese cases had a higher BMI than the lean cases. Also,
+lean cases died at a greater age than obese cases (P 
+0.0001). The treatments used by patients with type 2
+diabetes were diet, sulfonylurea pills, or insulin. No other
+classes of oral medications for glycemic control were
+available at the time these patients were living. In Table 2,
+we show the number of cases treated by each of these
+medication types before death.
+Relative -cell area to exocrine pancreas (Table 3
+and Fig. 2). We report that obesity in nondiabetic humans
+is characterized by an 50% increase in relative -cell
+volume (2.6  0.39 vs. 1.71  0.28%, P  0.05, obese
+nondiabetic vs. lean nondiabetic subjects). Since the nondiabetic obese humans died younger than the nondiabetic
+lean humans, the comparison in the relative -cell volume
+between these groups may have been confounded by this
+age difference. Obese humans with IFG (1.56  0.25%) and
+type 2 diabetes (0.96 	 0.1%) had a 40% (P  0.05) and 63%
+(P  0.01) deﬁcit in relative -cell volume compared with
+nondiabetic obese subjects. The decreased -cell volume
+in patients with type 2 diabetes was due to a decreased
+number of -cells rather than a decreased volume of
+individual cells, since the ratio of nuclei per m2 of
+insulin-positive area was no different between the nondiabetic and type 2 diabetic groups (obese 6  1  10
+3 vs.
+6  1  10
+3 nuclei/m2, lean 5  1  10
+3 vs. 7  1 
+10
+3 nuclei/m2; P  NS). Compared with obese nondiabetic cases, obese patients with type 2 diabetes had a
+decreased relative -cell volume (Fig. 3) irrespective of
+whether they were treated by diet alone (0.78  0.13, 70%
+decreased; P  0.01) or on oral medications (0.86  0.25,
+67% decreased; P  0.05) or insulin (1.3  0.2, 50%
+decreased; P  0.05). There was no difference in the mean
+FPG values among these three treatment groups during
+the last 2 years of life (Fig. 3). Lean subjects with type 2
+diabetes had 41% deﬁcit in relative -cell volume (1.0  0.2
+vs. 1.7  0.3%, P  0.05) compared with lean nondiabetic
+subjects. The lean diabetic subjects showed a decrease in
+FIG. 1. The mean BMI in obese (nondiabetic [ND], IFG, and diabetic
+subjects [TTDM]) and lean cases (nondiabetic and type 2 diabetic
+subjects).
+TABLE 3
+The ﬁve patient groups (lean nondiabetic, lean type 2 diabetic, obese nondiabetic, obese IFG, and obese type 2 diabetic subjects)
+demonstrating -cell and islet characteristics
+Lean
+Obese
+Nondiabetic
+subjects
+Type 2
+diabetic subjects
+Nondiabetic
+subjects
+IFG
+Type 2
+diabetic subjects
+Relative -cell volume/islet (% of islet)
+52.0  4.1
+38.0  3.9*
+45.4  2.7
+43.7  3.4
+37.0  2.3†
+Islet density (islets/mm2)
+3.1  0.2
+3.0  0.3
+3.5  0.3
+2.8  0.2‡
+2.6  0.2†
+Mean islet size (m2)
+7,140  795
+6,807  526
+7,187  571
+7,131  695
+7,846  648
+Apoptosis/islet (cells/islet)
+0.07  0.03
+0.47  0.19§
+0.20  0.7
+—
+0.31  0.15
+Ki67/islet (cells/islet)
+0.04  0.02
+0.033  0.01
+0.06  0.02
+—
+0.03  0.01
+Data are means  SE. *P  0.01 for lean nondiabetic vs. type 2 diabetic subjects; †P  0.05 for obese nondiabetic vs. type 2 diabetic subjects;
+‡P  0.05 for obese nondiabetic vs. IFG subjects; §P  0.05 for lean nondiabetic vs. type 2 diabetic subjects.
+-CELL DEFICIT IN TYPE 2 DIABETES
+104
+DIABETES, VOL. 52, JANUARY 2003
+relative -cell volume irrespective of whether they were
+treated with diet only (1.24  0.34, P  NS), oral medications (0.86  0.2, P  0.05), or insulin (0.82  0.17, P 
+0.05 using Welch’s correction) (Fig. 4). These ﬁndings
+were consistent with the observations in individual islets
+examined from each group. The mean islet size was
+similar in all groups studied (Table 3). In contrast, the
+relative -cell islet volume was decreased in obese cases
+with type 2 diabetes compared with nondiabetic obese
+cases (P  0.05) and in lean cases with type 2 diabetes
+compared with nondiabetic lean cases (P  0.01).
+Quantiﬁcation of exocrine duct cells positive for
+insulin (Figs. 5 and Fig. 6). The presence of islets
+budding from exocrine ducts were present in all pancreata
+irrespective of obesity or diabetic status. To quantify this
+process, we quantiﬁed duct cells immunoreactive for
+insulin. There was an increased percentage of -cell–
+positive duct cells in obese versus lean cases (P  0.05),
+but no difference between the obese nondiabetic and type
+2 diabetic cases (P  0.60) or lean type 2 diabetic and
+nondiabetic cases (P  0.83).
+Replication and cell death (Fig. 7 and Table 3). To
+further attempt to elucidate the mechanism for the deﬁcit
+in -cell mass present in type 2 diabetes, we examined the
+frequency of -cell apoptosis and replication. The frequency of replication was very low in all cases examined.
+There was no signiﬁcant difference in the frequency of
+replication between obese nondiabetic and type 2 diabetic
+subjects or lean nondiabetic and type 2 diabetic subjects
+(Fig. 7). There was a trend for decreased -cell replication
+and new islet formation with aging (Fig. 8). Although there
+was a suggestion of an increased frequency of apoptotic
+events per islet (Table 3) in obese type 2 diabetic versus
+nondiabetic cases, this did not reach signiﬁcance. However there was an increased frequency of apoptotic events
+per islet in lean type 2 diabetic versus nondiabetic cases
+(P  0.05). Since the relative -cell volume was decreased
+in type 2 diabetes, we also examined the frequency of
+-cell apoptosis per islet divided by the relative -cell
+volume so that a comparison could be made of the
+frequency of -cell apoptosis normalized to -cell mass.
+When the frequency of apoptotic events was expressed as
+the frequency of -cell apoptosis divided by the relative
+-cell volume, then the frequency of apoptosis was 3fold increased in obese cases of type 2 diabetes (P  0.05)
+and 10-fold increased in lean cases of type 2 diabetes
+(P  0.05) versus their respective control groups.
+Islet amyloid (Fig. 9). As expected, islet amyloid was
+present in the majority of obese cases with type 2 diabetes
+when compared with obese nondiabetic cases (81 vs. 10%,
+P  0.01). Of interest, islet amyloid was not increased in
+obese cases of IFG compared with obese nondiabetic
+cases. In the lean cases, islet amyloid was present in 88%
+of type 2 diabetic subjects versus 13% of nondiabetic
+FIG. 2. The mean FPG concentration (A) and the mean relative -cell
+volume (B) in obese (nondiabetic [ND], IFG, and diabetic subjects
+[TTDM]) and lean cases (nondiabetic and type 2 diabetic subjects).
+FIG. 3. The mean FPG concentration (A) and the relative -cell volume
+(B) in the obese group of nondiabetic (ND) subjects or diabetic
+patients who were treated with insulin, sulfonylurea pills (Oral), or
+diet only.
+A.E. BUTLER AND ASSOCIATES
+DIABETES, VOL. 52, JANUARY 2003
+105
+subjects (P  0.01). The frequency with which islets in a
+given sample showed positive birefringence, and the extent of birefringence in affected islets was higher in type 2
+diabetic cases, both lean and obese, when compared with
+their nondiabetic counterparts.
+DISCUSSION
+We report that the relative -cell volume in humans with
+both IFG and type 2 diabetes is decreased.
+A limitation of the present studies is use of the relative
+-cell volume as a surrogate of -cell mass. This approach
+will be in error to the extent that there were differences in
+the overall mean pancreatic weight among groups. However, available data suggest that the pancreatic weight is
+similar (21,22) or decreased in patients with diabetes
+(9,27). If pancreatic weight is decreased in type 2 diabetes,
+then use of the insulin-positive area as a percentage of
+total exocrine area should introduce, if anything, a conservative error and underestimate any decrease in -cell
+mass in type 2 diabetes. Earlier reports that the -cell mass
+is decreased in type 2 diabetes may have included cases of
+type 1 diabetes (17,18). However, more recent reports in
+which clinical information was better characterized conclude that -cell mass is decreased in type 2 diabetes
+(9,22,24), whereas others report no decrease in -cell mass
+(19,21). Another study presented in the proceedings of a
+recent meeting (23) reported a decreased -cell mass in
+lean or obese patients with type 2 diabetes who required
+insulin. However, in contrast to our ﬁndings, they reported
+that obese type 2 diabetic cases treated by diet only or oral
+medications did not have a decreased -cell mass. The
+reason for the discrepancy with the latter study is not
+known, although it is clear that type 2 diabetes is a
+heterogeneous disease with a polygenic basis and that
+there may well be differences in the islet in this disease
+depending on the region from which the population was
+sampled. A question that arises from the present study is:
+what is the signiﬁcance of an 60% decrease in -cell mass
+in humans? Although rodents tolerate a partial pancreatectomy in which up to 80% of the -cell mass is removed
+(28), primates (29) and pigs (30) develop diabetes with a
+decrease of -cell mass of 50% or greater. Furthermore,
+humans who have had 50% of their pancreas removed
+have abnormal glucose tolerance (some developing diabetes by more recent classiﬁcation) and diminished insulin
+secretion in response to a hyperglycemic clamp (31–33).
+Taken together, these ﬁndings imply that the 60% deﬁcit
+in -cell mass observed in the present study, particularly
+in the context of insulin resistance encountered in type 2
+diabetes, is sufﬁcient to play an important role in causing
+hyperglycemia. In the current study, we report that the
+group with IFG, a group at high risk of developing type 2
+diabetes, had a 40% deﬁcit in relative -cell volume compared with comparably obese control subjects with normal fasting glucose concentrations. This observation
+implies that the deﬁcit in the -cell volume (and presumptive mass) is an early process in the development of type
+2 diabetes and is likely of primary importance rather than
+simply secondary to hyperglycemia.
+-Cell mass in rodents is dynamic and regulated with
+input of -cells from new islet formation and -cell replication within islets and output from -cell senescence
+(apoptosis) (10,11). Our data support this concept and
+extend it to humans. Also, we support prior data reporting
+that obese nondiabetic humans increase -cell mass, presumably in response to insulin resistance (8,9). However,
+the extent of this increase (50%) in the markedly obese
+humans studied here is much lower than the increase
+observed in obese mice (5- to 10-fold) (34). The reported
+increase here may, however, be an underestimate, since
+the pancreatic weight in obese nondiabetic humans tends
+to be larger than lean nondiabetic humans (9). Again, this
+would introduce a conservative error in the stated conclusion that -cell mass is increased in obese nondiabetic
+versus lean nondiabetic humans. We report that the mechanism of this increased -cell mass in humans appears to
+be through increased new islet formation, assuming that
+the percentage of insulin-positive cells in exocrine ducts is
+related to this process. However, in contrast to rodents, it
+has been reported that there is almost no -cell replication
+within existing islets in humans (35), as conﬁrmed in the
+present work, and therefore (not surprisingly) this does
+not appear to be an important mechanism for regulation of
+-cell mass in humans. The relatively less importance of
+this pathway for regulation of -cell mass in humans
+compared with rodents is consistent with the observation
+that obese mice develop very large islets (34,36), whereas
+in humans, islet size is minimally altered by obesity (Table
+3). The frequency of apoptosis was not different in the
+FIG. 4. The mean FPG concentration (A) and the relative -cell volume
+(B) in the lean group of nondiabetic (ND) subjects or diabetic patients
+who were treated with insulin, sulfonylurea pills (Oral), or diet only.
+-CELL DEFICIT IN TYPE 2 DIABETES
+106
+DIABETES, VOL. 52, JANUARY 2003
+obese nondiabetic versus lean nondiabetic humans (Table
+3). In conclusion, -cell mass is regulated in humans, with
+the rate of new islet formation apparently the predominant
+pathway for increased -cell mass in response to obesity.
+To elucidate the underlying mechanism of the relative
+loss of -cell mass in type 2 diabetes, we also examined
+the frequency of new islet formation as well as -cell
+replication and apoptosis in islets from each group. Rodent studies have shown that increased rates of -cell
+replication can contribute to compensatory increases in
+-cell mass, for example in response to partial pancreatectomy (28) or short-term glucose infusions (37,38). We did
+not observe a decreased frequency of -cell replication in
+islets of type 2 diabetic versus nondiabetic cases, although
+it might be argued that in the presence of hyperglycemia,
+there should have been an increased frequency of replication if human islets respond in the same manner as rodent
+islets. The capacity for increased rates of -cell replication
+is diminished in the Otsuka-Long-Evans-Tokushima fatty
+rat model of diabetes (39). It has also been reported that
+genetic background inﬂuences the capacity for increased
+rates of -cell replication in other animal studies (40).
+However, given the extremely low frequency of -cell
+replication present in human islets compared with rodent
+islets, it appears that this important mechanism for regulation of -cell mass in rodents is unimportant in humans.
+There is increasing interest in the process of new islet
+formation from exocrine ducts as a mechanism to replenish or increase -cell mass (10,11,41,42). We observed new
+islet formation from exocrine ducts and scattered single
+-cells in all cases in the present study consistent with
+recent (42) and some much older studies in humans (43).
+There was no difference in the percentage of exocrine duct
+cells positive for insulin in type 2 diabetic versus nondiabetic subjects, in either the lean or obese groups. This
+implies that the mechanism that enhances new islet formation in response to obesity is intact in humans with type
+2 diabetes. In animal models, both an acute decrease in
+-cell mass (partial pancreatectomy [41]) and hyperglycemia (38) induce an increase in new islet formation. As
+patients with type 2 diabetes had both a decreased -cell
+mass and hyperglycemia, it could be argued that there is a
+FIG. 5. Section of pancreas (20 magniﬁcation) stained for insulin. Numerous pancreatic ducts are shown, with insulin-positive cells present in
+the duct walls demonstrating new islet formation from exocrine ducts.
+FIG. 6. The relative rate of new islet formation, estimated by fraction
+of duct cells positive for insulin, in the obese and lean groups. ND,
+nondiabetic; TTDM, type 2 diabetes.
+A.E. BUTLER AND ASSOCIATES
+DIABETES, VOL. 52, JANUARY 2003
+107
+failure of compensatory increased new islet formation in
+type 2 diabetes. However, the mechanisms that induce an
+increased rate of new islet formation in response to a
+partial decrease in -cell mass and hyperglycemia in
+rodents are not known, nor is it known whether such
+adaptive changes occur in humans. Also, it is unknown
+whether these adaptive increased rates of new islet formation are sustained over years (as in humans with
+diabetes) as opposed to weeks (as in rodent studies of
+hyperglycemia). One very positive implication from the
+present studies is that the rate of new islet formation is
+sustained in patients with longstanding diabetes. In fact,
+there was no difference in the rate of new islet formation
+versus age in patients with or without type 2 diabetes.
+These data imply that if the increased rate of apoptosis
+present in type 2 diabetes (vida infra) could be inhibited, it
+should be possible to restore -cell mass in these patients.
+Since new islet formation, the predominant input into
+the -cell mass in humans, appears to be intact in type 2
+diabetes, one might predict that the mechanism for the
+decreased -cell mass in type 2 diabetes is an increase in
+-cell apoptosis. Consistent with this, we report a 3-fold
+increased frequency of -cell apoptosis in obese cases of
+type 2 diabetes and a 10-fold increased frequency in lean
+cases of type 2 diabetes compared with the nondiabetic
+control cases. The increased frequency of apoptotic events
+per islet in type 2 diabetes is relatively low (0.3 cells per
+cross section), raising the question: is this sufﬁcient to
+account for the decreased -cell mass in type 2 diabetes?
+The difﬁculty presented by both the frequency measurements of apoptosis by the TUNEL technique as well as the
+replication by Ki67 is that they do not easily translate into
+rates. From time-lapse video microscopy studies using
+-cell lines (R.R., P.C.B., unpublished observations), we
+have observed that apoptosis takes 120 min from initiation to completion (disintegration of the cell). The nuclear
+debris might still stain positively by the TUNEL method
+after this period, but in the present studies, we only included TUNEL-positive events when the staining was
+present in an identiﬁable cell (see RESEARCH DESIGN AND
+METHODS) and did not include the staining of debris that
+was occasionally present. If we make the crude assumption that the 60% loss of -cell mass observed in type 2
+diabetes in the current study takes 5 years to evolve, the
+net loss of -cells per islet per day would be 0.8 cells per
+islet per day (assuming 3,000 -cells/islet). Given the fact
+that each islet cross section only observes a portion of a
+given islet, the frequency of an excess of 0.3 apoptotic
+cells per islet seen here is potentially sufﬁcient to account
+for the degree of -cell loss.
+If the cause of the decreased -cell mass in type 2
+diabetes is increased -cell apoptosis, what is the mechanism of this? One of the features present in islets of most
+humans
+with
+type
+2
+diabetes
+is
+amyloid
+deposits
+(22,25,44–48) derived from IAPP, also known as amylin
+(13). The role of islet amyloid in the pathogenesis of type
+2 diabetes remains controversial. Several lines of evidence
+support a potential role of IAPP in the pathophysiology of
+-cell loss in type 2 diabetes. First, spontaneous type 2
+FIG. 7. The frequency of -cell replication (A) and -cell apoptosis (B)
+normalized to relative -cell volume in each case. ND, nondiabetic;
+TTDM, type 2 diabetes.
+FIG. 8. Correlations of age versus -cell replication (A) and insulinpositive duct cells (B). Solid lines are best ﬁt, with broken lines
+showing 95% CIs.
+-CELL DEFICIT IN TYPE 2 DIABETES
+108
+DIABETES, VOL. 52, JANUARY 2003
+diabetes occurs in humans, monkeys, and cats, all of
+which share close homology in IAPP sequence and have
+IAPP that spontaneously forms amyloid ﬁbrils in an aqueous environment (45–48). Species such as rats and mice
+that have an IAPP sequence that does not form ﬁbrils in an
+aqueous solution (49) do not spontaneously develop type 2
+diabetes, but instead require selective genetic manipulation (e.g., leptin-deﬁcient mice) to develop diabetes (50).
+Furthermore, it has been shown that IAPP oligomers
+cause -cell apoptosis (14,15), possibly by causing nonselective ion-channel leaks in cell membranes (16). Although
+it is not plausible to collect pancreatic tissue prospectively
+from humans, transgenic mice (for human IAPP) are now
+available which, when obese, spontaneously develop diabetes characterized by islet amyloid and decreased -cell
+mass (51). Prospective studies in these mice support the
+hypothesis that the mechanism of the decreased -cell
+mass is increased apoptosis (34).
+One argument that has been made against the pathogenic importance of both islet amyloid in type 2 diabetes
+and cerebral amyloid in Alzheimer’s disease is that not all
+affected cases have amyloid present. In the current study,
+10% of type 2 diabetes had no islet amyloid present in the
+examined sample. Furthermore, only a minority (10%) of
+the cases with IFG had islet amyloid present, while they
+already had a deﬁcit in presumptive -cell mass of 40%.
+These data are consistent with the previously stated
+hypothesis that small IAPP oligomers (not detectable by
+light microscopy) are the cause of -cell loss, whereas the
+large extracellular amyloid deposits visible by light microscopy are inert (16,25). Alternatively, it is possible that
+the formation of islet amyloid is secondary to hyperglycemia and not of primary importance in the pathophysiology
+of type 2 diabetes.
+Another factor that might contribute to the increased
+rate of apoptosis observed in type 2 diabetes might be
+hyperglycemia. Recently, it has been shown that islets
+exposed to high glucose concentrations have an increased
+rate of apoptosis (52). This mechanism could certainly
+compound the effects of IAPP oligomers once hyperglycemia supervenes. Since hyperglycemia and insulin resistance increase the expression rate of IAPP to a greater
+extent than insulin (53,54), hyperglycemia might also
+further enhance apoptosis due to IAPP oligomers.
+In summary, we report that relative -cell volume, and
+therefore the presumptive -cell mass, is decreased in
+both obese and lean humans with type 2 diabetes compared with their nondiabetic age- and weight-matched
+counterparts. In the current study, this decrease is present
+whether the cases were treated by insulin, sulfonylureas,
+or diet. Furthermore, humans with IFG have a decreased
+relative -cell volume, suggesting that this is an early
+process and mechanistically important in the development
+of type 2 diabetes. Finally, we ascribe the mechanism for
+the decrease in -cell mass to an increase in the frequency
+of -cell apoptosis with the rate of new islet formation
+being unaffected. The implication for prevention of type 2
+diabetes is that strategies that avoid the increased frequency of -cell apoptosis are most rational. Also, in
+people with established type 2 diabetes, inhibition of this
+3- to 10-fold increased rate of apoptosis may lead to
+restoration of -cell mass since islet neogenesis appears
+intact. To realize these goals, further studies to appreciate
+the mechanism of increased -cell apoptosis are warranted.
+ACKNOWLEDGMENTS
+This study was funded by grants from the National Institutes of Health (DK59579 to P.C.B., DK29953 to R.A.R., and
+DK44523 to S.B.W.).
+We gratefully acknowledge the technical assistance of
+Jane Kahl (Mayo Clinic) and Chand Sultana (University of
+Southern California). We appreciate help from John Miles
+(Mayo Clinic) with chart reviews.

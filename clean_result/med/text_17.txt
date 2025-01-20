@@ -1,0 +1,1868 @@
+Guidelines for Treatment of Candidiasis • CID 2004:38 (15 January) • 161
+I D S A G U I D E L I N E S
+Guidelines for Treatment of Candidiasis
+Peter G. Pappas,1 John H. Rex,2 Jack D. Sobel,3 Scott G. Filler,4 William E. Dismukes,1 Thomas J. Walsh,5
+and John E. Edwards4
+1Division of Infectious Diseases, University of Alabama at Birmingham, Alabama; 3AstraZeneca Pharmaceuticals, Manchester, Great Britain;
+3Wayne State University School of Medicine, Detroit, Michigan; 4Harbor–University of California-Los Angeles Medical Center, Torrance, California;
+and 5Immunocompromised Host Section, Pediatric Oncology Branch, National Cancer Institute, Bethesda, Maryland
+EXECUTIVE SUMMARY
+Candida species are the most common cause of fungal
+infections. Candida species produce infections that
+range from non–life-threatening mucocutaneous illnesses to invasive processes that may involve virtually
+any organ. Such a broad range of infections requires
+an equally broad range of diagnostic and therapeutic
+strategies. These guidelines summarize current knowledge about treatment of multiple forms of candidiasis
+for the Infectious Diseases Society of America (IDSA).
+Throughout this document, treatment recommendations are rated according to the standard scoring
+scheme used in other IDSA guidelines to illustrate the
+strength of the supporting evidence and quality of the
+underlying data (table 1). This document covers the
+following 4 major topical areas.
+The role of the microbiology laboratory.
+To a
+greater extent than for other fungi, treatment of candidiasis can now be guided by in vitro susceptibility
+testing. However, susceptibility testing of fungi is not
+considered a routine testing procedure in many laboratories, is not always promptly available, and is not
+universally considered as the standard of care. Knowledge of the infecting species, however, is highly predictive of likely susceptibility and can be used as a guide
+to therapy. The guidelines review the available inforReceived 12 September 2003; accepted 12 September 2003; electronically
+published 19 December 2003.
+These guidelines were developed and issued on behalf of the Infectious
+Diseases Society of America.
+Authors’ ﬁnancial interests and relationships are listed at the end of the text.
+Reprints or correspondence: Dr. Peter G. Pappas, University of Alabama at
+Birmingham, 1900 University Blvd., 229 Tinsley Harrison Tower, Birmingham, AL
+35294-0006 (pappas@uab.edu).
+Clinical Infectious Diseases
+2004;38:161–89
+ 2003 by the Infectious Diseases Society of America. All rights reserved.
+1058-4838/2004/3802-0001$15.00
+mation supporting current testing procedures and interpretive breakpoints and place these data into clinical
+context. Susceptibility testing is most helpful in dealing
+with deep infection due to non–albicans species of Candida. In this setting, especially if the patient has been
+treated previously with an azole antifungal agent, the
+possibility
+of
+microbiological
+resistance
+must
+be
+considered.
+Treatment of invasive candidiasis.
+In addition to
+acute hematogenous candidiasis, the guidelines review
+strategies for treatment of 15 other forms of invasive
+candidiasis (table 2). Extensive data from randomized
+trials are available only for therapy of acute hematogenous candidiasis in the nonneutropenic adult. Choice
+of therapy for other forms of candidiasis is based on
+case series and anecdotal reports. In general, amphotericin B–based preparations, the azole antifungal
+agents, and the echinocandin antifungal agents play a
+role in treatment. Choice of therapy is guided by weighing the greater activity of amphotericin B–based preparations and the echinocandin antifungal agents for
+some non–albicans species (e.g., Candida krusei) against
+the ready availability of oral and parenteral formulations for the azole antifungal agents. Flucytosine has
+activity against many isolates of Candida but is infrequently used.
+Treatment of mucocutaneous candidiasis.
+Therapy for mucosal infections is dominated by the azole
+antifungal agents. These drugs may be used topically
+or systemically and are safe and efﬁcacious. A signiﬁcant
+problem with mucosal disease is the propensity for a
+small proportion of patients to have repeated relapses.
+In some situations, the explanation for such a relapse
+is obvious (e.g., recurrent oropharyngeal candidiasis in
+an individual with advanced and uncontrolled HIV infection), but in other patients, the cause is cryptic (e.g.,
+relapsing vaginitis in a healthy woman). Rational stratDownloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+162 • CID 2004:38 (15 January) • Pappas et al.
+Table 1.
+Infectious Diseases Society of America–United States Public Health Service grading system for
+rating recommendations in clinical guidelines.
+Category, grade
+Deﬁnition
+Strength of recommendation
+A
+Good evidence to support a recommendation for use
+B
+Moderate evidence to support a recommendation for use
+C
+Poor evidence to support a recommendation
+D
+Moderate evidence to support a recommendation against use
+E
+Good evidence to support a recommendation against use
+Quality of evidence
+1
+Evidence from 1 properly randomized, controlled trial
+2
+Evidence from 1 well-designed clinical trial, without randomization; from cohort
+or case-controlled analytic studies (preferably from 11 center); from multiple
+time-series; or from dramatic results from uncontrolled experiments
+3
+Evidence from opinions of respected authorities, based on clinical experience,
+descriptive studies, or reports of expert committees
+egies for these situations are discussed in the guidelines and
+must consider the possibility of induction of resistance with
+prolonged or repeated exposure.
+Prevention of invasive candidiasis.
+Prophylactic strategies
+are useful if the risk of a target disease is sharply elevated in a
+readily identiﬁed patient group. Selected patient groups undergoing therapy that produces prolonged neutropenia (e.g.,
+some bone marrow transplant recipients) or who receive a
+solid-organ transplant (e.g., some liver transplant recipients)
+have a sufﬁcient risk of invasive candidiasis to warrant
+prophylaxis.
+INTRODUCTION
+Relationship between epidemiology of candidal infections
+and therapy.
+Although Candida albicans remains the most
+common pathogen in oropharyngeal and cutaneous candidiasis, non-albicans species of Candida are increasingly associated
+with invasive candidiasis [1–5]. This shift is particularly problematic in patients with acute life-threatening invasive candidal
+infections. Although the susceptibility of Candida to the currently available antifungal agents can be predicted if the species
+of the infecting isolate is known (table 3) [1, 4, 6, 11–17, 20–
+24], individual isolates do not necessarily follow the general
+pattern. For example, C. albicans is usually susceptible to all
+major agents. However, azole resistance for this species is now
+well described among HIV-infected individuals with recurrent
+oropharyngeal candidiasis and is also reported sporadically in
+critically ill adults with invasive candidiasis [25] or in healthy
+adults [26]. For this reason, susceptibility testing for azole resistance is increasingly used to guide the management of candidiasis in patients, especially in situations where there is failure
+to respond to the initial empirical therapy. On the other hand,
+most Candida isolates appear to remain susceptible to amphotericin B, although recent data suggest that isolates of Candida
+glabrata and C. krusei may require maximal doses of amphotericin B (see next section).
+Susceptibility testing and drug dosing.
+Intensive efforts
+to develop standardized, reproducible, and clinically relevant
+susceptibility testing methods for fungi have resulted in the
+development of the NCCLS M27-A methodology (now updated
+with the essentially identical M27-A2 methodology) for susceptibility testing of yeasts [27, 28]. Data-driven interpretive
+breakpoints using this method are available for testing the susceptibility of Candida species to ﬂuconazole, itraconazole, and
+ﬂucytosine [28–31]. Several features of these breakpoints are
+important. First, these interpretive breakpoints should not be
+applied to other methods without extensive testing. Although
+the M27-A2 methodology is not the only possible way to determine an MIC, use of the M27-A2 interpretive breakpoints
+with other methods should be approached with caution—even
+small methodological variations may produce results that are
+not correctly interpreted by means of these breakpoints. Second, these interpretive breakpoints place a strong emphasis on
+interpretation in the context of the delivered dose of the azole
+antifungal agent. The novel category “susceptibility–dose/delivery dependent” (S-DD) indicates that maximization of dosage and bioavailability are critical to successful therapy (table
+4). In the case of ﬂuconazole, data for both human beings and
+animals suggest that S-DD isolates may be treated successfully
+with a dosage of 12 mg/kg per day [30, 32]. Although trials to
+date have not used this method, administration of twice the
+usual daily dose of ﬂuconazole as a loading dose is a pharmacologically rational way to more rapidly achieve higher
+steady-state blood concentrations. In the case of itraconazole,
+oral absorption is somewhat unpredictable, and achievingblood
+levels of 0.5 mg/mL (as determined by high-performance liquid chromatography) appears to be important to successful
+Downloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+Guidelines for Treatment of Candidiasis • CID 2004:38 (15 January) • 163
+Table 2.
+Summary of treatment guidelines for candidiasis.
+Condition
+Therapy
+Duration
+Comments
+Primary
+Alternative
+Candidemia
+Nonneutropenic adults
+AmB 0.6–1.0 mg/kg per day
+iv; or Flu 400–800 mg/day iv
+or po; or Caspa
+AmB 0.7 mg/kg per day
+plus Flu 800 mg/day for
+4–7 day, then Flu 800
+mg/day
+14 days after last positive
+blood culture and resolution of signs and
+symptoms
+Remove all intravascular
+catheters, if possible
+Children
+AmB 0.6–1.0 mg/kg per day
+iv; or Flu 6 mg/kg q12 h iv
+or po
+Casp
+14–21 days after resolution
+of signs and symptoms
+and negative repeat
+blood cultures
+PK data in children for Casp
+are not available
+Neonates
+AmB 0.6–1.0 mg/kg per day
+iv; or Flu 5–12 mg/kg per
+day iv
+Casp
+14–21 days after resolution
+of signs and symptoms
+and negative repeat
+blood cultures
+PK data in neonates for
+Casp are not available
+Neutropenia
+AmB 0.7–1.0 mg/kg per day
+iv; or LFAmB 3.0–6.0 mg/kg
+per day; or Casp
+Flu 6–12 mg/kg per day iv
+or po
+14 days after last positive
+blood cultures and resolution of signs and symptoms and resolved
+neutropenia
+Removal of all intravascular
+catheters is controversial
+in neutropenic patients;
+gastrointestinal source is
+common
+Chronic disseminated
+candidiasis
+AmB 0.6–0.7 mg/kg per day
+or LFAmB 3–5 mg/kg per
+day
+Flu 6 mg/kg per day or
+Casp
+3–6 months and resolution
+or calciﬁcation of radiologic lesions
+Flu may be given after 1–2
+weeks of AmB therapy if
+clinically stable or
+improved
+Disseminated cutaneous
+neonatal candidiasis
+AmB 0.5–1.0 mg/kg per day
+Flu 6–12 mg/kg per day
+14–21 days after clinical
+improvement
+Treat as for neonatal
+candidemia
+Urinary candidiasis
+See relevant discussion in text
+…
+…
+…
+Osteomyelitis and arthritis
+See relevant discussion in text
+…
+…
+…
+Intra-abdominal candidiasis
+See relevant discussion in text
+…
+…
+…
+Endocarditis
+AmB 0.6–1.0 mg/kg per day
+iv; or LFAmB 3.0–6.0 mg/kg
+per day plus 5-FC 25–37.5
+mg/kg po q.i.d.
+Flu 6–12 mg/kg per day po
+or iv; Casp
+At least 6 weeks after
+valve replacement
+Valve replacement is almost always necessary;
+long-term suppression
+with Flu has been successful for patients who
+cannot undergo valve
+replacement
+Suppurative phlebitis
+See relevant discussion in text
+…
+…
+…
+Meningitis
+See relevant discussion in text
+…
+…
+…
+Endophthalmitis
+AmB 0.7–1.0 mg/kg per day
+iv; or Flu 6–12 mg/kg per
+day po or iv
+…
+6–12 weeks after surgery
+Vitrectomy is usually performed when vitreitis is
+present.
+Mucocutaneous candidiasis
+…
+…
+…
+Oropharyngeal
+Clo 10 mg 5 times/day; or
+Nys 200,000–400,000 U 5
+times/day; or Flu 100–200
+mg/day po
+Itr 200 mg/day po; or AmB
+1 mL q.i.d. po;b or AmB
+10.3 mg/kg per day iv;b
+or Casp 50 mg/day ivb
+7–14 days after clinical
+improvement
+Long-term suppression with
+Flu (200 mg/day) in patients with AIDS and a
+history of OPC is acceptable and does not appear
+to lead to Flu resistance
+Esophageal
+Flu 100–200 mg/day po or iv;
+or Itr 200 mg/day
+Vor 4 mg/kg b.i.d. iv or po;c
+or AmB 0.3–.7 mg/kg per
+day iv;c or Caspc
+14–21 days after clinical
+improvement
+IV therapy is necessary for
+patients with severe and/
+or refractory esophagitis
+Genital candidiasis
+See relevant discussion in text
+…
+…
+…
+NOTE.
+AmB, conventional deoxycholate amphotericin B; Casp, caspofungin; Clo, clotrimazole; Flu, ﬂuconazole; Itr, itraconazole; LF, lipid formulation; Nys,
+nystatin; PK, pharmacological; Vor, voriconazole; 5-FC, 5-ﬂucytosine.
+a Casp dosing in adults consists of 70-mg loading dose followed by 50 mg iv.
+b AmB iv and po and Casp iv are indicated for refractory or pharyngeal candidiasis.
+c Vor, AmB, and Casp are indicated for severe and/or refractory esophageal candidiasis.
+therapy. Finally, these breakpoints were developed on the basis
+of data from 2 groups of infected adult patients: patients with
+oropharyngeal and esophageal candidiasis (for ﬂuconazole and
+itraconazole) and patients with invasive candidiasis (mostly
+nonneutropenic patients with candidemia; for ﬂuconazole
+only) [30] and are supported by subsequent reports [27, 31,
+33, 34]. Although these limitations are similar to those of interpretive breakpoints for antibacterial agents [27], and exDownloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+164 • CID 2004:38 (15 January) • Pappas et al.
+Table 3.
+General patterns of susceptibility of Candida species.
+Candida species
+Fluconazole
+Itraconazole
+Voriconazoled
+Flucytosine
+Amphotericin B
+Candinsa
+C. albicans
+S
+S
+S
+S
+S
+S
+C. tropicalis
+S
+S
+S
+S
+S
+S
+C. parapsilosis
+S
+S
+S
+S
+S
+S (to I?)
+C. glabrata
+S-DD to Rb
+S-DD to Rc
+S to Id
+S
+S to Ie
+S
+C. krusei
+R
+S-DD to Rc
+S to Id
+I to R
+S to Ie
+S
+C. lusitaniae
+S
+S
+S
+S
+S to Rf
+S
+NOTE.
+Except for amphotericin B, interpretations are based on use of the NCCLS M27-A methodology, and the underlying
+data were drawn from a variety of sources [1, 6–9, 10]. The data for amphotericin B also include results of studies in which
+modiﬁcations of the M27-A methodology have been used to enhance detection of amphotericin B–resistant isolates [6, 11,
+12]. See table 4 for the speciﬁc interpretive breakpoints used to construct this table. I, intermediately resistant; R, resistant;
+S, susceptible; S-DD, susceptible-dose/delivery dependent.
+a Susceptibility methods for the echinocandin antifungal agents (caspofungin, micafungin, and anidulafungin) are not standardized, and interpretive criteria are not available. The 3 drugs show generally similar susceptibility patterns and therefore
+are shown as a class. On the basis of this overall pattern of relative MICs [13–16], isolates of C. parapsilosis and C. guilliermondii
+tend to have numerically higher MICs than do the other species. However, the signiﬁcance of this is entirely unknown at
+present, and clinical responses to invasive disease have been observed with all Candida species for caspofungin [17].
+b On the basis of recent surveys of recent bloodstream isolates [1, 4], 10%–15% of C. glabrata isolates are resistant to
+ﬂuconazole.
+c In addition, 46%–53% of C. glabrata isolates and 31% of C. krusei isolates are resistant to itraconazole.
+d The signiﬁcance of voriconazole MICs has yet to be established. On the basis of recent surveys [18], C. glabrata and C.
+krusei have MICs that are consistently higher than those of the other major species. However, these MICs are generally 1
+mg/mL, these isolates are therefore potentially treatable (on the basis of this compound’s achievable blood levels), and
+successful therapy with isolates of these species has been described [19]. The entry in the table is meant to describe this
+current lack of information.
+e On the basis of a combination of in vitro data [4, 11, 20] and in vivo data [21, 22], it appears that a signiﬁcant proportion
+of the isolates of C. glabrata and C. krusei have reduced susceptibility to amphotericin B.
+f Although not seen in all isolates, amphotericin B resistance is well described for isolates of this species [23, 24].
+trapolation of these results to other diagnostic settings appears
+to be rational on the basis of data from in vivo therapy models,
+it is still prudent to consider the limitations of the data when
+making use of the breakpoints. Pharmacology, safety, published
+reports, drug interactions, and isolate susceptibility [27] must
+be considered when selecting a therapy. For example, most
+isolates of Candida are susceptible to itraconazole, but this
+agent only recently became available as a parenteral preparation
+and has not been studied intensively for candidiasis, except for
+treatment of mucosal disease.
+Reliable and convincing interpretive breakpoints are not yet
+available for amphotericin B. The NCCLS M27-A2 methodology does not reliably identify amphotericin B–resistant isolates [6]. Variations of the M27-A2 methodology using different
+media [6], agar-based MIC methods [12, 35, 36], and measurements of minimum fungicidal concentrations [11] appear
+to enhance detection of resistant isolates. Although these methods are as yet insufﬁciently standardized to permit routine use,
+several generalizations are becoming apparent. First, amphotericin B resistance appears uncommon among isolates of Candida albicans, Candida tropicalis, and C. parapsilosis. Second,
+isolates of Candida lusitaniae most often demonstrate readily
+detectable and clinically apparent amphotericin B resistance.
+Not all isolates are resistant [11, 23, 37], but therapeutic failure
+of amphotericin B is well documented [38]. Third, a growing
+body of data suggests that a nontrivial proportion of the isolates
+of C. glabrata and C. krusei may be resistant to amphotericin
+B [4, 11, 20–22]. Of importance, delivery of additional amphotericin B by use of a lipid-based preparation of amphotericin B may be inadequate to overcome this resistance [22]. Also,
+because of in vitro effects of the lipid, tests for susceptibility
+to amphotericin B should always use the deoxycholate rather
+than the lipid formulation [39]. Unfortunately, the clinical relevance of these observations is uncertain. Most rational current
+therapy of infections due to these species (C. lusitaniae, C.
+glabrata, and C. krusei) thus involves (1) awareness of the possibility of true microbiological resistance among the species and
+(2) judicious and cautious use of susceptibility testing. When
+amphotericin B deoxycholate is used to treat infections due to
+C. glabrata or C. krusei, doses of at least 1 mg/kg per day may
+be needed, especially in profoundly immunocompromised
+hosts.
+Meaningful data do not yet exist for other compounds. This
+includes speciﬁcally the newer expanded-spectrum triazoles
+(voriconazole, posaconazole, and ravuconazole) and the echinocandins (caspofungin, micafungin, and anidulafungin). Although MIC data for these compounds are available for all
+major Candida species (table 3), the interpretation of those
+MICs in relation to achievable blood levels is uncertain [29].
+This is particularly true for the echinocandin antifungal agents.
+Practical clinical use of antifungal susceptibility testing.
+Antifungal susceptibility testing has not achieved the status of
+Downloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+Guidelines for Treatment of Candidiasis • CID 2004:38 (15 January) • 165
+Table 4.
+Interpretive breakpoints for isolates of Candida
+species.
+Drug
+MIC range, mg/mL
+Susceptible
+Intermediately
+susceptible
+Resistant
+Fluconazole
+8
+16–32 (S-DDa)
+132
+Itraconazole
+0.125
+0.25–0.5 (S-DDa)
+10.5
+Flucytosine
+4
+8–16
+116
+NOTE.
+Shown are the breakpoints proposed for use with the NCCLS M27A broth susceptibility testing method for Candida species [30]. Isolates of
+Candida krusei are assumed to be intrinsically resistant to ﬂuconazole and
+these breakpoints do not apply.
+a Susceptible-dose/delivery dependent; see Introduction.
+a standard of care and is not widely available, and results of
+testing may not be available for days. The strongest data to
+date are for ﬂuconazole, an agent for which the issues of resistance are most compelling. The greatest concern for ﬂuconazole resistance relates to C. glabrata, for which rates of resistance as high as 15% have been reported [40]. Testing is most
+often used in 1 of 2 ways [27]. First, susceptibility is useful in
+the evaluation of the possible causes of lack of clinical response.
+Second, the data may be used to support a change in therapy
+from a parenteral agent of any class to oral ﬂuconazole. This
+consideration is most relevant when considering outpatient
+therapy and for treating infections that require protracted therapy (e.g., meningitis, endocarditis, and osteomyelitis).
+AVAILABLE DRUGS AND DRUG USE
+The rapid pace of antifungal drug development has resulted in
+the recent licensure of 2 new antifungal drugs (voriconazole
+and caspofungin), along with the active development of 4 others
+(ravuconazole, posaconazole, micafungin, and anidulafungin).
+In addition, new data continue to accumulate for itraconazole
+and the lipid-associated preparations of amphotericin B. Although all these compounds appear to have signiﬁcant activity
+against Candida species, the size of the published clinical database for these compounds for treatment of candidiasis is limited. In an effort to integrate these agents into the guidelines,
+the available data on the newly licensed agents will be summarized here.
+Itraconazole.
+An intravenous preparation of itraconazole
+in hydroxy-propyl-b-cyclodextrin has been licensed. This formulation is administered at a dosage of 200 mg q12h for a
+total of 4 doses (i.e., 2 days) followed by 200 mg/day and was
+licensed on the basis of evidence that this dosing regimen
+achieves adequate blood levels more rapidly and with less patient-to-patient variability than do oral preparations of the drug
+[41–44]. Itraconazole is well known to be active against mucosal
+forms of candidiasis (see Nongenital Mucocutaneous Candidiasis, below), but the availability of an intravenous form of
+itraconazole allows for treatment of invasive disease. Although
+itraconazole would be expected to have activity broadly similar
+to that of ﬂuconazole, the 2 compounds have quite different
+pharmacological properties and clinical activities for other mycoses [45]. Moreover, formal studies of intravenous itraconazole for invasive candidiasis are not available. Therefore, the
+discussion of therapy for invasive candidiasis will generally not
+address intravenous itraconazole.
+Voriconazole and the newer azole antifungal agents.
+Voriconazole is available in both oral and parenteral preparations.
+It is as active as ﬂuconazole against esophageal candidiasis,
+although it was associated with more adverse events in a recent
+study [46]. Among 4 pediatric patients who received voriconazole as salvage therapy, candidemia cleared in 2 of 2 patients
+and disseminated candidiasis resolved in 1 of 2 patients [47].
+It is notable that voriconazole appears to have the potential to
+be active against some ﬂuconazole-resistant isolates. Of 12 HIVinfected subjects with ﬂuconazole-refractory esophageal candidiasis due to C. albicans, 7 were cured and the conditions of
+3 improved because of treatment with voriconazole [48]. Consistent with its activity against C. krusei in a guinea pig model
+[49], recent experience from open-label protocols reported response in 7 (70%) of 10 patients with invasive disease due to
+this species [19]. On the basis of these data, voriconazole received an indication in the European Union for “treatment of
+ﬂuconazole-resistant serious invasive Candida infections (including C. krusei).” Voriconazole is not currently licensed for
+this indication in the United States, awaiting an analysis of a
+recently
+completed
+worldwide
+study
+of
+its
+activity
+in
+candidemia.
+The in vitro anti-Candida activity of the other azoles under
+active development (posaconazole and ravuconazole) also appears to be good [50]. The available clinical data for posaconazole include reports of successful salvage therapy for invasive
+candidiasis [51], successful salvage therapy of azole-refractory
+oropharyngeal candidiasis in HIV-infected individuals [52], and
+2 randomized comparisons showing efﬁcacy comparable with
+that of ﬂuconazole for non–azole-refractory esophageal candidiasis [53, 54]. The available data for ravuconazole include
+a randomized phase II dose-ranging study showing efﬁcacy
+comparable with that of ﬂuconazole for non–azole-refractory
+esophageal candidiasis [55].
+Caspofungin and the echinocandin antifungal agents.
+Caspofungin is the ﬁrst of the echinocandin antifungal agents
+to be licensed. As with all of the agents of this class, this agent
+is only available as a parenteral preparation, and its spectrum
+is largely limited to Candida and Aspergillus species. Of particular relevance for use as empirical treatment, the agents of
+this class do not appear to have signiﬁcant activity against
+Cryptococcus neoformans or against ﬁlamentous fungi other
+than Aspergillus [56].
+Downloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+166 • CID 2004:38 (15 January) • Pappas et al.
+Caspofungin has been shown to be as effective as both amphotericin B deoxycholate and ﬂuconazole when used as therapy for oropharyngeal and esophageal candidiasis [57–60].
+Likewise, Mora-Duarte et al. [17] found that caspofungin (70mg loading dose followed by 50 mg/day in adults) was equivalent to but better tolerated than was amphotericin B deoxycholate (0.6–1.0 mg/kg per day) for cases of invasive candidiasis
+(83% of which were candidemia, 10% of which were peritonitis,
+and 7% of which were miscellaneous cases). Finally, caspofungin was effective in 72% of patients with ﬂuconazole-resistant
+esophageal candidiasis [61]. This agent appears to be active
+against all Candida species; however, the MICs for some isolates
+of C. parapsilosis and Candida guilliermondii are relatively
+higher. The meaning of these higher MICs is still being investigated, but the data from the aforementioned study by MoraDuarte et al. [17] hint at their possible clinical relevance [62].
+Although C. parapsilosis caused only 19% of cases of fungemia
+in the caspofungin-treated group in that study, it was associated
+with 42% cases of persistent fungemia. Conversely, the species
+distribution of cases of persistent fungemia for amphotericin
+B–treated patients more closely paralleled the distribution of
+infecting species. It must be emphasized, however, that the total
+number of cases is very small and that the overall success rates
+for treatment of infections due to C. parapsilosis were similar
+between the study arms. Thus, these data suggest that echinocandins may be used successfully for treatment of C. parapsilosis fungemia but that the physician should be aware of the
+possibility that this species might respond less readily to this
+class of agents.
+The in vitro activity of the other 2 agents in this category
+(anidulafungin and micafungin) against Candida species appears quite similar to that of caspofungin, and clinical data are
+expected to support similar patterns of utility. However, available clinical data for these agents are as yet limited to openlabel dose-ranging studies of micafungin for treatment of
+esophageal candidiasis [63–65], open-label studies of anidulafungin for esophageal candidiasis [66], open-label data on
+micafungin administered to patients with candidemia [67, 68],
+and a randomized, double-blind comparison of micafungin
+with ﬂuconazole as prophylaxis during the period of risk for
+neutropenia following bone marrow transplantation [69].
+Amphotericin B deoxycholate and the lipid-associated formulations of amphotericin B.
+The majority of the experience
+with amphotericin B is with its classic deoxycholate preparation. However, 3 lipid-associated formulations of amphotericin
+B have been developed and approved for use in humans: amphotericin B lipid complex (ABLC) (Abelcet; Enzon), amphotericin B colloidal dispersion (ABCD) (Amphotec [in the
+United States] and Amphocil [elsewhere]; InterMune), and liposomal amphotericin B (AmBisome; Vestar). The names of
+these compounds, along with the requirement for use of the
+lipid-associated formulations at much higher doses than the
+deoxycholate preparation, have led to much confusion. The
+reader should note carefully that (1) “liposomal amphotericin
+B” is the name of a speciﬁc lipid-associated product, (2) a useful
+general term for the class is “lipid-associated formulations of
+amphotericin B,” (3) the 3 lipid-associated formulations of
+amphotericin B have different pharmacological properties and
+rates of treatment-related adverse events and thus should not
+be interchanged without careful consideration, (4) the typical
+intravenous dose for amphotericin B deoxycholate is 0.6–1.0
+mg/kg per day, and (e) the typical dosage for the lipid-associated formulations when used for candidiasis is 3–5 mg/kg per
+day.
+In this document, a reference to “intravenous amphotericin
+B” without a speciﬁc dose or other discussion of form should
+be taken to be a reference to the general use of any of the
+preparations of amphotericin B, with the understanding that
+the clinical experience is greatest with amphotericin B deoxycholate for essentially all forms of candidiasis and classes of
+patients. On the other hand, references to a speciﬁc formulation
+and dosage indicate more-speciﬁc data. We are not aware of
+any forms of candidiasis for which a lipid-associated formulation of amphotericin B is superior to amphotericin B deoxycholate [70], but we are also not aware of any situations in
+which a lipid-associated formulation would be contraindicated.
+The only possible exception is urinary candidiasis in which the
+protection of the kidney afforded by the altered pharmacological properties of the lipid-associated preparations of amphotericin B [71] has the theoretical potential to reduce delivery
+of amphotericin B and thus slow the pace of response [72].
+The relative paucity of organized clinical data does, however,
+produce uncertainty regarding the optimal dose and duration
+of therapy with these agents.
+Only ABLC and liposomal amphotericin B have been approved for use in proven cases of candidiasis. These approvals
+are for second-line therapy for patients who are intolerant of
+or have an infection refractory to therapy with conventional
+amphotericin B deoxycholate; these circumstances were deﬁned
+in one study in which ABLC was administered as failure of
+therapy with amphotericin B deoxycholate (500 mg), initial
+renal insufﬁciency (creatinine level of 2.5 mg/dL or creatinine
+clearance of !25 mL/min), a signiﬁcant increase in creatinine
+level (up to 2.5 mg/dL in adults or 1.5 mg/dL in children [73]),
+or severe, acute, administration-related toxicity. Patients with
+invasive candidiasis also have been treated successfully with
+ABCD [74, 75]. Both in vivo and clinical studies indicate that
+these compounds are less toxic but as effective as amphotericin
+B deoxycholate when used in appropriate dosages [76, 77].
+Nevertheless, their higher cost and the paucity of randomized
+trials of their efﬁcacy against proven invasive candidiasis limit
+their front-line use for treatment of these infections. These
+Downloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+Guidelines for Treatment of Candidiasis • CID 2004:38 (15 January) • 167
+agents dramatically alter the pharmacology of amphotericin B,
+and the full implications of these changes are not yet known
+[78, 79].
+Although amphotericin B deoxycholate has long been the
+standard agent for treatment of invasive candidiasis, the toxicity
+of this preparation is increasingly appreciated. Lipid-associated
+preparations have previously been considered primarily for patients who are intolerant of or have an infection refractory to
+the deoxycholate preparation. However, data showing that amphotericin B–induced nephrotoxicity may be associated with
+an up to 6.6-fold increase in mortality [80] makes consideration
+of initial use of lipid-associated amphotericin B appropriate for
+individuals who are at high risk of being intolerant of amphotericin B deoxycholate (e.g., those who require prolonged therapy; have preexisting renal dysfunction; or require continued
+concomitant use of another nephrotoxic agent, such as cisplatinum, an aminoglycoside, or cyclosporine [81, 82]). Some
+authors have also suggested that residence in an intensive care
+unit (ICU) or an intermediate care unit at the time of initiation
+of amphotericin B deoxycholate therapy is an additional risk
+factor for renal failure [82]. Additional work is required to help
+identify those individuals who can safely tolerate the deoxycholate preparation. The lipid-associated agents are licensed to
+be administered at the following dosages: ABLC, 5 mg/kg per
+day; ABCD, 3–6 mg/kg per day; and liposomal amphotericin
+B, 3–5 mg/kg per day. The optimal dosages of these compounds
+for serious Candida infections is unclear, and the agents appear
+generally equipotent. Dosages of 3–5 mg/kg would appear suitable for treatment of most serious candidal infections [83, 84].
+Appropriate dosages in pediatric patients.
+The topic of
+the pharmacological properties of antifungal agents in children
+and infants has been reviewed in detail [85]. Data on dosing
+for the antifungal agents in pediatric patients are limited. Amphotericin B deoxycholate appears to have similar kinetics in
+neonates and adults [86]. A phase I and II study of ABLC (2–
+5 mg/kg per day) in the treatment of hepatosplenic candidiasis
+in children found that the area under the curve and the maximal
+concentration of drug were similar to those of adults and that
+steady-state concentration appeared to be achieved after ∼7
+days of therapy [83]. Anecdotal data suggest that liposomal
+amphotericin B can be used in neonates [87]. Because clearance
+of ﬂucytosine is directly proportional to glomerular ﬁltration
+rate, infants with very low birth weight may accumulate high
+plasma concentrations because of immature renal function
+[88].
+The pharmacokinetics of ﬂuconazole vary with age [89–92].
+Because of its more rapid clearance in children (plasma halflife, ∼14 h) [89], ﬂuconazole at a dosage of 6 mg/kg q12h
+should be administered for treatment of life-threatening infections. In comparison with the volume of distribution seen in
+adults (0.7 L/kg), neonates may have a 2–3-fold higher volume
+of distribution that falls to !1 L/kg by 3 months of age. In
+comparison with the half-life of ﬂuconazole in adults (30 h),
+the half-life in neonates is 55–90 h [93]. Despite this prolonged
+half-life, once-daily dosing seems prudent in infants with low
+or very low birth weight who are being treated for disseminated
+candidiasis. A dosage of 5 mg/kg per day has been used safely
+and successfully in this population [94].
+Itraconazole cyclodextrin oral solution (5 mg/kg per day)
+administered to infants and children was found to provide
+potentially therapeutic concentrations in plasma [95]. The levels were, however, substantially lower than those attained in
+adult patients with cancer, particularly in children aged between
+6 months and 2 years. A recent study of itraconazole cyclodextrin oral solution (2.5 mg/kg per day and 5 mg/kg per day)
+in HIV-infected children documented its efﬁcacy for treating
+oropharyngeal candidiasis in pediatric patients [96]. The newly
+licensed intravenous formulation of itraconazole has not been
+studied in pediatric patients.
+The published data on the use of the echinocandins in pediatric or neonatal patients includes small numbers of patients
+treated with caspofungin and micafungin [97–99]. The data
+suggest safety and efﬁcacy in such patients.
+TREATMENT GUIDELINES OVERVIEW
+These practice guidelines provide recommendations for treatment of various forms of candidiasis. For each form, we specify
+objectives; treatment options; outcomes of treatment; evidence;
+values; beneﬁts, harms, and costs; and key recommendations.
+Please see the discussion above with regard to available therapeutic agents: the amount of data on the newest agents (caspofungin and voriconazole) is quite limited, and they will be
+mentioned below only in reference to selected presentations of
+candidiasis.
+CANDIDEMIA AND ACUTE HEMATOGENOUSLY
+DISSEMINATED CANDIDIASIS
+Objective.
+To resolve signs and symptoms of associated
+sepsis, to sterilize the bloodstream and any clinically evident
+sites of hematogenous dissemination, and to treat occult sites
+of hematogenous dissemination.
+Treatment options.
+Intravenous amphotericin B, intravenous or oral ﬂuconazole, intravenous caspofungin, or the
+combination of ﬂuconazole plus amphotericin B (with the amphotericin B administered for the ﬁrst 5–6 days only). Flucytosine could be considered in combination with amphotericin
+B for more-severe infections (C-III; see table 1 and Sobel [100]
+for deﬁnitions of categories reﬂecting the strength of each recommendation for or against its use and grades reﬂecting the
+quality of evidence on which recommendations are based). ReDownloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+168 • CID 2004:38 (15 January) • Pappas et al.
+moval of existing intravascular catheters is desirable, if feasible,
+especially in nonneutropenic patients (B-II).
+Outcomes.
+Clearance of bloodstream and other clinically
+evident sites of infection, symptomatic improvement, absence
+of retinal ﬁndings of Candida endophthalmitis, and adequate
+follow-up to ensure that late-appearing symptoms of focal hematogenous spread are not overlooked.
+Evidence.
+Candida bloodstream infections are increasingly
+frequent [101, 102] and are often associated with clinical evidence of sepsis syndrome and high associated attributable mortality [103, 104]. In addition, hematogenous seeding may compromise the function of 1 organ. Two large randomized
+studies [105, 106] and 2 large observational studies [107, 108]
+have demonstrated that ﬂuconazole (400 mg/day) and amphotericin B deoxycholate (0.5–0.6 mg/kg per day) are similarly
+effective as therapy. A large randomized study has demonstrated
+that caspofungin (70 mg on the ﬁrst day followed by 50 mg/
+day) is equivalent to amphotericin B deoxycholate (0.6–1.0 mg/
+kg per day) for invasive candidiasis (mostly candidemia) [17].
+Caspofungin was better tolerated and had a superior response
+rate in a predeﬁned secondary analysis of evaluable patients. A
+comparison of ﬂuconazole (800 mg/day) with the combination
+of ﬂuconazole (800 mg/day) plus amphotericin B deoxycholate
+(∼0.7 mg/kd per day for the ﬁrst 5–6 days) as therapy for
+candidemia was confounded by differences in severity of illness
+between the study groups, but the study found the regimens
+to be comparable and noted a trend toward better response
+(based principally on more-effective bloodstream clearance) in
+the group receiving combination therapy. The randomized
+studies are largely limited to nonneutropenic patients, whereas
+the observational studies provide data suggesting that ﬂuconazole and amphotericin B are similarly effective in neutropenic
+patients. ABLC and liposomal amphotericin B are indicated for
+patients intolerant of or with infection refractory to conventional antifungal therapy. Open-label therapy of candidemia
+with ABCD (2–6 mg/kg per day) has been successful [75]. In
+a randomized trial, ABLC (5 mg/kg per day) was found to be
+equivalent to amphotericin B deoxycholate (0.6–1.0 mg/kg per
+day) as therapy for nosocomial candidiasis [109].
+Values.
+Without adequate therapy, endophthalmitis, endocarditis, and other severe disseminated forms of candidiasis
+may complicate candidemia. Given the potential severity of the
+clinical syndrome, it is important that the initial empirical
+choice be adequate to address the most likely species and their
+associated susceptibility to the various agents. Candidemia due
+to C. parapsilosis has increased in frequency in pediatric populations and appears to be associated with a lower mortality
+rate than is candidemia due to other species of Candida [110–
+113]. Candidemia due to C. glabrata may be associated with
+increased mortality in patients with cancer [113]. In neonates,
+a duration of candidemia of 5 days has been linked to the
+likelihood of ophthalmologic, renal, and cardiac involvement
+[114].
+Beneﬁts, harms, and costs.
+Effective therapy is potentially
+lifesaving. Amphotericin B–induced nephrotoxicity can complicate management of critically ill patients.
+Key recommendations.
+If feasible, initial nonmedicalmanagement should include removal of all existing central venous
+catheters (B-II). The evidence for this recommendation is
+strongest for the nonneutropenic patient population [108, 115,
+116] and includes data in which catheter removal was associated
+with reduced mortality in adults [108, 116] and neonates [117].
+In neutropenic patients, the role of the gut as a source for
+disseminated candidiasis is evident from autopsy studies, but,
+in an individual patient, it is difﬁcult to determine the relative
+contributions of the gut and a catheter as primary sources of
+fungemia [107, 108, 118]. An exception is made for fungemia
+due to C. parapsilosis, which is very frequently associated with
+use of catheters (A-II) [107]. There are, however, no randomized studies of this topic, and a recent exhaustive review [119]
+clearly demonstrates the limitations of the available data. However, the consensus opinion is that existing central venous catheters should be removed, when feasible [120]. Anecdotal reports
+of successful in situ treatment of infected catheters by instillation of antibiotic lock solutions containing as much as 2.5
+mg/mL of amphotericin B deoxycholate [121–125] suggest this
+as an option in selected cases, but the required duration of
+therapy and the frequency of relapse are not known.
+Initial medical therapy should involve caspofungin, ﬂuconazole, an amphotericin B preparation, or combination therapy
+with ﬂuconazole plus amphotericin B. The choice between these
+treatments depends on the clinical status of the patient, the
+physician’s knowledge of the species and/or antifungal susceptibility of the infecting isolate, the relative drug toxicity, the
+presence of organ dysfunction that would affect drug clearance,
+available knowledge of use of the drug in the given patient
+population, and the patient’s prior exposure to antifungal
+agents. Experience with caspofungin (a 70-mg loading dose
+followed by 50 mg daily) is, as yet, limited, but its excellent
+clinical activity [17], its broad-spectrum activity against Candida species, and a low rate of treatment-related adverse events
+make it a suitable choice for initial therapy in adults (A-I). For
+clinically stable patients who have not recently received azole
+therapy, ﬂuconazole (6 mg/kg per day; i.e., 400 mg/day for
+a 70-kg patient) is another appropriate choice (A-I) [126, 127].
+For clinically unstable patients infected with an unspeciated
+isolate, ﬂuconazole has been used successfully, but many authorities prefer amphotericin B deoxycholate (0.7 mg/kg per
+day) [126, 127] because of its broader spectrum. If a lipidassociated formulation of amphotericin B is selected, a dosage
+of at least 3 mg/kg/d appears suitable (C-III). A combination
+of ﬂuconazole (800 mg/day) plus amphotericin B deoxycholDownloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+Guidelines for Treatment of Candidiasis • CID 2004:38 (15 January) • 169
+ate (0.7 mg/kg per day for the ﬁrst 5–6 days) is also suitable
+(A-I).
+Neonates with disseminated candidiasis are usually treated
+with amphotericin B deoxycholate because of its low toxicity
+and because of the relative lack of experience with other agents
+in this population. Fluconazole (6–12 mg/kg per day) has been
+used successfully in small numbers of neonates [128–131].
+There are currently no data on the pharmacokinetics of caspofungin in neonates.
+Antifungal susceptibility can be broadly predicted once the
+isolate has been identiﬁed to the species level (see the subsection
+Susceptibility testing and drug dosing, in the Introduction).
+Infections with C. albicans, C. tropicalis, and C. parapsilosis may
+be treated with amphotericin B deoxycholate (0.6 mg/kg per
+day), ﬂuconazole (6 mg/kg per day), or caspofungin (70-mg
+loading dose followed by 50 mg/day) (A-I). Because C. glabrata
+often has reduced susceptibility to both azoles and amphotericin B, opinions on the best therapy are divided [127]. Both
+C. krusei and C. glabrata appear susceptible to caspofungin,
+and this agent appears to be a good alternative (A-I). Although
+fungemia due to C. glabrata has been treated successfully with
+ﬂuconazole (6 mg/kg per day) [105, 132], many authorities
+prefer amphotericin B deoxycholate (0.7 mg/kg per day) (BIII) [127]. On the basis of pharmacokinetic predictions [133],
+ﬂuconazole (12 mg/kg per day; 800 mg/day for a 70-kg patient)
+may be a suitable alternative, particularly in less-critically ill
+patients (C-III). If the infecting isolate is known or likely to
+be C. krusei, available data suggest that amphotericin B deoxycholate (1.0 mg/kg per day) is preferred (C-III). On the basis
+of data on open-label salvage therapy, voriconazole is licensed
+in Europe (but not the United States) for “treatment of ﬂuconazole-resistant serious invasive Candida infections (including C. krusei)” [19] and could be considered as an alternative
+choice (B-III). Many, but not all, isolates of C. lusitaniae are
+resistant to amphotericin B. Therefore, ﬂuconazole (6 mg/kg
+per day) is the preferred therapy for this species (B-III). Both
+voriconazole and caspofungin would be expected to be active
+against this species (C-III). Issues associated with selection and
+dosage of the lipid amphotericin preparations are discussed in
+the Introduction. As discussed above and elsewhere, susceptibility testing may be used to identify isolates that are less likely
+to respond to ﬂuconazole (A-II) or amphotericin B (B-II) (table
+3) [27, 30].
+For candidemia, therapy should be continued for 2 weeks
+after the last positive blood culture result and resolution of
+signs and symptoms of infection (A-III). Amphotericin B or
+caspofungin may be switched to ﬂuconazole (intravenous or
+oral) for completion of therapy (B-III). Patients who are neutropenic at the time of developing candidemia should receive
+a recombinant cytokine that accelerates recovery from neutropenia (granulocyte colony-stimulating factor or granulocytemonocyte colony-stimulating factor) [134]. Other forms of immunosuppression should be modiﬁed, when possible (e.g., by
+reduction of a corticosteroid dosage).
+Breakthrough (or persistence of) candidemia in the face of
+ongoing antifungal therapy suggests the possibility of an infected intravascular device [135], signiﬁcant immunosuppression [136], or microbiological resistance. Therapy with an agent
+from a different class should be started, the isolate should be
+promptly identiﬁed to the species level, and susceptibility testing should be considered. Infected intravascular devices should
+be removed, when feasible, and immunosuppression should be
+ameliorated.
+Finally, all patients with candidemia should undergo at least
+1 ophthalmological examination to exclude the possibility of
+candidal endophthalmitis (A-II). Although some authors have
+suggested that examinations should be conducted for 2 weeks
+after negative ﬁndings of an initial examination [137], these
+recommendations are based on small numbers of patients. The
+results of large prospective therapy studies that included careful
+ophthalmological examinations suggest that onset of retinal
+lesions is rare following an otherwise apparently successful
+course of systemic therapy (there were no such cases in 441
+successfully treated subjects [17, 105, 132]. We thus conclude
+that candidemic individuals should have at least 1 careful ophthalmological examination, preferably at a time when the candidemia appears controlled and new spread to the eye is unlikely
+(B-III). These data and recommendations are based almost
+entirely on experience in the treatment of nonneutropenic patients—neutropenic patients may not manifest visible endophthalmitis until recovery from neutropenia, and, therefore,
+ophthalmological examination should be performed after recovery of the neutrophil count.
+EMPIRICAL TREATMENT OF SUSPECTED
+DISSEMINATED CANDIDIASIS IN FEBRILE
+NONNEUTROPENIC PATIENTS
+Objective.
+To treat early occult Candida infection.
+Treatment options.
+Intravenous amphotericin B or intravenous or oral ﬂuconazole.
+Outcomes.
+Reduction in fever and prevention of development of overt candidal bloodstream infection and the complications
+associated
+with
+hematogenously disseminated
+candidiasis.
+Evidence.
+Although Candida is now the fourth most common bloodstream isolate and is the most common invasive
+fungal infection in critically ill nonneutropenic patients, accurate early diagnostic tools for invasive candidiasis are lacking.
+One study found that candidemia increased the length of hospitalization by 22 days and increased costs by $34,000–$44,000
+[138]. Colonization by Candida of multiple nonsterile sites,
+Downloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+170 • CID 2004:38 (15 January) • Pappas et al.
+prolonged use of antibacterial antibiotics, presence of central
+venous catheters, hyperalimentation, surgery (especiallysurgery
+that transects the gut wall), and prolonged ICU stay have all
+been linked to increased risk of invasive candidiasis [139–141].
+Although empirical therapy is intuitively attractive, colonization does not always imply infection [142], and compelling
+data that deﬁne appropriate subsets of patients for such therapy
+are lacking.
+Values.
+Prevention of clinically evident invasivecandidiasis
+could potentially reduce morbidity and mortality.
+Beneﬁts, harms, and costs.
+Given the ill-deﬁned nature
+of this syndrome, preference is often given to therapies with
+lesser toxicity. Widespread use of inappropriate antifungal therapy may have deleterious epidemiological consequences, including selection of resistant organisms.
+Key recommendations.
+The utility of antifungal therapy
+for this syndrome has not been deﬁned. If therapy is given, its
+use should be limited to patients with (1) Candida species
+colonization (preferably at multiple sites [139, 143]), (2) multiple other risk factors, and (3) absence of any other uncorrected
+causes of fever (C-III) [127]. The absence of colonization by
+Candida species indicates a lower risk for invasive candidiasis
+and warrants delaying empirical therapy.
+EMPIRICAL ANTIFUNGAL TREATMENT OF
+NEUTROPENIC PATIENTS WITH PROLONGED
+FEVER DESPITE ANTIBACTERIAL THERAPY
+Objective.
+To treat early occult fungal infection and prevent fungal infection in high-risk patients.
+Treatment options.
+Empirical therapy should address both
+yeast and mould infections. Until recently, amphotericin B was
+the only sufﬁciently broad-spectrum agent available in a reliable
+parenteral form. Itraconazole has an adequate antifungal spectrum of activity and has been shown to have activity equivalent
+to that of amphotericin B [144]. If itraconazole is used, initiation of therapy with the intravenous formulation is appropriate, because the bioavailability of the current oral formulations of itraconazole (including the cyclodextrin solution) is
+unpredictable [145, 146]. Fluconazole may be inappropriate
+because of prior exposure and its limited spectrum. Voriconazole has been shown to be active in high-risk patients (e.g.,
+allogeneic bone marrow transplant recipients and individuals
+with relapsed leukemia) for prevention of breakthrough fungal
+infections [147]. The role of caspofungin and the other echinocandin antifungal agents in the treatment of such patients is
+uncertain.
+Outcomes.
+Resolution of fever and prevention of development of clinically overt infection.
+Evidence.
+This clinical condition has recently been reviewed, and there is a related guideline from the IDSA [134].
+Randomized, prospective clinical trials have demonstrated that
+neutropenic patients with persistent fever despite receipt of
+broad-spectrum antimicrobial therapy have an ∼20% risk of
+developing an overt invasive fungal infection [148, 149]. Empirical antifungal therapy reduces the frequency of development
+of clinically overt invasive fungal infection in this high-risk
+population [148–150].
+Values.
+Early antifungal therapy is more likely to succeed
+in neutropenic patients. Advanced infection is associated with
+high morbidity and mortality.
+Beneﬁts, harms, and costs.
+Early treatment of fungal infections should reduce fungal infection–associated morbidity.
+Key recommendations.
+Antifungal therapy is appropriate
+in neutropenic patients who have persistent unexplained fever,
+despite receipt of 4–7 days of appropriate antibacterial therapy.
+Once begun, therapy is continued until resolution of neutropenia. Amphotericin B deoxycholate (0.5–0.7 mg/kg per day)
+has traditionally been the preferred agent (A-II). When compared with amphotericin B deoxycholate (median dose, 0.6 mg/
+kg per day), liposomal amphotericin B (median dose, 3 mg/kg
+per day) showed similar overall clinical efﬁcacy but demonstrated superior safety and a decreased rate of documented
+breakthrough fungal infections, particularly in recipients of
+bone marrow transplants (A-I) [151]. When compared with
+amphotericin B deoxycholate (mean daily dose, 0.7 mg/kg),
+itraconazole (200 mg iv q12h for 2 days, 200 mg iv per day
+for 12 days, and then 400-mg solution po per day) showed
+similar breakthrough fungal infection rates and mortality but
+signiﬁcantly less toxicity (A-I) [144]. Although the data are
+controversial because some analyses show that voriconazole
+was, overall, slightly inferior to liposomal amphotericin B [147,
+152–155], voriconazole has been shown to be superior to liposomal amphotericin B in the prevention of breakthrough
+fungal infections in high-risk patients (A-I). Thus, use of this
+compound should be limited to allogeneic bone marrow transplant recipients and individuals with relapsed leukemia. Fluconazole (400 mg/day) has been used successfully for selected
+patients (A-I) [156–158] and could be considered as an alternative strategy [127] if (1) the patient is at low risk for invasive
+aspergillosis, (2) the patient lacks any other signs or symptoms
+suggesting aspergillosis, (3) local epidemiologic data suggest
+that the patient is at low risk for infection with azole-resistant
+isolates of Candida, and (4) the patient has not received an
+azole antifungal agent as prophylaxis.
+CHRONIC DISSEMINATED CANDIDIASIS
+(HEPATOSPLENIC CANDIDIASIS)
+Objective.
+To eradicate foci of chronic disseminated
+candidiasis.
+Treatment options.
+Intravenous amphotericin B or intraDownloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+Guidelines for Treatment of Candidiasis • CID 2004:38 (15 January) • 171
+venous or oral ﬂuconazole. Flucytosine in combination with
+one of these agents could be considered for more-refractory
+infections.
+Outcomes.
+Resolution of clinical signs and symptoms of
+infection and resolution of radiographic ﬁndings of visceral
+involvement.
+Evidence. Open-label and observational studies have evaluated the utility of amphotericin B deoxycholate [159, 160],
+lipid-associated amphotericin B [83], and ﬂuconazole [161,
+162]. A recent case report suggests that caspofungin might have
+activity against this form of candidiasis [163].
+Values.
+This syndrome is not acutely life-threatening but
+does require prolonged therapy to produce a cure. Thus, importance is placed on use of a convenient and nontoxic longterm regimen.
+Beneﬁts, harms, and costs.
+Amphotericin B, although efﬁcacious, must be administered intravenously. Fluconazole can
+be given orally.
+Key recommendations.
+Fluconazole (6 mg/kg per day) is
+generally preferred for clinically stable patients (B-III). Amphotericin B deoxycholate (0.6–0.7 mg/kg per day) or a lipidassociated formulation of amphotericin B (3–5 mg/kg per day)
+may be used in acutely ill patients or patients with refractory
+disease. Some experts recommend an initial 1–2-week course
+of amphotericin B for all patients, followed by a prolonged
+course of ﬂuconazole [126]. Therapy should be continued until
+calciﬁcation or resolution of lesions, particularly in patients
+receiving continued chemotherapy or immunosuppression.
+Premature discontinuation of antifungal therapy may lead to
+recurrent infection. Patients with chronic disseminated candidiasis may continue to receive chemotherapy, including ablative therapy for recipients of bone marrow and/or stem cell
+transplants. Treatment of chronic disseminated candidiasis in
+such patients continues throughout chemotherapy [160].
+DISSEMINATED CUTANEOUS NEONATAL
+CANDIDIASIS
+Objective.
+To treat infants with disseminated cutaneous
+neonatal candidiasis (also known as congenital candidiasis)who
+are at high risk for developing acute disseminated candidiasis.
+Treatment options.
+In healthy infants with normal birth
+weight, treatment of primary cutaneous candidiasis with topical
+agents is generally appropriate. In patients at risk for acute
+bloodstream or visceral dissemination, therapies used for acute
+disseminated candidiasis are appropriate.
+Outcomes.
+The neonatal candidiasis syndrome is a unique
+syndrome in which widespread dermatitis due to Candida infection is seen in neonates. This syndrome is thought to be
+secondary to contamination of the amniotic ﬂuid, and, in
+healthy-term infants, this process is usually limited to the skin
+and resolves with topical therapy [164]. However, neonates
+born prematurely or infants with low birth weight and prolonged rupture of cutaneous membranes, the cutaneous process
+may become invasive and produce acute disseminated candidiasis [165].
+Evidence.
+Essentially all data are derived from small case
+series and individual reports. Most reports have been limited
+to use of amphotericin B.
+Values.
+If not treated, acute disseminated candidiasis may
+develop, which can be lethal.
+Beneﬁts, harms, and costs.
+Amphotericin B deoxycholate
+therapy is generally well tolerated in neonates. Fluconazole has
+not been as well studied. In particular, the pharmacological
+properties of ﬂuconazole vary with neonatal age, making the
+choice of dosage somewhat difﬁcult [86, 90, 91].
+Key recommendations.
+Prematurely born neonates, neonates with low birth weight, or infants with prolonged rupture
+of membranes who demonstrate the clinical ﬁndings associated
+with disseminated neonatal cutaneous candidiasis should be
+considered for systemic therapy. Amphotericin B deoxycholate
+(0.5–1 mg/kg per day, for a total dose of 10–25 mg/kg) is
+generally used (B-III). Fluconazole may be used as a secondline agent (B-III). Dosing issues for neonates are discussed in
+the subsection Appropriate dosages for pediatric patients, in
+the section Available Drugs and Drug Use (above).
+URINARY CANDIDIASIS
+Objective.
+To eradicate signs and symptoms associated
+with parenchymal infection of the urinary collecting system. In
+select patients, such therapy might reduce the risk of ascending
+or disseminated infection.
+Treatment options.
+Fluconazole (oral or intravenous),amphotericin B (intravenous), or ﬂucytosine (oral). Because of
+bladder irrigation, amphotericin B fails to treat disease above
+the level of the bladder.
+Outcome.
+Clearance of infection in urine.
+Evidence.
+Urinary candidiasis includes an ill-deﬁned
+group of syndromes [166]. The most common risk factors for
+candiduria include urinary tract instrumentation, recent receipt
+of antibiotic therapy, and advanced age [167]. Candida species
+are now the organisms most frequently isolated from the urine
+of patients in surgical ICUs. In most patients, isolation of Candida species represents only colonization as a benign event. In
+individuals with candidemia, Foley catheter change alone rarely
+results in clearance of candiduria (!20%). However, discontinuation of catheter use alone may result in eradication of candiduria in almost 40% of patients [168] (B-III). A recently
+completed placebo-controlled trial found that ﬂuconazole (200
+mg/day for 14 days) hastened the time to negative results of
+urine culture but that the frequency of negative urine culture
+Downloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+172 • CID 2004:38 (15 January) • Pappas et al.
+results was the same in both treatment groups 2 weeks after
+the end of therapy (∼60% for catheterized patients and ∼73%
+for noncatheterized patients) [168]. The minimal utility of antifungal therapy against urinary candidiasis is also supported
+by a recent large observational study [169]. On the other hand,
+candidal urinary tract infections that were accompanied by
+radiographic evidence of a bezoar have responded to ﬂuconazole alone [131]. In other patients (e.g., those with obstructive
+uropathy), candiduria may rarely be the source of subsequent
+dissemination [170] or a marker of acute hematogenous dissemination [166]. These concerns are especially applicable to
+neutropenic patients, patients without current or recent placement of medical instruments in the urinary tract, and infants
+with low birth weight. Data on the outcome of therapy are
+limited by the heterogeneity of the underlying diseases and by
+the lack of clear deﬁnitions.
+Values.
+Treatment of asymptomatic candiduria in nonneutropenic catheterized patients has never been shown to be
+of value. Treatment with ﬂuconazole will brieﬂy clear funguria
+in approximately one-half of treated patients, but recurrence
+is prompt, selection of resistant Candida species is possible, and
+therapy does not appear to alter clinical outcome [168]. Candiduria in neutropenic patients, critically ill patients in ICUs,
+infants with low birth weight, and recipients of a transplant
+may be an indicator of disseminated candidiasis.
+Beneﬁts, harms, and costs.
+Treatment of appropriately selected patients may reduce the risk of ascending and/or hematogenously disseminated disease. Treatment of persistently
+febrile patients who have candiduria but who lack evidence for
+infection at other sites may treat occult disseminated candidiasis. Inappropriate therapy may select for resistant organisms.
+Key recommendations.
+Determination of the clinical relevance of candiduria can be difﬁcult [171]. Asymptomatic candiduria rarely requires therapy (D-III). Candiduria may, however,
+be
+the
+only
+microbiological
+documentation
+of
+disseminated candidiasis. Candiduria should be treated in
+symptomatic patients, patients with neutropenia, infants with
+low birth weight, patients with renal allografts, and patients
+who will undergo urologic manipulations (B-III). However,
+short courses of therapy are not recommended; therapy for 7–
+14 days is more likely to be successful. Removal of urinary tract
+instruments, including stents and Foley catheters, is often helpful. If complete removal is not possible, placement of new
+devices may be beneﬁcial. Treatment with ﬂuconazole (200 mg/
+day for 7–14 days) and with amphotericin B deoxycholate at
+widely ranging doses (0.3–1.0 mg/kg per day for 1–7 days) has
+been successful [172] (B-II). In the absence of renal insufﬁciency, oral ﬂucytosine (25 mg/kg q.i.d.) may be valuable for
+eradicating candiduria in patients with urologic infection due
+to non-albicans species of Candida (C-III). However,emergence
+of resistance may occur rapidly when this compound is used
+as a single agent [173]. Bladder irrigation with amphotericin
+B deoxycholate (50–200 mg/mL) may transiently clear funguria
+[174] but is rarely indicated (C-III), except as a diagnostic
+localizing tool [175]. Even with apparently successful local or
+systemic antifungal therapy for candiduria, relapse is frequent,
+and this likelihood is increased by continued use of a urinary
+catheter. Persistent candiduria in immunocompromised patients warrants ultrasonography or CT of the kidney (C-III).
+LOWER RESPIRATORY TRACT CANDIDIASIS
+(PULMONARY AND LARYNGEAL
+CANDIDIASIS)
+Objective.
+To eradicate infection and prevent airway obstruction and loss of pulmonary reserve.
+Treatment options.
+Intravenous amphotericin B or oral
+or intravenous ﬂuconazole.
+Outcomes.
+For pneumonia, treatment clears local sites of
+infection along with any associated sites of systemic infection.
+For laryngitis, early clinical detection and documentation by
+ﬁberoptic or indirect laryngoscopy demonstrates localization of
+lesions and assessment of airway patency, permits acquisition
+of samples for culture, and enables rapid initiation of antifungal
+therapy. Impending airway obstruction is managed by endotracheal intubation. Successful medical therapy resolves laryngeal stridor, prevents airway obstruction, and reduces the risk
+of aspiration.
+Evidence.
+Observational reports and case series have
+shown that proven Candida pneumonia is associated with high
+mortality among patients with malignancies [176]. No convincing data for any particular form of therapy exist. Data for
+laryngitis are based on small series and individual case reports
+[177, 178]. Most cases have been managed with amphotericin
+B therapy, but milder cases been successfully managed with
+ﬂuconazole therapy [179, 180].
+Values.
+Candida pneumonia seems to exist in 2 forms.
+Rarely, after aspiration of oropharyngeal material, primary
+pneumonia due to Candida may develop [176, 181,182]. More
+commonly, hematogenously disseminated candidiasis produces
+pulmonary lesions, along with involvement of multiple additional organs. Firm diagnosis of these disease entities is elusive
+and requires histopathological conﬁrmation. Benign colonization of the airway with Candida species and/or contamination
+of the respiratory secretions with oropharyngeal material is
+much more common than either form of true Candida pneumonia. Thus, diagnoses of Candida pneumonia that are based
+solely on microbiological data are often incorrect [183, 184]
+(B-III).
+If not diagnosed and treated promptly, laryngitis may lead
+to airway obstruction and respiratory arrest.
+Beneﬁts, harms, and costs.
+Injudicious use of antifungal
+Downloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+Guidelines for Treatment of Candidiasis • CID 2004:38 (15 January) • 173
+therapy for patients with tracheobronchial colonization or oropharyngeal contamination of respiratory secretions may lead
+to selection of resistant organisms. Deﬁnitive diagnosis of Candida pneumonia requires histopathological conﬁrmation. In
+contrast, because of the severe morbidity and potential mortality associated with laryngeal candidiasis, rapid clinical diagnosis and prompt initiation of therapy are important and
+outweigh any adverse effects of antifungal therapy.
+Key recommendations.
+Most patients with primary Candida pneumonia and laryngeal candidiasis have been treated
+with amphotericin B (0.7–1.0 mg/kg per day) (B-III). In cases
+of secondary pneumonia associated with hematogenously disseminated infection, therapy directed at disseminated candidiasis, rather than at Candida pneumonia in particular, is indicated (see the section Candidemia and Acute Hematogenously Disseminated Candidiasis, above). For candidal laryngitis, ﬂuconazole is a suitable alternative in milder cases (BIII).
+CANDIDAL OSTEOMYELITIS (INCLUDING
+MEDIASTINITIS) AND ARTHRITIS
+Objective.
+To relieve symptoms and eradicate infection.
+Treatment options.
+After open or arthroscopic debridement or drainage, both intravenous amphotericin B and oral
+or intravenous ﬂuconazole have been used.
+Outcomes.
+Eradication of infection and symptoms and
+return of joint function.
+Evidence.
+Multiple observational studies have been reported, most of which have used intravenous amphotericin B
+as the primary therapy, sometimes followed by a course of
+treatment with an azole antifungal agent. A few reports have
+described initial therapy with an azole.
+Values.
+Untreated disease leads to crippling disability.
+Beneﬁts, harms, and costs.
+The high morbidity associated
+with untreated disease makes aggressive surgical and medical
+therapy appropriate. The presentation of candidal mediastinitis
+may be indolent and delayed [185]. Surgical debridement, biopsy, and drainage also serve to provide more-deﬁnitive histopathological and microbiological documentation before initiation of the prolonged therapy required for this class of
+infection.
+Key recommendations.
+Osteomyelitis is best treated with
+combined surgical debridement of the affected area, especially
+in the case of vertebral osteomyelitis, and antifungal therapy
+[186]. Courses of amphotericin B deoxycholate (0.5–1 mg/kg
+per day for 6–10 weeks) have been used successfully [187–189].
+Fluconazole has been used successfully as initial therapy for
+susceptible isolates in 3 reports in which doses of 6 mg/kg per
+day for 6–12 months were effective [190–192]. Addition of
+amphotericin B deoxycholate to bone cement appears safe and
+may be of value in complicated cases [193]. Taken together,
+these data suggest that surgical debridement and an initial
+course of amphotericin B for 2–3 weeks followed by ﬂuconazole, for a total duration of therapy of 6–12 months, would be
+rational (B-III).
+Deﬁnitive information on treatment of native joint arthritis
+is limited. Adequate drainage is critical to successful therapy
+[194]. In particular, management of Candida arthritis of the
+hip requires open drainage. Case reports have documented
+cures with administration of intravenous amphotericin B [195]
+and with ﬂuconazole when administered in conjunction with
+adequate drainage. Fluconazole has occasionally been used
+alone successfully [196]. As parenteral administration of these
+agents produces substantial synovial ﬂuid levels, the utility of
+intra-articular therapy is discouraged. Prolonged courses of
+therapy similar to those used for treating osteomyelitis appear
+to be required (C-III).
+Although success with medical therapy alone has been described [197], Candida arthritis that involves a prosthetic joint
+generally requires resection arthroplasty [198]. Subsequent
+medical therapy mirrors that for native joint disease, and a new
+prosthesis may be inserted after successful clearance of the local
+infection (C-III).
+On the basis of a small number of cases, Candida mediastinitis
+may be treated successfully with surgical debridement followed
+by either amphotericin B or ﬂuconazole therapy [185, 199] (IIIC). Irrigation of the mediastinal space with amphotericin B is
+not recommended, because it may cause chemical mediastinitis.
+Prolonged courses of therapy, similar to those needed for osteomyelitis at other sites, appear to be appropriate (C-III).
+CANDIDAL INFECTIONS OF THE
+GALLBLADDER, PANCREAS, AND
+PERITONEUM
+Objective.
+To eradicate Candida infection and prevent recurrence of infection.
+Treatment options.
+Intravenous amphotericin B or oral
+or intravenous ﬂuconazole.
+Outcome.
+Clearance of infection, as judged by resolution
+of local signs and symptoms along with sterilization of cultures.
+Evidence.
+Treatment of Candida infection of the pancreas
+and biliary tree has been described in case reports and small
+series. Successful therapy with either amphotericin B or ﬂuconazole has been described.
+Values.
+There are 2 major syndromes of peritoneal candidiasis. In disease associated with use of catheters for peritoneal dialysis, catheter removal is often required for successful
+therapy [200–203]. Both systemic amphotericin B and ﬂuconazole therapies have been used successfully [201–203].
+Candida peritonitis may also develop in association with
+Downloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+174 • CID 2004:38 (15 January) • Pappas et al.
+surgical or traumatic injury to the gut wall. Others at risk
+include patients who recently received chemotherapy for neoplasm or immunosuppressive therapy for transplantation or
+to those with inﬂammatory diseases [204]. Candida is usually
+part of a polymicrobial infection, and case series suggest that
+therapy directed toward Candida species is indicated, particularly when Candida organisms are isolated as part of a complex
+infection or in an immunocompromised patient [205–209].
+Uncontrolled Candida superinfection has been associated with
+signiﬁcant mortality in patients with acute necrotizing pancreatitis [210–213]. A recent small but placebo-controlled trial
+demonstrated that ﬂuconazole (400 mg/day) reduced the likelihood of developing symptomatic Candida peritonitis in surgical patients with recurrent gastrointestinal perforations or
+anastomotic leakage [214].
+Beneﬁts, harms, and costs.
+Routine treatment of Candida
+isolated following prompt and deﬁnitive repair of an acutely
+perforated viscus in otherwise healthy patients without signs
+of sepsis is probably not needed and could lead to selection of
+resistant organisms.
+Key recommendations.
+Disease of the biliary tree should
+be treated by mechanical restoration of functional drainage,
+combined with therapy with either amphotericin B or ﬂuconazole (C-III). Both agents achieve therapeutic biliary concentrations, and local instillation is not needed [215]. Catheterassociated peritonitis is treated with catheter removal and
+systemic treatment with amphotericin B or ﬂuconazole (B-III).
+After removal of the peritoneal dialysis catheter and a delay of
+at least 2 weeks, a new catheter may be placed (B-III) [200].
+Intraperitoneal amphotericin B has been associated with painful
+chemical peritonitis and should, in general, be avoided. Candida peritonitis related to intra-abdominal leakage of fecal material is treated with surgical repair, drainage, and therapy with
+either amphotericin B or ﬂuconazole (C-III). The required duration of therapy for all forms of Candida peritonitis is not
+well deﬁned and should be guided by the patient’s response.
+In general, 2–3 weeks of therapy seems to be required. Surgical
+patients with recurrent gastrointestinal perforation are at increased risk for Candida peritonitis and may beneﬁt from prophylactic antifungal therapy (B-I).
+CANDIDAL ENDOCARDITIS, PERICARDITIS,
+SUPPURATIVE PHLEBITIS, AND MYOCARDITIS
+Objective.
+To eradicate Candida infection and prevent recurrence of infection.
+Treatment options.
+Intravenous amphotericin B or oral
+or intravenous ﬂuconazole. Oral ﬂucytosine may be added to
+amphotericin B.
+Outcome.
+Clearance of infection, as judged by sterilization
+of the bloodstream and preservation of cardiac function.
+Evidence.
+All data are derived from individual case reports
+and case series.
+Values.
+Although the available data are limited [216], combined medical and surgical therapy generally appears to be the
+key for treatment of candidal endocarditis, pericarditis, and
+suppurative phlebitis. As emphasized by a report of a native
+valve that was not sterilized after 160 days of amphotericin B
+deoxycholate therapy [217], removal of infected valves, resection of infected peripheral veins, and debridement of infected
+pericardial tissue are almost always required for successful therapy [218, 219]. Suppurative phlebitis of the central veins has
+responded to prolonged medical therapy with amphotericin B
+[220–222]. Suppurative peripheral thrombophlebitis responds
+to surgical resection of the infected vein and antifungal therapy
+with amphotericin B or ﬂuconazole [223]. The utility of anticoagulation as part of such purely medical therapy is uncertain. Candidal myocarditis is usually part of the syndrome of
+disseminated candidiasis, is clinically silent, and is treated as
+part of the therapy of disseminated disease [224]. However,
+candidal myocarditis may cause complete atrioventricular
+block, necessitating placement of a pacemaker [225].
+Beneﬁts, harms, and costs.
+These infections are associated
+with high morbidity and mortality, justifying aggressivemedical
+and surgical therapy.
+Key recommendations.
+Both native valve and prosthetic
+valve infection should be managed with surgical replacement
+of the infected valve. Medical therapy with amphotericin B with
+or without ﬂucytosine at maximal tolerated doses has most
+often been used (B-III). Total duration of therapy should be
+at least 6 weeks after surgery, but possibly much longer (CIII). Candida endocarditis has a propensity for relapse and
+requires careful follow-up for at least 1 year [227]. If valve
+replacement is not possible, long-term (possibly life-long) suppressive therapy with ﬂuconazole may be used (C-III) [216,
+228, 229]. Successful primary therapy with ﬂuconazole [105]
+and liposomal amphotericin B [230] has been described for
+patients with native valve infections.
+Candidal pericarditis requires surgical debridement and/or
+resection, depending on the extent of the disease [231, 232].
+Cardiac tamponade is possible and may require an emergency
+procedure to relieve hemodynamic compromise. Prolonged
+therapy with amphotericin B [219] or ﬂuconazole should be
+used (C-III).
+Suppurative Candida thrombophlebitis of a peripheral vein
+is best managed with surgical resection of the involved vein
+segment, followed by antifungal therapy for 2 weeks (B-III).
+After vein resection, the general approach to this disease is
+similar to that for other forms of acute hematogenous
+dissemination.
+Downloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+Guidelines for Treatment of Candidiasis • CID 2004:38 (15 January) • 175
+CANDIDAL MENINGITIS
+Objective.
+To achieve rapid clearance of the infection and
+the return of normal neurological function.
+Treatment options.
+Intravenous amphotericin B or ﬂuconazole. Flucytosine may be added to the course of amphotericin B.
+Outcomes.
+Sterilization of the CSF often precedes eradication of parenchymal infection. Thus, therapy should be continued until normalization of all CSF analysis ﬁndings, normalization
+of
+radiological
+ﬁndings, and stabilization of
+neurological function.
+Evidence.
+Most data are based on observational reports
+of use of amphotericin B deoxycholate [233, 234]. Liposomal
+amphotericin B was used successfully in 5 of 6 cases of Candida
+meningitis in newborn infants [235]. Because of its ability to
+penetrate the blood-brain barrier, ﬂucytosine is often added to
+the course of therapy [236]. Fluconazole with ﬂucytosine was
+used successfully in 1 case [237].
+Values.
+Candida meningitis often follows candidemia in
+newborn infants [234] and has a high propensity for relapse.
+Untreated disease is lethal.
+Beneﬁts, harms, and costs.
+Because of the high morbidity
+and mortality associated with this infection, very aggressive
+therapy is warranted.
+Key recommendations.
+Amphotericin B deoxycholate
+(0.7–1 mg/kg per day) plus ﬂucytosine (25 mg/kg q.i.d.) is
+appropriate as initial therapy (B-III). The ﬂucytosine dose
+should be adjusted to produce serum levels of 40–60 mg/mL
+[173]. Very few data exist on ﬂuconazole for the treatment of
+candidal meningitis—it has been used as both follow-up therapy and long-term suppressive therapy. Because of the tendency
+for this disease to relapse, therapy should be administered for
+a minimum of 4 weeks after resolution of all signs and symptoms associated with the infection. Treatment of Candida meningitis associated with neurosurgical procedures should also
+include removal of prosthetic devices [238, 239].
+CANDIDAL ENDOPHTHALMITIS
+Objective.
+To resolve sight-threatening lesions.
+Treatment options.
+Intravenous amphotericin B has been
+used most often [240, 241]. Recent reports have also examined
+the efﬁcacy of oral or intravenous ﬂuconazole [242]. Flucytosine has been used in combination with amphotericin B.
+ABLC (4.5 mg/kg per day for 6 weeks) combined with vitrectomy produced a successful outcome in 1 case [243]. Vitrectomy may sometimes preserve sight. The role of intravitreal
+antifungal therapy is unclear.
+Outcome.
+Preservation of sight.
+Evidence.
+Individual case reports and small case series have
+demonstrated that amphotericin B, amphotericin B plus ﬂucytosine, and ﬂuconazole may be effective. PCR-based testing
+may assist in conﬁrming the diagnosis [244, 245]. The role of
+vitrectomy in therapy remains uncertain, but a recent study of
+C. albicans endophthalmitis in injection drug users suggested
+that the combination of early vitrectomy plus antifungal therapy was most likely to lead to a favorable outcome and preservation of vision. [246]. Of additional interest is a recent randomized study of therapy for bacterial endophthalmitis
+sponsored by the National Eye Institute, in which initial pars
+plana vitrectomy with use of intravitreal antibiotics followed
+by a second vitreous tap and reinjection of eyes that had a poor
+response to therapy after 36–60 h was compared with a strategy
+of initial anterior chamber and vitreous tap and/or biopsy
+[247]. For patients in this study who presented with visual
+acuity of light perception only, initial vitrectomy tripled the
+chance of achieving acuity of 20/40 or better. These results are
+supported by anecdotal reports [248].
+Values.
+Early aggressive therapy is critically important.Delays in diagnosis may lead to loss of vision.
+Beneﬁts, harms, and costs.
+Given the devastating consequences associated with loss of sight, aggressive therapy is
+warranted.
+Key recommendations.
+All patients with candidemia
+should have at least 1 dilated retinal examination, preferably
+by an ophthalmologist (A-II). The preponderance of clinical
+experience of treatment is with amphotericin B, often combined
+with ﬂucytosine (B-III). Recent data also support the use of
+ﬂuconazole for this indication, particularly as follow-up therapy
+(B-III). Use of the maximal doses appropriate for other forms
+of invasive candidiasis would be appropriate to maximize penetration into the eye. Therapy should be continued until complete resolution of visible disease or convincing stabilization.
+Courses of 6–12 weeks of therapy are typically required.
+A diagnostic vitreal aspirate is generally recommended for
+patients presenting with endophthalmitis of unknown origin.
+If fungal elements are observed, some ophthalmologists instill
+intravitreal amphotericin B deoxycholate therapy. The utility
+of vitrectomy has not been systematically studied.Extrapolation
+from a study of bacterial endophthalmitis [247] and from anecdotal experiences with Candida endophthalmitis [246] suggests that initial vitrectomy and intravitreal amphotericin B
+therapy may be most appropriate for patients with substantial
+vision loss.
+NONGENITAL MUCOCUTANEOUS
+CANDIDIASIS
+Oropharyngeal and Esophageal Candidiasis
+Objective.
+To eliminate signs and symptoms of the disease
+and to prevent recurrences.
+Treatment options.
+Topical azoles (clotrimazole troches),
+Downloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+176 • CID 2004:38 (15 January) • Pappas et al.
+oral azoles (ﬂuconazole, ketoconazole, or itraconazole), or oral
+polyenes (such as nystatin or oral amphotericin B) are usually
+effective treatments for oropharyngeal candidiasis. For refractory or recurrent infections, orally administered and absorbed
+azoles (ketoconazole, ﬂuconazole, or itraconazole solution),
+amphotericin B suspension, intravenous caspofungin, or intravenous amphotericin B (only for otherwise unresponsive infections) may be used.
+For treatment of esophageal candidiasis, topical therapy is
+ineffective. Azoles (ﬂuconazole, itraconazole solution, or voriconazole), intravenous caspofungin, and intravenous amphotericin B (necessary only for otherwise unresponsive infections)
+are effective. for patients who are unable to swallow, parenteral
+therapy should be used.
+Outcome.
+Resolution of disease without recurrence.
+Evidence.
+Multiple randomized prospective studies of oropharyngeal candidiasis have been performed in patients with
+AIDS and patients with cancer. Most patients respond initially
+to topical therapy [249–251]. In HIV-infected patients, symptomatic relapses may occur sooner with topical therapy than
+with ﬂuconazole [249], and resistance may develop with either
+regimen [252]. Fluconazole is superior to ketoconazole [253].
+Itraconazole capsules are equivalent in efﬁcacy to ketoconazole
+[254]. Itraconazole solution is better absorbed than the capsules
+[255] and is comparable in efﬁcacy to ﬂuconazole [256–258].
+A dosage of itraconazole solution of 2.5 mg/kg twice daily has
+been recommended as suitable for treating oropharyngeal candidiasis in pediatric patients 5 years of age [96]. Topical effects
+of oral solutions may be as important as effects due to absorption [259, 260].
+Recurrent infections typically occur in patients with immunosuppression, especially AIDS. Long-term suppressive
+therapy with ﬂuconazole is effective in the prevention of oropharyngeal candidiasis in patients with AIDS [32, 261–263]
+and patients with cancer [264]. One study found that a ﬂuconazole dosage of 200 mg/day was superior to that of 400 mg/
+week for prevention of symptomatic oropharyngeal disease in
+HIV-infected patients [262]. Long-term suppressive therapy
+with ﬂuconazole in HIV-infected patients has been shown to
+reduce the incidence of invasive fungal infections but has no
+effect on overall survival [32, 261–263]. In a recent large study,
+long-term suppressive therapy with ﬂuconazole was compared
+with episodic use of ﬂuconazole in response to symptomatic
+mucosal disease. Continuous suppressive therapy reduced the
+relapse rate relative to intermittent therapy and was associated
+with an increased rate of development of in vitro microbiological resistance, but the frequency of clinically refractory disease was the same for the 2 study groups [263].
+Oral polyenes, such as amphotericin B or nystatin, are less
+effective than ﬂuconazole in preventing this infection [265]. In
+a placebo-controlled study of HIV-infected patients [266], itraconazole (200 mg/day) was no more effective than placebo for
+preventing development of mucosal candidiasis. However, a
+second study found that itraconazole (200 mg/day) was effective as suppressive therapy for up to 6 months after a course
+of oral or esophageal candidiasis [267]. Between 64% and 80%
+of patients with ﬂuconazole-refractory infections will respond
+to treatment with itraconazole solution [268–270]. Intravenous
+caspofungin is a reasonable alternative [58]. Oral or intravenous
+amphotericin B is also effective in some patients [271]. Intravenous antifungal therapy can sometimes be avoided by using
+either IFN-g or GM-CSF in combination with oral antifungal
+therapy [272, 273]. However, a second study found that itraconazole (200 mg/day) was effective as suppressive therapy for
+up to 6 months after an episode of oral or esophageal candidiasis [267]. Itraconazole oral solution has also proven to be
+effective in cases of ﬂuconazole-refractory oral candidiasis
+[268–270]. Oral solution of amphotericin B has also been successfully used to treat ﬂuconazole-resistant thrush [271]. Finally,
+immunomodulation
+with
+adjunctive
+sargramostim
+(rGM-CSF) [272] and INF-g [273] have been used for refractory oral candidiasis.
+Much of the information on the microbiology of esophageal
+candidiasis is extrapolated from studies of oropharyngeal candidiasis. However, it is known that in patients with either AIDS
+or esophageal cancer, C. albicans remains the most common
+etiological agent [274, 275]. The presence of oropharyngeal
+candidiasis and symptoms of esophagitis (i.e., dysphagia or
+odynophagia) is predictive of esophageal candidiasis [276]. A
+therapeutic trial with ﬂuconazole for patients with presumed
+esophageal candidiasis is a cost-effective alternative to endoscopy; most patients with esophageal candidiasis will have resolution of their symptoms within 7 days after the start of therapy [277]. Fluconazole is superior to ketoconazole, itraconazole
+capsules, and ﬂucytosine for the treatment of esophageal candidiasis [278–280]. Itraconazole capsules plus ﬂucytosine are
+as effective as ﬂuconazole [281]. The efﬁcacy of itraconazole
+solution has been shown to comparable to that of ﬂuconazole
+[282]. Up to 80% of patients with ﬂuconazole-refractory infections will respond to itraconazole solution [269, 270]. Voriconazole (200 mg b.i.d. for a median duration of 14 days) is
+as efﬁcacious as ﬂuconazole (400 mg loading dose followed by
+200 mg/day for a median duration of 15 days) but is associated
+with a higher rate of treatment-related adverse events [46].
+Voriconazole has shown success in treatment of cases of ﬂuconazole-refractory disease [48]. Intravenous amphotericin B
+is also effective [283]. Caspofungin acetate has shown activity
+and safety equivalent to ﬂuconazole [58–60], including good
+responses in individuals with ﬂuconazole-refractory disease
+[61]. In patients with advanced AIDS, recurrent infections are
+common [284], and long-term suppressive therapy with ﬂuDownloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+Guidelines for Treatment of Candidiasis • CID 2004:38 (15 January) • 177
+conazole (100 mg/day) is effective in preventing recurrence
+[285].
+In cases of both oropharyngeal and esophageal candidiasis,
+the vast majority of infections are caused by C. albicans, either
+alone or in mixed infection [250]. However, symptomatic infections caused by C. glabrata and C. krusei alone have been
+described [268]. Before the HAART era, azole-refractory infections were associated with prior use of azoles, especially oral
+ﬂuconazole, and CD4 cell counts of !50 cells/mm3 [286]. A
+large randomized trial performed during the HAART era found
+that the rate of development of clinical ﬂuconazole resistance
+was the same for individuals receiving long-term suppressive
+therapy as for those receiving episodic (intermittent) therapy
+[263], even though the Candida isolates recovered from the
+patients receiving continuous therapy showed reduced susceptibility to ﬂuconazole. Antifungal susceptibility testing has been
+shown to be predictive of clinical response to ﬂuconazole and
+itraconazole [30]. In HIV-infected patients, use of HAART has
+been associated with both declining rates of carriage of C. albicans and reduced frequency of symptomatic episodes of oropharyngeal candidiasis [287].
+Values.
+The symptoms associated with oropharyngeal and
+esophageal candidiasis may reduce oral intake of food and liquids and may signiﬁcantly reduce the quality of life.
+Beneﬁts, harms, and costs.
+Maintenance of adequate nutrition and hydration is essential for immunocompromised
+hosts. Many individuals have asymptomatic oropharyngeal colonization with Candida species, and treatment frequently does
+not result in microbiological cure. Therefore, oropharyngeal
+fungal cultures are of little beneﬁt. Multiple courses of therapy
+or the use of suppressive therapy for recurrent infection are
+major risk factors for the development of an azole-refractory
+infection.
+Key recommendations.
+Initial episodes of oropharyngeal
+candidiasis can be treated with clotrimazole troches (one 10mg troche 5 times per day) or nystatin (available as a suspension
+of 100,000 U/mL [dosage, 4–6 mL q.i.d.] or as ﬂavored 200,000
+U pastilles [dosage, 1 or 2 pastilles 4–5 times per day for 7–
+14 days]) (B-II). Oral ﬂuconazole (100 mg/day for 7–14 days)
+is as effective as—and, in some studies, superior to—topical
+therapy (A-I). Itraconazole solution (200 mg/day for 7–14 days)
+is as efﬁcacious as ﬂuconazole (A-I). Ketoconazole and itraconazole capsules are less effective than ﬂuconazole, because
+of variable absorption (A-I).
+Patients tolerate repeated episodes of oropharyngeal candidiasis without difﬁculty, especially if the episodes occur infrequently (A-I). Suppressive therapy is effective for preventing
+recurrent infections (A-I). Although it does the increase the
+rate of development of isolates with an increased ﬂuconazole
+MIC, the use of continuous suppression (rather than episodic
+or intermittent therapy in response to symptomatic relapse)
+does not increase the likelihood of developing an infection that
+fails to respond to ﬂuconazole (A-I).
+Fluconazole-refractory oropharyngeal candidiasis will respond to oral itraconazole therapy (200 mg/day, preferably
+in solution form) approximately two-thirds of the time (A-II).
+An oral suspension of amphotericin B (1 mL q.i.d. of the 100
+mg/mL suspension) is sometimes effective in patients who do
+not respond to itraconazole (B-II). There have also been anecdotal reports of responses of refractory disease to use of
+ﬂuconazole solution (used in a swish-and-swallow fashion)
+[260] and to use of chewed itraconazole capsules. Intravenous
+caspofungin (50 mg/day) and intravenous amphotericin B
+deoxycholate (0.3 mg/kg per day) are usually effective and
+may be used in patients with refractory disease (B-II). Denturerelated disease may require extensive and aggressivedisinfection
+of the denture for deﬁnitive cure [288–290].
+Systemic therapy is required for effective treatment of esophageal candidiasis (B-II). Although symptoms of esophageal candidiasis may be mimicked by other pathogens, a diagnostic trial
+of antifungal therapy is often appropriate before performing
+endoscopy (B-II). A 14–21-day course of either oral ﬂuconazole
+(100 mg/day po) or itraconazole solution (200 mg/day po) is
+highly effective (A-I). Ketoconazole and itraconazole capsules
+are less effective than ﬂuconazole, because of variable absorption (A-I). Voriconazole is as effective as ﬂuconazole but is
+associated with more adverse events (A-I). Caspofungin (50
+mg/day iv) is as efﬁcacious as amphotericin B or ﬂuconazole
+(A-I). Suppressive therapy may be used for patients with disabling
+recurrent
+infections
+(A-II).
+Fluconazole-refractory
+esophageal candidiasis should be treated with itraconazole solution (200 mg/day po), voriconazole (200 mg b.i.d.), or
+caspofungin (50 mg/day) (A-II). Intravenous amphotericin B
+deoxycholate (0.3–0.7 mg/kg per day, as needed to produce a
+response) may be used for patients with otherwise refractory
+disease (B-II).
+Antifungal susceptibility testing is not generally needed for
+the management of either oropharyngeal or esophageal candidiasis, but can be useful in patients with refractory infection
+(B-II). In patients with AIDS, treatment of the underlying HIV
+infection with HAART is critical for preventing and managing
+these infections (B-II).
+Candidal Onychomycosis
+Whereas onychomycosis is usually caused by a dermatophyte,
+infections due to Candida species also occur [291]. Topical
+agents are usually ineffective [292]. For onychomycosis, oral
+griseofulvin has largely been replaced by more-effective agents,
+including oral terbinaﬁne or itraconazole [293]. With respect
+to Candida onychomycosis, terbinaﬁne has only limited and
+unpredictable in vitro activity [294, 295] and has not demonstrated consistently good activity in clinical trials [296]. AlDownloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+178 • CID 2004:38 (15 January) • Pappas et al.
+Table 5.
+Classiﬁcation of vaginitis.
+Feature
+Uncomplicateda
+Complicatedb
+Severity
+Mild or moderate and
+Severe or
+Frequency
+Sporadic and
+Recurrent or
+Organism
+C. albicans and
+Non-albicans species of
+Candida or
+Host
+Normal
+Abnormal (e.g., uncontrolled diabetes mellitus)
+NOTE.
+Patients with vaginitis can be classiﬁed as having uncomplicated
+disease (90% of patients) or complicated disease (10% of patients).
+a Patients with all of these features are considered to have uncomplicated
+vaginitis.
+b Patients with any of these features are considered to have complicated
+vaginitis [315].
+though the number of reported cases is small, therapy with
+itraconazole does appear to be effective [297, 298]. Itraconazole
+(200 mg b.i.d. for 1 week, repeated monthly for 3–4 months)
+appears to be the most appropriate treatment (A-II).
+Candidal Skin Infections and Paronychia
+Nonhematogenous primary skin infections typically occur as
+intertrigo in skin folds, especially in obese and diabetic patients.
+Topical azoles and polyenes, including clotrimazole, miconazole, and nystatin, are effective. Keeping the infected area dry
+is important. For paronychia, the most important intervention
+is drainage.
+Mammary Candidiasis
+Although a clear association remains to be determined, because
+of the lack of application of consistent clinical and microbiological criteria, nipple or breast pain in nursing mothers has
+been linked to the presence of C. albicans [299]. Nursing worsens or precipitates the pain. Classical ﬁndings of mastitis are
+absent, as is fever, and the ﬁndings of a local physical examination are often unimpressive [300]. The infant may or may
+not have signs of mucosal or cutaneous candidiasis. Microbiological studies have found both bacteria [300, 301] and C.
+albicans [300], with bacteria appearing to predominate. The
+true cause of the pain associated with this syndrome is unclear,
+but treatment of the mother and the infant with an antifungal
+agent has produced relief, according to some reports [302, 303].
+Optimal diagnostic criteria and management strategies are not
+certain, but both topical nystatin and oral ﬂuconazole are safe
+for infants [304–306] and could be considered as therapy for
+mother and child if the presentation is strongly suggestive of
+candidiasis.
+Chronic Mucocutaneous Candidiasis
+The persistent immunological defect associated with chronic
+mucocutaneous candidiasis requires a long-term approach that
+is analogous to that used in patients with AIDS and rapidly
+relapsing oropharyngeal candidiasis [307]. Systemic therapy is
+needed, and all of the azole antifungal agents (ketoconazole,
+ﬂuconazole, and itraconazole) have been used successfully [307,
+308]. The required dosages are similar to those used for other
+forms of mucocutaneous candidiasis. As with HIV-infected patients, development of resistance to these agents has also been
+described [309, 310].
+GENITAL CANDIDIASIS
+Objective.
+To achieve rapid and complete relief of signs
+and symptoms of vulvovaginal inﬂammation, along with prevention of future recurrences.
+Treatment options.
+Topical agents including azoles (all are
+used for 1–7 days depending on risk classiﬁcation: over-thecounter [OTC] clotrimazole, OTC butoconazole, OTC miconazole, OTC tioconazole, terconazole), nystatin [100,000 U per
+day for 7–14 days], oral azoles (ketoconazole [400 mg b.i.d.
+for 5 days], which is not approved in the United States); itraconazole [200 mg b.i.d. for 1 day, or 200 mg per day for 3
+days], which is not approved in the United States; and ﬂuconazole [150 mg]) [311]. Boric acid administered vaginally (600mg gelatin capsule, once per day for 14 days) is also effective
+[312].
+Outcomes.
+Resolution of signs and symptoms of vaginitis
+48–72 h after initiation of therapy, and mycological cure 4–7
+days after initiation of therapy.
+Evidence.
+Multiple double-blind randomized studies [311,
+313, 314].
+Values.
+Highly effective relief of symptoms that are associated with substantial morbidity can be achieved promptly
+with current therapies.
+Beneﬁts, harms, and costs.
+Self-diagnosis of yeast vaginitis
+is unreliable. Incorrect diagnosis results in overuse of topical
+antifungal agents, with subsequent risk of contact and irritant
+vulvar dermatitis.
+Key recommendations.
+Vaginal candidiasis may be classiﬁed into complicated and uncomplicated forms (table 5)
+[315]. Uncomplicated vaginitis is seen in 90% of patients and
+responds readily to short-course oral or topical therapy with
+any of the therapies listed above, including the single-dose regimens (A-I). In contrast, the complicated vaginitis seen in
+∼10% of patients requires antimycotic therapy for 7 days,
+either daily as topical therapy or as two 150-mg doses of ﬂuconazole administered 72 h apart [314] (A-I). Azole therapy is
+unreliable for non-albicans species of Candida (B-III). Infections with C. glabrata, C. krusei [316], and the other nonalbicans species frequently respond to topical boric acid (600
+mg/day for 14 days (B-II) or topical ﬂucytosine (B-II). Azoleresistant C. albicans infections are extremely rare [317].
+Recurrent vaginitis is usually due to azole-susceptible C. alDownloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+Guidelines for Treatment of Candidiasis • CID 2004:38 (15 January) • 179
+bicans. After control of causal factors (e.g., uncontrolled diabetes), induction therapy with 2 weeks of a topical or oral azole
+should be followed by a maintenance regimen for 6 months.
+Suitable maintenance regimens include ﬂuconazole (150 mg po
+every week) [318], ketoconazole (100 mg per day) [319], itraconazole (100 mg q.o.d.) or daily therapy with any topical azole
+(A-I). Chronic use of ﬂuconazole in HIV-infected women has
+been associated with increased vaginal carriage of non-albicans
+species of Candida [320], but the signiﬁcance of this observation is uncertain.
+PROPHYLAXIS
+HIV-Infected Patients
+See the subsection Oropharyngeal and Esophageal Candidiasis,
+above.
+Neutropenic Patients
+Objective.
+To prevent development of invasive fungal infections during periods of risk.
+Treatment options.
+Intravenous amphotericin B, intravenous or oral ﬂuconazole, intravenous or oral itraconazole,
+or intravenous micafungin (under investigation; see the subsection Key recommendations, below)
+Outcomes.
+Prevention of onset of signs and symptoms of
+invasive candidiasis.
+Evidence.
+Randomized, prospective, placebo-controlled
+trials have shown that systemically active antifungal agents can
+reduce the rate of development of superﬁcial and invasive Candida infections in high-risk patients [321]. The best data have
+compared the efﬁcacy of ﬂuconazole (400 mg/day) with that
+of placebo in bone-marrow transplant recipients [322, 323]
+and/or patients receiving intensive cytotoxic therapy for acute
+leukemia [324]. Itraconazole (2.5 mg/kg q12h po) was at least
+as effective overall as ﬂuconazole (100 mg/day po) and better
+for prevention of aspergillosis when used as prophylaxis in
+patients undergoing chemotherapy or bone marrow transplantation for hematological malignancy [325]. Micafungin (50 mg/
+day iv during the period of neutropenia) reduced the use of
+empirical amphotericin B, relative to that of ﬂuconazole (400
+mg/day), as prophylaxis during the neutropenic phase in bone
+marrow transplant recipients and was associated with a trend
+toward lower rates of aspergillosis in micafungin-treated patients [69]. Although continuing prophylaxis for the minimum
+duration in which the patient is at risk for neutropenia seems
+appropriate, prophylaxis in bone marrow transplant recipients
+beyond the period of engraftment was, in one large randomized
+placebo-controlled study, associated with a signiﬁcant mortality beneﬁt [322, 326]. The utility of other potentially active
+agents (e.g., amphotericin B) may be limited by toxicity or
+bioavailability.
+Values.
+Prevention of invasive fungal infection lowers
+morbidity and infection-related mortality [321]. Observed effects on overall mortality have either been none [323] or beneﬁcial [322], but these 2 studies did demonstrate a reduction
+in the rate of fungus-associated deaths.
+Beneﬁts, harms, and costs.
+Inappropriate use of prophylaxis for low-risk patient populations could apply epidemiological pressure that could select for resistant organisms.
+Key recommendations.
+Fluconazole (400 mg/day) or itraconazole solution (2.5 mg/kg q12h po during the period of risk
+for neutropenia) are appropriate therapies for patients who are
+at signiﬁcant risk for invasive candidiasis (A-I). Although not
+licensed at the time of this writing, micafungin demonstrated
+favorable activity, on the basis of results in the recently reported
+comparative trial [69], and may become an option for antifungal prophylaxis in neutropenic patients. Such patient groups
+might include patients receiving standard chemotherapy for
+acute myelogenous leukemia, allogeneic bone marrow transplants, or high-risk autologous bone marrow transplants. However, in this context, it is important to understand that, among
+these populations, chemotherapy or bone marrow transplantation protocols do not all produce equivalent risk and that
+local experience with particular chemotherapy and cytokine
+regimens should be used to determine the relevance of prophylaxis [327–329]. The optimal duration of prophylaxis is not
+known but should include the period of risk for neutropenia
+at a minimum.
+Solid-Organ Transplant Recipients
+Objective.
+To prevent development of invasive fungal infections during periods of risk.
+Treatment options.
+Intravenous amphotericin B or intravenous or oral ﬂuconazole.
+Outcomes.
+Prevention of onset of signs and symptoms of
+invasive candidiasis.
+Evidence.
+Patients undergoing liver transplantation who
+have 2 key risk factors (i.e., retransplantation, creatinine level
+of 12.0 mg/dL, choledochojejunostomy, intraoperative use of
+40 units of blood products, and fungal colonization detected
+2 days previous to and 3 days after transplantation) have
+been identiﬁed as being at high risk for invasive fungal infections, especially invasive candidiasis [330–332]. Conversely, patients without these risk factors are at low risk of invasive
+candidiasis [333]. Amphotericin B deoxycholate (10–20 mg/
+day in a retrospective observational study [334]), liposomal
+amphotericin B (1 mg/kg per day in a prospective randomized
+study vs. placebo [335]), and ﬂuconazole (100 mg/day in a
+retrospective observational study [336], 100 mg/day in a prospective randomized study vs. nystatin [337], and 400 mg/day
+in a prospective randomized study vs. placebo [338]) reduced
+or trended towards reducing rates of invasive fungal infections.
+Downloaded from https://academic.oup.com/cid/article/38/2/161/286280 by guest on 14 January 2025
+180 • CID 2004:38 (15 January) • Pappas et al.
+The largest and most convincing study was by Winston et al.
+[338], in which ﬂuconazole (400 mg/day) reduced rates of fungal infections (including superﬁcial infections) in a series of
+unselected patients from 23% to 6% (
+).
+P ! .001
+The risk for candidiasis among patients who received a pancreas transplant is probably less than that for those who received
+a liver transplant. A recent retrospective review of 445 consecutive pancreas transplant recipients revealed a 6% frequency of
+intra-abdominal fungal infection in those who received ﬂuconazole prophylaxis (400 mg/day) for 7 days after transplantation, compared with 10% for those who did not received
+prophylaxis [339]. There also was signiﬁcant improvement in
+1-year graft survival rate and overall survival among patients
+who had no infection. Prospective and case-controlled studies
+will further help to delineate the population of patients at high
+risk for invasive candidiasis and the potential beneﬁts of ﬂuconazole prophylaxis.
+Data from a small series of patients undergoing small-bowel
+transplantation documented 20 invasive fungal infections (16
+of which were due to Candida species) among 29 transplant
+recipients [340], which suggests a potential role for prophylaxis.
+The risk of invasive candidiasis after transplantation of other
+solid organs appears to be too low to warrant systemic prophylaxis [341].
+Value.
+Prevention of the signiﬁcant morbidity associated
+with invasive candidiasis is warranted.
+Beneﬁts, harms, and costs.
+Injudicious use of prophylaxis
+for patients at low risk might lead to selection of resistant
+organisms.
+Key recommendations.
+High-risk recipients of liver transplants should receive prophylactic antifungal therapy during
+the early postoperative period (A-I).
+Patients in ICUs and Other Care Settings
+Objective.
+To prevent development of invasive fungal infections during periods of risk.
+Treatment options.
+Intravenous amphotericin B or intravenous or oral ﬂuconazole.
+Outcomes.
+Prevention of onset of signs and symptoms of
+invasive candidiasis.
+Evidence.
+This topic has been extensively reviewed, and
+prophylaxis may be warranted in hospital units that show very
+high rates of disease despite use of aggressive infection-control
+procedures [342]. Oral ﬂuconazole (400 mg/day) produced a
+trend toward decreased rates of invasive candidiasis in selected
+adult patients in the surgical ICU with an expected ICU stay
+of at least 3 days [343]. In preterm infants with birth weights
+of !1000 g, 6 weeks of ﬂuconazole therapy (3 mg/kg iv every
+third day during the ﬁrst 2 weeks of life, every other day during
+the third and fourth weeks of life, and every day during the
+ﬁfth and sixth weeks of life) reduced the rate of invasive candidiasis from 20% to 0% (
+) [344]. Fluconazole proP p .008
+phylaxis (400 mg/day) reduced the rate of candidal peritonitis
+in patients with refractory gastrointestinal perforation [214].
+Values.
+Prevention of the signiﬁcant morbidity associated
+with invasive candidiasis is warranted. Candidemia is associated
+with signiﬁcant costs [138].
+Beneﬁts, harms, and costs.
+Injudicious use of prophylaxis
+in low-risk hospital units where the risk of candidiasis is low
+might lead to selection of resistant organisms.
+Key recommendations.
+Knowledge about this class of infections is evolving. The primary data showing utility of prophylaxis are from studies at single centers with high baseline
+rates of infections. The broader applicability of these rules in
+other ICUs remains a subject of signiﬁcant debate. Institutions
+where high rates of invasive candidiasis in the adult or neonatal
+ICU persist despite standard infection-control procedurescould
+consider ﬂuconazole prophylaxis for carefully selected patients
+in these care areas (A-I).
+DISCLOSURE OF FINANCIAL INTERESTS OR
+RELATIONSHIPS
+Peter G. Pappas has received grant support from Merck, Fujisawa, Pﬁzer, Shering-Plough, Enzon, and Vicuron. He has
+been a speaker for Merck, Fujisawa, Enzon, and Pﬁzer and has
+served as a consultant for Merck and Schering-Plough. John
+H. Rex is employed full time with AstraZenecaPharmaceuticals.
+Jack D. Sobel has received grant support from 3M, Pﬁzer, and
+Johnson & Johnson. Scott G. Filler has received grant support
+from Pﬁzer, Glaxo-Smith Kline, Cubist, and Merck He has been
+a speaker for Merck, Pﬁzer, and 3M and has served as a consultant for Merck. William E. Dismukes has received grant
+support from Fujisawa and Merck. He has been a speaker for
+Pﬁzer and Enzon and has served as a consultant for Fujisawa,
+Pﬁzer, Vicuron, and Bristol-Myers Squibb. Thomas J. Walsh
+has received grant support from Fujisawa and Merck. John E.
+Edwards has served as a consultant for Pﬁzer and Merck.
+Acknowledgments
+We wish to thank Dr. Andreas Groll (National Cancer Institute) and Dr. Scott Whitcupp (National Eye Institute), for
+their review of selected sections of the ﬁrst version of these
+guidelines, and Dr. Luis Ostrosky-Zeichner, for his review of
+selected sections of this, the second version of these guidelines.

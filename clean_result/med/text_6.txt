@@ -1,0 +1,564 @@
+Evidence for a Circadian Rhythm of Insulin Sensitivity
+in Patients With NIDDM Caused by Cyclic Changes in
+Hepatic Glucose Production
+Guenther Boden, Xinhua Chen, and Jean Luc Urbain
+Diurnal variation in insulin sensitivity in patients with
+NIDDM has long been suspected but has been difficult
+to document mainly because of the interdependence of
+changes in glucose and insulin. Stable serum insulin
+levels during hyperglycemic clamping in patients with
+NIDDM in the present study provided the opportunity
+to examine changes in insulin sensitivity unaffected by
+changes in blood glucose and insulin concentrations.
+Six patients with NIDDM (four men and two women,
+BMI 33.9 ± 2.5) underwent hyperglycemic (11.1 mmol/1,
+—200 mg/dl) clamping for 72 h. Measured were serum
+insulin, free fatty acid (FFA), cortisol, and growth
+hormone concentrations and rates of insulin secretion,
+insulin clearance, and glucose infusion rate (GIR)
+needed to maintain hyperglycemia. In addition, five patients (three men and two women, BMI 32.6 ± 0.6)
+underwent hyperglycemic clamping for 24 h with hourly
+determinations of hepatic glucose production (HGP)
+and glucose disappearance rates (GRd). GIR, reflecting
+insulin sensitivity, changed rhythmically with a cycle
+duration of 22.9 ± 1.4 h and an amplitude of 47.8 ±
+11.2%. GIR was lowest at 8:31 a.m. (±52 min) and
+highest at 7:04 p.m. (±58 min). Circadian changes in
+GIR were completely accounted for by changes in HGP,
+while GRd remained unchanged. Plasma levels of FFAs
+and cortisol also exhibited circadian fluctuations, and
+their blood levels correlated negatively with GIR (r =
+-0.72 and -0.64, respectively). We concluded that
+insulin sensitivity in patients with NIDDM changed
+with circadian (—24 h) rhythmicity (decreasing during
+the night and increasing during the day). These changes
+were unrelated to blood levels of glucose and insulin,
+insulin clearance, exercise, food intake, and sleep.
+They were caused by circadian changes in HGP, which
+in turn were closely correlated with circadian changes
+in blood FFA and cortisol levels. We believe that recognition of these circadian changes has implications for
+the diagnosis and the treatment of patients with
+NIDDM. Diabetes 45:1044-1050, 1996
+From the Divisions of Endocrinology, Diabetes and Metabolism (G.B., X.C.) and
+Nuclear Medicine (J.L.U.) and the General Clinical Research Center, Temple
+University School of Medicine, Philadelphia, Pennsylvania.
+Address correspondence to Dr. Guenther Boden, Temple University Hospital,
+3401 N. Broad St., Philadelphia, PA 19140.
+Received for publication 12 January 1996 and accepted in revised form 20 March
+1996.
+CV, coefficient of variation; FFA, free fatty acid; GIR, glucose infusion rate; GRa,
+glucose appearance rate; GRdl glucose disappearance rate; GTO, glucose turnover;
+HGP, hepatic glucose production; ISR, insulin secretory rate; REM, rapid eye
+movement; RIA, radioimmunoassay.
+T
+he existence of diurnal variations in glucose tolerance and insulin sensitivity in normal and diabetic
+subjects has been suspected for decades. The
+older literature contains numerous reports of diurnal changes in plasma glucose and in glucose tolerance (1).
+These reports, however, were often contradictory. Glucose
+tolerance was found to be better in the morning in some (2,3)
+and better in the afternoon in others (4,5). More recently,
+several groups have reported early morning increases in
+insulin requirements in patients with IDDM, which suggested
+an early morning decrease in insulin sensitivity or alternatively an increase in insulin clearance (6-8). The short
+duration of these studies (one night), however, did not permit recognition of diurnal changes. A major problem complicating studies of cyclic changes in insulin sensitivity has
+been the strong interdependence between glucose concentrations and insulin secretion (1). For instance, if there was
+a primary change in glucose concentration, it would produce
+an isodirectional change in insulin, which then would modify
+the glucose concentration. On the other hand, a primary
+change in insulin concentration would inversely affect glucose, which would then modify the insulin concentration.
+Because of this chicken-and-egg situation, it has remained
+uncertain whether or not there is a truly diurnal rhythm of
+insulin sensitivity in patients with IDDM or NIDDM.
+The findings in the present study that patients with
+NIDDM, in contrast to normal volunteers (9), have stable
+insulin levels during hyperglycemic clamping has allowed us
+to determine whether these patients have cyclic changes of
+insulin sensitivity unrelated to changes in blood glucose or
+insulin levels.
+RESEARCH DESIGN AND METHODS
+Subjects. The clinical characteristics of the patients with NIDDM
+participating in these studies are shown in Table 1. All patients had been
+treated with sulfonylurea drugs, and five patients received in addition
+small doses of NPH insulin (5-15 U) at bedtime. Insulin and all other
+medications were discontinued at least 1 day before the studies. The
+patients' weights were stable for at least 2 months, and their diets
+contained a minimum of 250 g/day carbohydrate for at least 2 days
+before the studies. Informed written consent was obtained from all
+subjects after explanation of the nature, purpose, and potential risks of
+these studies. The study protocol was approved by the Institutional
+Review Board of Temple University Hospital.
+Experimental design. All patients were admitted to Temple University
+Hospital's General Clinical Research Center 1 day before the studies.
+The next morning after an overnight fast, a short polyethylene catheter
+was inserted into an antecubital vein for infusion of test substances.
+Another catheter was placed into a contralateral forearm vein for blood
+1044
+DIABETES, VOL. 45, AUGUST 1996
+G. BODEN, X. CHEN, AND J.L URBAIN
+TABLE 1
+Clinical characteristics of subjects
+Glucose clamp (h)
+Sex (M/F)
+Age (years)
+Weight (kg)
+Height (cm)
+BMI (kg/m2)
+Duration of NIDDM (years)
+72
+4/2
+55.5 ± 6.0
+99.6 ± 12.8
+169.5 ± 5.9
+33.9 ± 2.5
+9.2 ± 3.6
+24
+3/2
+62.0 ± 2.4
+91.2 ± 6.4
+167.1 ± 6.2
+32.6 ± 0.6
+9.8 ± 4.2
+Data are means ± SE.
+sampling. This arm was wrapped with a heating blanket (~70°C) to
+arterialize venous blood. C-peptide was then infused to determine
+individual C-peptide kinetics. Between 5:00 and 6:00 P.M., the patients ate
+a standard dinner consisting of 55% carbohydrate, 15% protein, and 30%
+fat. At midnight, glucose was clamped at the patients' prevailing blood
+glucose levels (isoglycemic clamp, —11.1 mmol/1) and continued for 72 h
+in five patients. In one patient, glucose was clamped for only 36 h. Blood
+samples were collected every 2 h for determination of hormones and
+substrates. One to two months later, three of the original six patients
+and two patients who had not been studied before were admitted to the
+General Clinical Research Center for a 24-h glucose turnover (GTO)
+study. After an overnight fast, their plasma glucose was clamped at
+—11.1 mmol/1, and blood was collected hourly for 24 h for determination
+of GTO rates.
+Procedures
+Hyperglycemic clamps. Six patients (four men and two women) were
+studied. A 5% glucose solution was infused at variable rates for 72 h to
+produce plasma glucose concentrations of —11.1 mmol/1. Blood samples
+were collected eveiy 10-15 min for the initial 4 h of glucose infusion,
+every 1 h thereafter for measurement of glucose, and every 2 h for
+determination of insulin, C-peptide, cortisol, growth hormone, free fatty
+acids (FFAs), and lactate. The patients fasted during the study, but were
+allowed to drink water. Bed rest was continued. Lights were turned off
+at 9:30 P.M. and turned on at 7:00 A.M. the next morning. Sleep was
+polygraphically monitored during one night. Plasma electrolytes, body
+weight, and fluid balance were monitored every 6 h. Fluid balance was
+maintained with infusion of normal saline. Potassium and magnesium
+were added to the glucose infusion as needed to maintain normal plasma
+concentrations.
+GTO. Five patients (three men and two women) were studied. GTO was
+determined with [3-3H]glucose. The tracer infusion (40 |xCi over 1 min
+followed by 0.4 |xCi/min) was started 90 min before the initiation of the
+measurements to ensure isotopical equilibration. Glucose was isolated
+from blood for determination of [3-3H]glucose specific activity as
+described (10). [3-3H]glucose specific activity remained stable throughout the 24-h studies. Rates of total body glucose appearance (GRJ and
+disappearance (GRd) were calculated using Steele's equation for steadystate conditions (11). GRtl values were corrected for urinary glucose
+excretion (0.06 ± 0.007 |xmol • kg"1 • min"1). (GRa - urinary glucose
+excretion = GRd.)
+Hepatic glucose production (HGP) was calculated as the difference
+between the isotopically determined GRa and the rates of glucose
+infusion needed to maintain hyperglycemia during the clamps.
+C-peptide kinetic studies. An intravenous bolus of 50 nmol of
+biosynthetic human C-peptide (Lilly, Indianapolis, IN) was administered
+to each subject after an overnight fast, and plasma C-peptide was
+measured at frequent intervals for 3 h as described by Van Cauter et al.
+(12). Individual C-peptide kinetic parameters were determined by analysis of the C-peptide decay curves. The C-peptide kinetic parameters
+were used to calculate the insulin secretory rates (ISRs) for each time
+interval between successive blood samples by deconvolution of peripheral C-peptide concentrations (12).
+Insulin clearance rates were determined for 6-h periods by dividing
+the areas under the ISR curves by the area under the serum insulin
+curves.
+Sleep recording. Sleep was monitored with a portable computerized
+polysomnographic system, (Alice 3, Healthdyne, Marietta, GA). The
+polygraphic records were scored visually at 30-s intervals in sleep stages
+1, 2, 3, 4, and rapid eye movement (REM) based on the criteria of
+Rechtshaffen and Kales (13).
+Determination of diurnal rhythms. To identify a rhythmic pattern,
+we applied a refined first-order Fourier transform to the respective
+curves of glucose infusion rate (GIR), cortisol, and FFAs. In a first step,
+data were normalized to their respective mean values. The autocorrelation function A(T) = f (C)(O • C(t + T) dt, where C is the normalized
+data points, t is the time, and T is the lag time of the correlation, then
+was applied to each set of normalized data. This function eliminates the
+background noise and the nonperiodical events in the defined time
+interval. The frequency (in cycles per 24 h) and the amplitude in the time
+domain (in percentage variation) of the cyclical phenomena, were then
+determined using the Fourier transform F(io) - At/ A(T) • cos • (ivT)
+dT, where iv is the pulsation frequency and A is the amplitude of the
+signal (14).
+Analytical procedures. Plasma glucose was measured with a glucose
+analyzer (Beckman, Palo Alto, CA). Serum-free insulin was determined
+by radioimmunoassay (RIA) after polyethylene glycol precipitation
+using an antiserum with minimal (<0.2%) cross-reactivity with proinsulin (Linco, St. Charles, MO). Human growth hormone (15) and glucagon
+(16) were determined by RIA. Cortisol was measured with a kit (Diagnostic, Los Angeles, CA). Plasma FFA concentration was determined
+with a kit from Wako (Richmond, VA). Lactate and alanine were
+measured enzymatically (17,18).
+Statistical analysis. All data are expressed as means ± SE. Statistical
+significance was assessed using analysis of variance and Student's
+two-tailed I test when indicated.
+RESULTS
+Glucose, insulin, insulin secretion, clearance, and GIR.
+Mean glucose concentration was 11.9 ± 0.4 mmol/1 (215 ± 7
+mg/dl) (coefficient of variation [CV] 5.8 ± 0.6%). Mean insulin
+concentration was 174 ± 18 pmol/1 (29 ± 3 (xU/ml). Individual serum insulin concentrations were stable throughout the
+studies in all six patients (Figs. 1 and 2). Mean ISR was 121 ±
+23 pmol/min (0.01815 ± 0.00345 U/min or 0.18 mU-kg"1 •
+min"1), and mean insulin clearance was 0.75 ± 0.16 1/min
+(7.53 ml • kg"1 • min"1).
+GIR reflected total body insulin sensitivity. Visual inspection of Fig. 1 showed a pulsatile rhythm of GIR. Fourier
+transform of the GIR data showed a cycle duration of 22.9 ±
+1.4 h and a mean amplitude (variation around the mean) of
+47.8 ± 11.2% (± 3.8 ixmol • kg"1 • min"1). GIR was lowest in
+the morning (8:31 A.M. [±52 min]) and highest in the evening
+(7:04 P.M. [±58 min]). The differences between trough and
+peak values were statistically significant for all 3 days (P <
+0.04, P < 0.01, and P < 0.01, respectively).
+Glucose production and utilization. Under steady-state
+conditions, GIR is determined by peripheral (muscle) glucose uptake (GRd) and HGP (Fig. 3). The circadian changes
+in GIR could have been produced, therefore, either by
+changes in GRd, HGP, or a combination of both. To differentiate between these possibilities, we measured GTO at 1-h
+intervals between —9:00 A.M. and ~7:00 A.M. the next morning
+in five patients (three of whom had previously participated in
+the 72-h clamp studies).
+Glucose was clamped at 11.6 ± 0.4 mmol/1 (209 ± 7 mg/dl)
+(CV 7.4%). Serum insulin was 168 ± 12 pmol/1 (28 ± 2 |xU/ml)
+and did not change significantly during the 24-h study period.
+GIR exhibited the same circadian changes that were seen
+previously during the 72-h clamp studies, rising from 0 to
+6.1 ± 1.1 ixmol • kg"1 • min"1 (1.1 ± 0.2 mg • kg"1 • min"1) at
+—7:00 P.M. and decreasing thereafter to reach a nadir of 1.2 ±
+0.6 jxmol-kg^-min"1 (0.2 ± 0.1 mg-kg"1 • min"1) -12 h
+later. HGP closely mirrored the changes in GIR, whereas GRd
+did not change significantly. Plasma FFA and cortisol levels
+paralleled HGP values, although the HGP nadir seemed to
+precede the cortisol nadir by several hours.
+FFA, cortisol, growth hormone, glucagon, lactate, and
+alanine concentrations. Plasma FFA and cortisol concentrations changed with circadian rhythmicity with cycle duraDIABETES, VOL. 45, AUGUST 1996
+1045
+CIRCADIAN RHYTHM OF HGP IN NIDDM
+o
+I
+20
+15
+10
+400
+300
+g 200
+6
+2 IOO
+r- 500
+- 400 ,-s
+- 300 
+^
+6
+- 200 
+w
+- 100
+- 0
+1000
+500
+0
+1000
+500
+0
+1000
+"oB
+3
+c 
+0
+3 1000
+GO
+a
+Pat.1
+Pat.2
+i 
+i 
+i 
+w\
+Pat.3
+500
+o
+Pat.4
+^ . • - • S M I ^ V — »
+1000 ,500
+0
+1000 ,Pat.5
+•*%*»«•••«•—%
+J 
+I
+j 
+i
+MN 
+N 
+MN N 
+MN N MN
+Clock Time
+FIG. 1. Plasma glucose and serum insulin concentrations and ISR,
+insulin clearance rate, and GIR during 72 h of hyperglycemic clamping in
+six patients with NIDDM. (In one patient, the study lasted only 36 h.)
+MN, midnight; N, noon. Means ± SE are shown.
+tions of 24.3 ± 3.9 and 23.0 ± 1.3 h and amplitudes of 15.2 ±
+5.9% (±97 |xmol/l) and 41.8 ± 7.2% (±143 nmol/1), respectively. Changes in plasma FFA and cortisol concentration
+both correlated inversely with changes in GIR, i.e., both rose
+when GIR decreased and vice versa (Figs. 4 and 5). The
+correlations between plasma FFA concentrations and GIR
+and between plasma cortisol and GIR were highly significant (r = -0.72, P < 0.001, and -0.64, P < 0.001, respectively) (Fig. 6). In contrast, plasma growth hormone, glucagon, lactate, and alanine concentrations (Fig. 5) did not
+500
+Pat.6
+J 
+I 
+I
+MN 
+N MN N MN N MN
+Clock Time
+FIG. 2. Serum insulin concentrations during 72 h of hyperglycemic
+clamping in six patients with NIDDM. MN, midnight; N, noon. (In one
+patient, the study lasted only 36 h.)
+exhibit circadian changes and did not correlate with rates of
+GIR.
+Polygraphic sleep analysis. Sleep was polygraphically
+monitored during one night of the 72-h study. Total recording
+time was 554 ± 22 min. Total sleep time (REM plus stages
+1046
+DIABETES, VOL. 45, AUGUST 1996
+G. BODEN, X. CHEN, AND J.L URBAIN
+17 
+21 
+01
+Clock Time
+FIG. 3. Plasma glucose concentrations and GIR, HGP, GRd, and plasma
+FFA and cortisol levels during 24 h of hyperglycemic clamping in five
+patients with NIDDM.
+1-4) was 347 ± 25 min. Patients woke up 28 ± 6 times for a
+total wake time of 206 ± 36 min.
+DISCUSSION
+Absence of circadian rhythmicity of insulin secretion in
+NIDDM. We have recently reported that insulin secretion
+rates and serum insulin levels change with a circadian
+rhythm in nondiabetic subjects during hyperglycemic clamping (9). The absence of this rhythmicity is a newly described
+defect in patients with NIDDM. Absence of rhythmic insulin
+DO
+O
+M
+o
+1000
+800
+600
+400
+I 
+I 
+I 
+I 
+I
+600 r400
+* 
+200
+oU
+MN 
+N 
+MN 
+N 
+MN 
+N 
+MN
+Clock Time
+FIG. 4. GIR and plasma FFA and cortisol concentrations during
+hyperglycemic clamping for 72 h in six patients with NIDDM. MN,
+midnight; N, noon.
+changes allowed us to study insulin sensitivity at constant
+blood glucose and insulin levels.
+Presence of circadian rhythmicity of insulin sensitivity
+in NIDDM. Diurnal rhythmicity of insulin sensitivity and
+glucose tolerance in diabetic patients, although long suspected (1-5), has been difficult to demonstrate mainly because of the strong interdependence of changes in glucose
+and insulin and other confounding factors including feeding,
+exercise, and changes in insulin clearance (1). In the present
+study, the patients were kept on bed rest, they did not eat,
+and their blood glucose and insulin levels, and insulin
+secretion and clearance rates all remained unchanged during
+the entire 72-h study. GIR, reflecting total body insulin
+sensitivity, rose daily from a nadir in the morning (~8:00
+a.m.) to a peak in the evening (—7:00 P.M.). The cycle
+duration (from peak to peak) was —24 h hence; these cycles
+were by definition circadian. The cycle amplitude (from
+trough to peak) was —7.8 ixmol • kg"1 • min"1 (1.4 mg • kg"1 •
+DIABETES, VOL. 45, AUGUST 1996
+1047
+CIRCADIAN RHYTHM OF HGP IN NIDDM
+4
+v. 
+^ 
+^
+L
+Xo
+X 1
+0
+200
+o
+DO
+oJ3
+a
+/—•
+ol/l
+100
+50
+0
+6
+4
+£
+12 Pc
+00
+o
+a.
+Oi
+O
+5
+r = -0.72
+P< 0.001
+500
+600
+700
+800
+FFA (jiM)
+12
+r = -0.64
+P< 0.001
+100
+200
+300
+400
+500
+600
+Cortisol (nmol/1)
+FIG. 6. Correlations (by least-squares regression analysis) between
+mean GIR and mean plasma FFA and cortisol concentrations during 72 h
+of hyperglycemic clamping in six patients with NIDDM.
+oa
+MN 
+N
+MN 
+N
+Clock Time
+MN 
+N 
+MN
+FIG. 5. Plasma growth hormone (HGH), glucagon, lactate, and alanine
+concentrations during hyperglycemic clamping for 72 h in six patients
+with NIDDM. MN, midnight; N, noon.
+min J). To our knowledge, this is the first unequivocal
+demonstration of circadian rhythmicity in insulin sensitivity
+in patients with NIDDM. Similar results have been obtained
+in normal volunteers in whom glucose was infused at constant rates. In these studies, glucose and insulin levels
+changed together, which complicated quantitation of cyclic
+changes in insulin sensitivity (19,20).
+Sleep did not appear to affect the cyclic changes in insulin
+sensitivity because the directional changes (from increase to
+decrease and vice versa) occurred before and after the sleep
+period. Moreover, insulin sensitivity (GIR) was the same
+whether the patients were asleep or awake (4.7 ± 0.9 vs.
+4.7 ± 0.6 fimol • kg"1 • min"1). Sleep, however, was frequently interrupted; therefore, our data do not rule out the
+possibility that uninterrupted sleep may have a modulating effect on the circadian rhythmicity of insulin sensitivity as was reported by Van Cauter et al. in normal subjects
+(21).
+What caused the circadian rhythmicity of insulin sensitivity? Changes in GIR could have reflected changes in
+peripheral (muscle) insulin sensitivity (i.e., in GRd), changes
+in hepatic insulin sensitivity (i.e., in HGP), or both. To
+differentiate between these possibilities, we determined GRd
+and HGP in five patients at hourly intervals for 22 h. Glucose
+was again clamped at —11.6 mmol/1, and serum insulin levels
+remained stable. The results indicated unequivocally that the
+nocturnal decrease in GIR was caused by an increase in HGP
+with little or no change in peripheral glucose uptake. These
+results are compatible with a large body of evidence showing
+elevated rates of HGP in patients with NIDDM after an
+overnight fast (22) and with the demonstration that plasma
+glucose levels and HGP rates rise in the early morning hours
+(dawn phenomenon) (8,23). Our data suggested, however,
+that the dawn phenomenon may be explained, at least in
+part, by the circadian HGP cycle, where HGP starts to rise in
+1048
+DIABETES, VOL. 45, AUGUST 1996
+I
+the evening, reaches a peak in the early morning hours, and
+then declines. Superimposed on this circadian rhythm may
+be the effects of sleep on HGP, because Clore et al. (24) have
+shown in normal subjects that sleep decreased and arousal
+from sleep increased HGP.
+What caused the circadian HGP changes? Plasma FFA
+concentrations showed circadian fluctuations and correlated
+inversely (r = -0.72, P < 0.001) with GIR (and presumably
+with HGP). Similar close relationships between plasma FFA
+and HGP have recently been demonstrated in normal volunteers (24) and in dogs (25). These studies suggested that
+FFAs stimulated HGP, probably by changing hepatic insulin
+sensitivity. While this concept has been well supported by
+many in vitro studies (26), the in vivo evidence remains
+controversial. Elevation of plasma FFA concentrations has
+been shown to increase HGP only when fatty acid-mediated
+stimulation of insulin secretion was prevented (27). In addition, several studies have shown that acute elevation of
+plasma FFAs resulted in the inhibition of insulin-induced
+suppression of HGP (28,29). It was not clear, however,
+whether this effect was produced by elevated FFA levels or
+by the glycerol that was present in the commercial triglyceride emulsions infused in these studies (29). The present
+study was not complicated by either of these confounders.
+The results thus support the notion that FFAs can produce
+hepatic as well as peripheral insulin resistance (29,30). In
+this respect, it needs to be emphasized that FFAs have been
+shown to inhibit only insulin-stimulated glucose uptake but
+not basal glucose uptake (29). The present study was performed under isoglycemic, i.e., basal conditions; hence, FFA
+did not inhibit glucose uptake.
+Plasma cortisol, which is known to fluctuate in circadian
+cycles, also correlated negatively with GIR (r = -0.64, P <
+0.001). In patients with IDDM, physiological elevations in
+plasma cortisol have been shown to markedly increase HGP
+(31) and, to a lesser degree, to cause peripheral insulin
+resistance (32,33). Recent studies in adrenalectomized rats
+indicated that glucocorticoids played a key role in the fatty
+acid-induced stimulation of gluconeogenesis (34). This and
+data from normal human subjects showing that isolated
+cortisol deficiency reduced plasma FFA concentrations by
+~50% raised the interesting possibility that circadian cortisol
+secretion may have been, at least partly, responsible for the
+circadian FFA rhythmicity (35). Clearly, however, our results
+did not establish a cause and effect relationship between
+FFAs, cortisol, and HGP. In fact, analysis of individual
+relationships showed that in three of the five patients,
+plasma cortisol and HGP changed in synchrony, while in two
+patients cortisol started to rise several hours after HGP.
+These findings do not support the notion that cortisol was
+primarily responsible for the rhythmic changes in HGP,
+because it has been shown that the cortisol effects on HGP
+required several hours to develop (31,33).
+Growth hormone levels increased at the onset of sleep.
+There was, however, no circadian pattern nor did growth
+hormone levels correlate with GIR. Nevertheless, some
+growth hormone bursts may have been missed because of
+the 2-h blood sampling, and the evening growth peaks may
+have contributed to the nocturnal rise in HGP. Plasma
+glucagon concentrations did not change significantly. Epinephrine, which is known to have a circadian rhythm of
+secretion (36), was not measured. The amplitude of the
+circadian epinephrine changes, however, are known to be
+G. BODEN, X. CHEN, AND J.L URBAIN
+too small to affect HGP directly (32,37), but they may be able
+to affect lipolysis and thus plasma FFA concentrations.
+Clinical significance. The circadian rhythmicity of insulin
+sensitivity in patients with NIDDM, described here, predicts
+that glucose tolerance will be worse in the early morning
+than at any other time. This helps to explain why insulin
+requirements in diabetic patients are highest in the morning.
+It also provides a rationale for the effectiveness of the
+twice-a-day regimen, which consists of bedtime insulin and
+daytime sulfonylurea administration, the bedtime insulin
+acting to prevent the nocturnal rise in HGP. Lastly, our data
+suggested that suppression of the nocturnal FFA and/or
+cortisol peaks may offer a new approach to the control of
+fasting blood glucose levels in patients with NIDDM.
+ACKNOWLEDGMENTS
+This study was supported by National Institutes of Health
+grants R01-AG-07988 (to G.B.), R01-AA-10221 (to G.B.), and
+RR-349 (General Clinical Research Center) and a mentorbased postdoctoral fellowship grant from the American
+Diabetes Association (to X.C.).
+We thank the nurses of the General Clinical Research
+Center for assistance with the clinical studies, Karen Davis
+and Maria Mozzoli for technical assistance, Constance Harris
+for typing the manuscript, Robert Grudziak from Sleep Care
+Associates, Philadelphia, PA, for the performance, and
+Thomas Berger, Registered Polysomnographer, for evaluation of the sleep studies.

@@ -1,0 +1,196 @@
+Rev. Inst. Med. trop. S. Paulo
+50(5):261-263, September-October, 2008
+(1) Programa de Pós-Graduação em Ciências Pneumológicas, Universidade Federal do Rio Grande do Sul, Porto Alegre, RS, Brasil. 
+(2) Pesquisador nível 2 do CNPq (Conselho Nacional de Desenvolvimento Científico e Tecnológico), Brasil.
+(3) Faculdade de Medicina, UFRGS, Porto Alegre, RS, Brasil.
+(4) Departamento de Medicina Interna, Faculdade de Medicina, UFRGS, Porto Alegre, RS, Brasil.
+(5) Pesquisador nível 1 B do CNPq, Brasil.
+Correspondence to: Dr. Luiz Carlos Severo. Laboratório de Micologia/Santa Casa Complexo Hospitalar. Rua Annes Dias 285, 90020-090 Porto Alegre, RS, Brasil. Tel: +55 51 32148409. 
+E-mail: severo@santacasa.tche.br
+Candida ESOPHAGITIS: SPECIES DISTRIBUTION AND RISK FACTORS FOR INFECTION
+Dimas Alexandre KLIEMANN(1), Alessandro Comarú PASQUALOTTO(1,2), Maicon FALAVIGNA(3), Thiane GIARETTA(4) & Luiz Carlos SEVERO(1,4,5)
+SUMMARY
+Although Candida albicans is the main cause of fungal esophagitis, other species such as C. tropicalis, C. krusei and C. 
+stellatoidea have also been implicated. Several studies have identified risk factors for C. albicans esophagitis. However, data for 
+non-C. albicans species is still sparse. The aim of this study was to determine the etiology of Candida esophagitis in our medical 
+centre over an 18-month period. Additionally, we aimed to investigate predisposing conditions for esophageal candidosis caused by 
+different Candida species. A total of 21,248 upper gastroscopies were performed in Santa Casa Complexo Hospitalar between January 
+2005 and July 2006. The prevalence of Candida esophagitis was 0.74% (n = 158). C. albicans caused the vast majority of infections 
+(96.2%), followed by C. tropicalis (2.5%), C. lusitaniae (0.6%) and C. glabrata (0.6%). There were 81 women (51.3%) and 77 men 
+(48.7%). No case of mixed infection occurred. Concomitant oral candidosis was documented for 10.8% (n = 17). Most of cases 
+(55.1%) involved outpatients. Around one fifth of patients in our cohort had no identifiable risk factors for esophageal candidosis 
+(20.8%). Since nearly all infections were caused by C. albicans we were not able to determine risk factors for esophagitis caused by 
+other Candida species.
+KEYWORDS: Candida; Opportunistic infections; Esophagitis; Endoscopy; Risk factors; Yeasts.
+INTRODUCTION
+Candida species are the most common agents of fungal esophagitis. 
+While this is usually caused by C. albicans21, other species such as C. 
+tropicalis, C. krusei and C. stellatoidea have also been involved16. Risk 
+factors for Candida esophagitis have been documented in several series. 
+These include pharmacological suppression of gastric acid production1,2,13, 
+use of antibiotics24,28, previous vagotomy4,7,8, functional or mechanical 
+esophageal abnormalities28,30, and endocrine diseases such as diabetes 
+mellitus, hypothyroidism and hypoparathyroidism11,18. Malnutrition, 
+alcoholism, advanced age26,27,28, and therapy with corticosteroids - either 
+systemic or inhaled - has also been implicated2,22. However, there are very 
+limited data from Brazilian patients. In addition, very little is known for 
+infections caused by species other than C. albicans. This study aims to 
+document the species distribution in patients with Candida esophagitis 
+over an 18-month period (2005-2006) in a single medical centre. We were 
+particularly interested in the comparison of risk factors for esophageal 
+candidosis amongst patients infected by different Candida species.
+MATERIAL AND METHODS
+This study was performed between January 2005 and July 2006 
+at Santa Casa Complexo Hospitalar, an university tertiary hospital 
+with 1,200 beds located in Porto Alegre, Southern Brazil. Esophageal 
+candidosis was defined by the recovery of Candida species from either 
+esophageal brushing or a biopsy of the esophagus performed during 
+upper gastroscopy. Esophageal candidosis was endoscopically confirmed 
+in the presence of typical sparse or coalescent white plates covering the 
+esophageal mucosa. Only cases of endoscopically-confirmed Candida 
+esophagitis were included, so patients considered to be only colonized 
+by Candida species were excluded. Since this was a retrospective study, 
+neither clinical symptoms nor reason for performing endoscopy was 
+evaluated. All samples obtained endoscopically were sent in saline 
+solution to the Mycology laboratory. The germ tube test was used to 
+differentiate C. albicans from other Candida species, which were in turn 
+identified with ID 32C (bioMérieux Marcy l’Étoile, France).
+Medical records of patients with Candida esophagitis, were reviewed 
+to identify potential risk factors for the infections, presented in the 30 days 
+preceding the endoscopic procedure. Chronic therapy with corticosteroids 
+was considered when patients were in use of 20 mg of prednisone of 
+equivalent for >14 days.
+Statistical analysis was performed with SPSS software. Categorical 
+variables were compared using the chi-square and the Fisher’s exact 
+tests, and p values ≤ 0.05 were considered statistically significant. The 
+study received ethical approval by the hospital’s research ethic board 
+(protocol number1000/05).
+KLIEMANN, D.A.; PASQUALOTTO, A.C.; FALAVIGNA, M.; GIARETTA, T. & SEVERO, L.C. - Candida esophagitis: species distribution and risk factors for infection. Rev. Inst. Med. 
+trop. S. Paulo, 50(5): 261-263, 2008.
+262
+RESULTS
+During the period of study 21,248 upper gastrointestinal endoscopies 
+were performed in our medical centre. The prevalence of fungal 
+esophagitis was 0.8% (n = 163). Five patients were excluded - four 
+due to lack of clinical data and one because the infection was caused 
+by Saccharomyces cerevisae. The vast majority of infections for the 
+remaining 158 patients were caused by C. albicans (96.2%), followed by 
+C. tropicalis (2.5%), C. lusitaniae (0.6%) and C. glabrata (0.6%). There 
+were 81 women (51.3%) and 77 men (48.7%). All patients were adults, 
+with ages ranging from 21-88 years old (mean 57.4; standard deviation 
+16.7 years). No case of mixed fungal infection occurred. Concomitant 
+oral candidosis was documented for 10.8% (n = 17). Most of cases 
+(55.1%) involved outpatients.
+The majority of patients (79.2%) had at least one identifiable risk 
+factor for esophageal candidosis. Median number of risk factors per 
+patient was 1.0 (range, 1-6). As shown in Table 1, no difference was 
+observed in the distribution of risk factors for esophageal candidosis 
+when Candida species were considered.
+DISCUSSION
+The prevalence of fungal esophagitis in this study involving 21,248 
+patients submitted to upper gastrointestinal endoscopy was 0.77%. 
+Similar frequencies have been reported in other series14,17,25. We observed 
+in our study that virtually all cases of fungal esophagitis were caused by 
+Candida species, with one rare case due to S. cerevisae.
+Although esophageal candidosis is a common opportunistic infection 
+in patients infected by the human immunodeficiency virus (HIV)23, the 
+vast majority of patients in our series (93.7%) were not infected by this 
+virus. Since this was a retrospective study, the importance of this variable 
+might be underestimated. However, other authors have demonstrated a 
+marked reduction in the prevalence of esophageal candidosis in HIV 
+patients over the last decade, justified by the immunological benefit 
+obtained from antiretroviral therapy10,15,19. 
+Around one fifth of patients in our cohort had no identifiable risk 
+factors for esophageal candidosis (20.8%). It has been demonstrated 
+that esophageal candidosis can occur in healthy individuals14. Still the 
+mechanisms of infection in these patients are not clear6,16. Candida species 
+are known to colonize the esophagus of 20% of healthy adults12,22. In the 
+series by MIMIDIS et al., 36% of patients had no evident risk factor for 
+esophageal candidosis14. Interestingly, we observed that 50% of patients 
+infected by species other than C. albicans showed no evident predisposing 
+condition for the infection. Due to the limited number of patients with 
+non-C. albicans infection (n = 6), we were not able to show any difference 
+of statistical significance. The clinical or biological importance of this, 
+however, is unknown. In addition it should be noted that, due to the 
+retrospective nature of our study, some data may be missing. In particular, 
+immunological or endocrine conditions predisposing patients to chronic 
+mucocutaneous candidosis were not systematically investigated20.
+In conclusion, we found C. albicans to be the main etiology of fugal 
+esophagitis in our medical centre. Most of patients had one evident 
+predisposing condition for Candida esophagitis, and HIV infection 
+was quite uncommon. The occurrence of non-C. albicans infections 
+in patients with no obvious risk factors for these conditions deserves 
+further investigation. 
+RESUMO
+Esofagite por Candida: distribuição da espécie e fatores de risco 
+para a infecção 
+Embora Candida albicans seja a principal causa de esofagite fúngica, 
+outras espécies como C. tropicalis, C. krusei e C. stellatoidea também 
+têm sido implicadas. O objetivo desse estudo foi descrever espécies 
+causadoras de esofagite fúngica em nosso centro durante um período de 
+Table 1
+Distribution of patients infected with Candida albicans or other Candida species according to risk factors for esophageal candidosis
+Risk factor
+Candida species involved
+p value
+C. albicans (n = 152)
+Other Candida species (n = 6)
+Any identifiable risk factor
+80.9%
+50.0%
+0.098
+Proton pump inhibitor or H2 blocker
+39.1%
+50.0%
+0.681
+Age ≥ 65 years
+37.7%
+16.7%
+0.404
+Use of antibiotics
+35.8%
+16.7%
+0.666
+Solid cancer
+22.4%
+0.0%
+0.342
+Diabetes mellitus
+17.8%
+0.0%
+0.591
+Long term therapy with corticosteroid
+10.1%
+16.7%
+0.486
+Chronic renal failure
+7.9%
+0.0%
+1.000
+HIV infection
+7.2%
+0.0%
+1.000
+Inhaled corticosteroid
+6.7%
+16.7%
+0.360
+Use of another immunosuppressive agent
+6.6%
+0.0%
+1.000
+KLIEMANN, D.A.; PASQUALOTTO, A.C.; FALAVIGNA, M.; GIARETTA, T. & SEVERO, L.C. - Candida esophagitis: species distribution and risk factors for infection. Rev. Inst. Med. 
+trop. S. Paulo, 50(5): 261-263, 2008.
+263
+18 meses, além de comparar condições predisponentes para candidose 
+esofágica causadas por diferentes espécies de Candida. De janeiro 
+de 2005 a julho de 2006, 21.248 endoscopias digestivas altas foram 
+realizadas no Complexo Hospitalar Santa Casa (Porto Alegre, Brasil). 
+A prevalência de esofagite por Candida foi de 0,74% (n = 158). C. 
+albicans foi a causadora da maioria das infecções (96,2%), seguida por C. 
+tropicalis (2,5%), C. lusitaniae (0,6%) e C. glabrata (0,6%). Candidose 
+oral concomitante foi documentada em 10,8% (n = 17). Cerca de 21% 
+dos pacientes não teve qualquer fator de risco identificável para candidose 
+esofágica. Em função do pequeno número de pacientes infectados por 
+espécies não-Candida albicans, não foi possível determinarmos fatores 
+de risco para estas infecções.

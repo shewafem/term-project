@@ -1,0 +1,605 @@
+OB E S I T Y A N D D I A B ET ES
+Adverse Metabolic Consequences in Humans
+of Prolonged Sleep Restriction Combined
+with Circadian Disruption
+Orfeu M. Buxton,1,2* Sean W. Cain,1,2 Shawn P. O’Connor,1 James H. Porter,1 Jeanne F. Duffy,1,2
+Wei Wang,1,2 Charles A. Czeisler,1,2 Steven A. Shea1,2
+Epidemiological studies link short sleep duration and circadian disruption with higher risk of metabolic syndrome
+and diabetes. We tested the hypotheses that prolonged sleep restriction with concurrent circadian disruption, as
+can occur in people performing shift work, impairs glucose regulation and metabolism. Healthy adults spent
+>5 weeks under controlled laboratory conditions in which they experienced an initial baseline segment of optimal
+sleep, 3 weeks of sleep restriction (5.6 hours of sleep per 24 hours) combined with circadian disruption (recurring
+28-hour “days”), followed by 9 days of recovery sleep with circadian re-entrainment. Exposure to prolonged sleep
+restriction with concurrent circadian disruption, with measurements taken at the same circadian phase, decreased
+the participants’ resting metabolic rate and increased plasma glucose concentrations after a meal, an effect resulting
+from inadequate pancreatic insulin secretion. These parameters normalized during the 9 days of recovery sleep and
+stable circadian re-entrainment. Thus, in humans, prolonged sleep restriction with concurrent circadian disruption
+alters metabolism and could increase the risk of obesity and diabetes.
+INTRODUCTION
+Short sleep duration and disordered sleep have been linked to numerous adverse metabolic changes (such as dysregulation of multiple hormone axes, reduced insulin sensitivity, insulin resistance, and glucose
+intolerance) (1–4), increased risk of chronic disease including obesity
+and type 2 diabetes (5, 6), and early mortality (7, 8). Less is known
+about the adverse consequences of misalignment between endogenous
+circadian physiological rhythms and the daily environmental and behavioral rhythms, as occurs chronically in night workers and rotating
+shift workers (9–12). Endogenous circadian rhythms are controlled by
+the central circadian pacemaker in the suprachiasmatic nucleus of the
+hypothalamus, and these rhythms help to synchronize molecular circadian clocks in peripheral cells and tissues. Peripheral clocks optimize
+physiological functions to match daily patterns of behavior, such as
+feeding, activity, and sleep. Suboptimal alignments between endogenous circadian rhythms and daily behaviors occur in the many millions
+of people who perform shift work, and this circadian disruption may
+contribute to the known adverse health consequences of shift work,
+including fatigue and poor sleep, gastrointestinal complaints, detrimental metabolic changes, and increased risks of developing obesity
+and diabetes (13–19). For example, over a 3-year follow-up period, the
+risk of progressing from impaired fasting glucose or impaired glucose
+tolerance to clinically classified diabetes was five times higher among
+night shift workers than among those who did not work at night (20).
+In humans, acute (a few days) misalignment of the normal circadian phases at which sleep and meals occur causes higher postprandial
+blood glucose, despite higher insulin concentrations in the blood. The
+magnitude of hyperglycemia was comparable to a prediabetic state in a
+third of these individuals (21). In mice, a laboratory study of prolonged
+(10 weeks) circadian disruption revealed broad adverse changes in the
+brain (dendritic reorganization and loss), behavior (learning and response
+to novel environments), and glucose metabolism (increased insulin at
+the same blood glucose concentrations, and weight gain) (22). It is not
+known whether these adverse effects of sustained circadian disruption
+also occur in humans, but if they do, they could explain the epidemiological finding of an increased incidence of diabetes in shift workers.
+Both sleep patterns and circadian rhythms change profoundly with
+age. Older people experience less sleep, more frequent awakenings, a
+reduction of slow wave sleep (23), and blunting of the amplitudes of circadian rhythms such as core body temperature (CBT) (24) and activity
+(25). Also, the phase relationships between those rhythms and the
+timing of sleep change with age (26). Given the possible adverse metabolic changes caused by short sleep and circadian disruption, it is also
+plausible that the sleep and circadian changes with age could contribute to the increased incidence of obesity and diabetes in the elderly (1).
+Because of these findings, we have here tested the hypotheses that
+prolonged sleep restriction with concurrent circadian disruption impairs glucose regulation and metabolism in humans and that this effect
+would be more pronounced in older individuals. We have previously
+used a forced desynchrony protocol in humans to assess the separate
+effects of sleep and of circadian rhythms upon cognitive performance
+(12, 22, 27–29). This protocol was also recently used in mice (22). In
+this protocol, behaviors, including the wake-sleep cycle and the feedingfasting schedule, are scheduled to occur on “days” that are much shorter
+or much longer than 24 hours (for example, 28 hours), and during
+wakefulness, lights are kept dim so that the endogenous circadian pacemaker oscillates at its intrinsic period rather than being reset by daily
+exposure to the light-dark cycle (12, 28, 29). We selected an imposed
+28-hour duration of environmental and behavioral cycles for the current study because it is well outside the range of entrainment of the
+circadian pacemaker, forcing desynchronization between endogenous
+circadian rhythms and the scheduled dark-light, fasting-feeding, and
+1DivisionofSleepMedicine,DepartmentofMedicine,BrighamandWomen’sHospital,Boston,
+MA 02115, USA. 2Division of Sleep Medicine, Harvard Medical School, Boston, MA 02115, USA.
+*To whom correspondence should be addressed. E-mail: orfeu_buxton@hms.harvard.edu
+R E S E A R C H A R T I C L E
+www.ScienceTranslationalMedicine.org
+11 April 2012
+Vol 4 Issue 129 129ra43
+1
+ on April 3, 2015
+stm.sciencemag.org
+Downloaded from 
+sleep-wake cycles. We combined this model of circadian disruption with
+sleep restriction of 5.6 hours per 24 hours for ~3 weeks to test our hypotheses that prolonged sleep restriction combined with prolonged circadian
+disruption would impair glucose regulation and metabolism and that
+such effects would be more pronounced in older people.
+RESULTS
+Participant characteristics
+Twenty-four participants completed the full protocol (12 young plus
+12 older participants). Three participants were excluded from group
+analyses (see Materials and Methods), leaving 11 young (mean, 23 ±
+2 years; 5 female) and 10 older (60 ± 5 years; 5 female) participants
+in the analyses.
+Measurement segments
+To ensure that participants were not suffering from sleep loss before
+starting the study and had stable circadian phase alignment, they were
+instructed to spend 10 hours in bed each night, with a self-selected but
+constant bedtime and normal exposure to daytime light, for at least
+3 consecutive weeks immediately before entry into the laboratory.
+Thereafter, each participant lived in an individual laboratory suite
+for 39 days in dim light and without time cues. Figure 1 schematically
+portrays the protocol and highlights the three intensive assessment intervals during which body weight, resting metabolic rate (RMR), and
+metabolic responses to a standardized meal were measured: (i) a baseline “sleep-replete” condition with stable circadian phase alignment
+(after at least 27 days of 10 to 16 hours of sleep opportunity per 24 hours,
+including at least 21 days at home and 6 days in the laboratory); (ii)
+after up to 3 weeks of exposure to sleep restriction with concurrent circadian disruption induced by imposition of 28-hour fasting-feeding,
+and sleep-wake cycles, performed in dim light; and (iii) after 9 days of
+circadian re-entrainment and recovery sleep opportunity of 10 hours
+per 24 hours. These three intensive assessment intervals were timed to
+occur when sleep episodes were at the normal optimal circadian phase
+for each participant and standardized meals were at similar circadian
+phases (see Materials and Methods).
+Effects of sleep restriction and circadian disruption on
+postprandial hyperglycemia and RMR
+After a standard breakfast eaten at a consistent circadian phase, previous exposure to prolonged (3 weeks) sleep restriction with concurrent
+circadian disruption significantly increased both fasting and postprandial peak plasma glucose concentrations relative to the responses
+to the same meal at baseline [Figs. 2, A, B, E, and F, and 3, A, C, and E;
+overall changes: fasted, +8%, P = 0.0019 (signed-rank test); postprandial peak, +14%, P = 0.0004 (t test); integrated postprandial response over 90 min, +15%, P < 0.0001 (t test)]. There were no
+statistical differences between age groups in the effects of prolonged
+sleep restriction with concurrent circadian disruption on fasting or
+postprandial glucose concentrations. The relative hyperglycemia after
+this breakfast meal was apparently caused by inadequate glucosetriggered pancreatic b cell insulin secretion, because fasting plasma insulin
+and postprandial peak and integrated plasma insulin concentrations were
+significantly reduced [Figs. 2, C, D, G, and H, and 3, B, D, and F; overall
+changes: fasted, −12%, P = 0.0064 (signed-rank test); postprandial peak,
+−27%, P < 0.0001 (t test); integrated postprandial response over 90 min,
+Fig. 1. Study schedule. Participants completed a 39-day laboratory protocol with a baseline sleep-replete condition with 3 weeks of 10 hours/day
+of time in bed at home, then 6 days with ≥10 hours time in bed per day.
+Sleep opportunities (dark bars) were then spread across the circadian
+cycle on a 28-hour forced desynchrony protocol, with 6.5 hours time in
+bed (equivalent to 5.6 hours per 24 hours) and 21.5 hours of monitored
+wakefulness for 3 weeks. A subsequent interval of 10 days of circadian
+re-entrainment with sleep recovery (10 hours time in bed/24 hours) with
+the sleep interval adjusted to the same circadian phase as the baseline
+sleep condition by modification of the duration of the wake interval after
+the last day of forced desynchrony. B, samples taken for standardized
+breakfast meal responses; F, daily fasted blood samples for assessment
+of glucose, insulin, and cortisol; white X, core body temperature (CBT)
+minimum (the line connecting the Xs represents the circadian period
+of the subject). Time from midpoint of sleep to start of breakfasts (gray
+horizontal arrow) was maintained by choosing a day in the last week of
+sleep restriction plus circadian disruption such that the standardized
+meal occurred during this exposure at the same circadian phase as baseline within 4 hours (0.7 ± 1.8 hours), resulting in an average exposure
+duration of 19.2 ± 2.8 24-hour days (range, 15 to 22 days).
+R E S E A R C H A R T I C L E
+www.ScienceTranslationalMedicine.org
+11 April 2012
+Vol 4 Issue 129 129ra43
+2
+ on April 3, 2015
+stm.sciencemag.org
+Downloaded from 
+−27%, P < 0.0001 (t test)]. The glucose and insulin responses to a meal
+revertedbackto baseline levels by the endof the 9-day sleep recovery with
+circadianre-entrainmentsegmentinbothagegroups(Fig.3,DtoF),with
+the exception of the glucose peak, which in the older participants was still
+slightlyelevatedbytheendoftherecoveryphaseandinyoungparticipants
+Fig. 2. Effect of sleep restriction and circadian disruption on postprandial
+glucose and insulin responses in young and older participants. (A to D) In
+young participants, mean profiles [±95% confidence interval (CI)] are depicted for glucose (A and B) and insulin (C and D) responses to an identical,
+standardized breakfast (striped horizontal bar at time = 0) under conditions
+of baseline sleep replete (≥10 hours time in bed/24 hours; dashed black
+line), history of prolonged sleep restriction combined with circadian disruption (5.6 hours time in bed/24 hours; solid red line, left panels), and after
+9 days of stable circadian re-entrainment and recovery sleep (10 hours time
+in bed/24 hours; solid gray line, right panels). (E to H) In older participants,
+same experiment as in (A) to (D), measuring glucose (E and F) and insulin
+(G and H) responses. In each condition, breakfast was served at the same
+circadian temperature phase ± 4 hours (0.7 ± 1.8 hours).
+Fig. 3. Metabolic effects of prolonged exposure to sleep restriction and circadian disruption in young and older participants. Subjects were assessed
+during baseline sleep replete (B, black bars), after an average of 19 days of
+sleep restriction combined with circadian disruption (SRCD, red bars), and
+after 9 days of stable circadian re-entrainment and recovery sleep (R, gray
+bars). In each condition, a fasted sample was collected before an identical
+breakfast and assayed for glucose (A), insulin (B), and leptin (G). For an hour
+after the identical breakfast, samples were taken every 10 min, and another
+was taken at 90 min after the meal and assayed for glucose and insulin. (C to F)
+Peak (C and D) and area under the curve (AUC) values (E and F) were calculated
+over the first postprandial 90 min. (H) Resting metabolic rate (RMR) was
+determined before the meal. Values for insulin and leptin were log-transformed
+before statistical testing. Values are means ± SE. Bonferroni-adjusted P values
+were based on mixed-effects models with age, condition, and age × condition (and sex for RMR) as the fixed effects and participants as the random
+effects. *P ≤0.05; **P ≤0.01; ***P ≤0.001; ****P ≤0.0001. Bonferroni adjustments were applied to each age group separately. n.s., not significant.
+R E S E A R C H A R T I C L E
+www.ScienceTranslationalMedicine.org
+11 April 2012
+Vol 4 Issue 129 129ra43
+3
+ on April 3, 2015
+stm.sciencemag.org
+Downloaded from 
+was lower at recovery (this results in a significant interaction between
+age and condition for the peak postprandial glucose; P = 0.012; Fig. 3C).
+Glucose responses expressed as 2-hour postprandial levels (for comparison to the clinical threshold of 140 mg/dl, which indicates impaired glucose tolerance and prediabetes) revealed that 3 of 21 participants had
+prediabetic postprandial glucose concentrations after prolonged exposure to sleep restriction with circadian disruption, whereas no participants had abnormal responses during baseline or recovery/realignment
+(see profiles, Fig. 2).
+Previous exposure to the combination of 3 weeks of sleep restriction plus circadian disruption significantly reduced RMR relative to
+baseline (−8% on average for all participants). RMR returned toward
+baseline levels in the recovery phase but did not completely recover
+(Fig. 3H). There were no statistical differences between the age groups
+in the relative magnitude of the reduction in RMR.
+Baselinepercentbodyfatwasnotasignificantindependentcontributor
+in the models that we derived (see Materials and Methods) to quantify the
+fasting and postprandial glucose and insulin responses to a standardized
+meal [baseline, peak, area under the curve (AUC) (trapezoidal method),
+and 90-min profiles]. The effects of sleep restriction and circadian disruption on glucose (peak, fasted, AUC) were independent of sex.
+Effect of sleep and circadian disruption on rhythms of
+glucose, insulin, and cortisol
+To determine whether there were changes in blood hormones over the
+course of the exposure to sleep restriction with concurrent circadian disruption, we took fasted samples from each participant upon awakening on each experimental “day” during the first and third weeks of the
+recurring 28-hour cycles (first and third “beat cycles” of the forced
+desynchrony as shown in Fig. 1). When grouped across each week, the
+sampling times encompassed the full range of circadian phases. There
+were significant endogenous circadian rhythms in glucose, insulin, and
+cortisol (Fig. 4) (all P < 0.01), with similar amplitudes and timing between the first and the third week of exposure. For each analyte, peaks
+occurred about 60 circadian degrees relative to the nadir of the CBT
+rhythm (which was assigned a value of 0°), which corresponds to the
+usual morning when under normally entrained conditions. For comparison, fasted (prebreakfast) values were collected in the baseline condition at an average circadian phase of 73 ± 27°, which equates to 4.9 hours
+after the CBT minimum. Mean fasted cortisol and mean fasted glucose
+were similar from week 1 to week 3 (that is, no progressive changes).
+However, fasting insulin levels remained close to baseline during the
+first week of exposure, then declined below baseline by the third week
+(P < 0.0001; Fig. 4). There were no significant differences in any of these
+circadian rhythms by age group or sex (P > 0.05).
+Twenty-four–hour profiles of leptin and free ghrelin
+Compared to baseline, 24-hour profiles of ghrelin concentrations (Fig. 5,
+A to D) were slightly higher during sleep restriction and recovery (both
+P < 0.05), whereas the 24-hour profiles of leptin (Fig. 5, E to H) were
+slightly lower during sleep restriction (P = 0.05) and recovery (P < 0.05).
+In the 24-hour profiles of plasma leptin (Fig. 5, E to H), we observed no
+significant difference between the age groups across conditions or interactions between age group and condition. There was, however, a significant interaction between age group and time (P = 0.04), reflecting
+the higher leptin levels across the scheduled sleep period in young compared to older participants. For 24-hour profiles of free ghrelin (Fig. 5,
+A to D), there were no significant differences between age groups
+across conditions, and there were significant interactions between age
+group and condition (P = 0.02), and between age group and time
+(P < 0.0001), reflecting higher across the scheduled sleep periods free
+ghrelin levels in young compared to older participants.
+Fig. 4. Effect of sleep restriction and circadian disruption on glucose, insulin, and cortisol. (A to D) Mean fasted levels (±95% CI) of glucose (A), log
+insulin (B), and cortisol (C) from samples collected within an hour of
+awakening at all circadian phases and post-void body weight (D). Data
+are from the first week (dotted red lines) and third week (solid red lines)
+of exposure to the combined sleep restriction and circadian disruption. For
+reference, the mean level (±95% CI) of the fasted value at baseline for
+each measure is depicted at the approximate circadian phase of the
+baseline assessment (black circle). Week 1 differed from week 3 for insulin levels and weight. *P ≤0.05; **P ≤0.01; ***P ≤0.001; ****P ≤0.0001.
+R E S E A R C H A R T I C L E
+www.ScienceTranslationalMedicine.org
+11 April 2012
+Vol 4 Issue 129 129ra43
+4
+ on April 3, 2015
+stm.sciencemag.org
+Downloaded from 
+Body weight, diet, activity, and body temperature during
+exposure to sleep restriction with circadian disruption
+Young participants were significantly heavier than older participants
+at baseline (72.3 ± 12.0 kg versus 67.9 ± 11.8 kg; P = 0.04), whereas
+there was no significant difference in body mass index (24.2 ± 2.6 kg/m2
+versus 23.3 ± 1.9 kg/m2). Dual-energy x-ray absorptiometry scans at baseline revealed that the average whole-body fat was not significantly different between age groups [17.2 ± 7.3 kg (24.5 ± 8.5% of body weight)
+in young; 20.6 ± 2.8 kg (31.3 ± 5.6% of body
+weight) in older participants; P = 0.11].
+Average trunk fat was slightly lower in the
+young participants [7.9 ± 3.7 kg (23.0 ±
+8.7% of trunk mass) versus 10.4 ± 2.0 kg
+(31.2 ± 5.2% of trunk mass); P = 0.05] in
+the older participants. Both groups lost
+mass during the study as assessed by fasted,
+post-void weights measured at scheduled
+wake time on the day before each of the
+three standardized metabolic assessments
+(condition: P < 0.0001; age × condition: P =
+not significant). On average, they lost 1.2 ±
+1.3% body mass by the end of sleep restriction with circadian disruption segment
+(P = 0.0003), and had lost 1.7 ± 1.7% by
+the end of the recovery condition compared
+to baseline (P = 0.0003). In a multiple linear
+regression model, changes in body weight
+were unrelated to changes in RMR, consumed calories (total kilocalorie increased
+by an average of only 6 kcal/24 hours from
+baseline to sleep restriction), or actigraphically assessed physical activity (which increased by 58 ± 37% from baseline to
+sleep restriction, presumably due to the
+increased duration of wakefulness). Thus,
+the increase in activity without an increase
+in food intake would be the most likely
+cause of the small reduction in body weight.
+In multiple linear regression models comparing baseline to either sleep restriction
+with circadian disruption or recovery, weight
+changes were not associated with changes
+in 24-hour mean leptin levels (percent
+fat-adjusted), body temperature, activity
+levels, food consumed, or metabolic rate.
+Average CBT actually decreased slightly
+(0.09 F° ± 0.37 SD) and was positively
+correlated with weight decline from baseline to sleep restriction with circadian misalignment {weight difference (in pounds) =
+−0.91 + 2.03× [core temperature difference
+(in F°)]; P = 0.043, r2 = 0.30}, suggesting
+that, on average, 0.1° decrease of core temperature corresponds to 0.2 pounds of decrease in body weight. Effects of combined
+circadian and sleep disruption on changes
+in glucose AUC and insulin AUC were unrelated to changes in body weight (Pearson
+correlation r = 0.28, P = 0.22 and r = 0.35,
+P = 0.12, respectively). In multiple regression analyses, changes in postprandial insulin and glucose were unrelated to energetics
+Fig. 5. Effect of sleep restriction and circadian disruption on free ghrelin and leptin. Free ghrelin and leptin
+were measured in young and older participants at baseline, after an average of 19 days of prolonged sleep
+restriction combined with circadian disruption, and after 9 days of stable re-entrainment and recovery sleep.
+(AtoH) Inyoung (A, C, E,and G)and older participants (B,D, F, and H),meanprofiles (±95% CI) aredepicted for
+free ghrelin (A to D) and leptin per percent body fat (E to H) and aligned relative to an identical, standardized
+breakfast (time = 0) under conditions of baseline sleep replete (≥10 hours time in bed/24 hours; dashed black
+line),history ofprolonged sleep restrictioncombined withcircadiandisruption (5.6 hours time inbed/24 hours;
+solid red line), and after 9 days of stable circadian re-entrainment and recovery sleep (10 hours time in
+bed/24 hours; solid gray line). In each condition, breakfast was served at the same circadian temperature
+phase ± 4 hours (0.7 ± 1.8 hours). Sleep intervals are depicted by horizontal bars, and meals by vertical bars.
+R E S E A R C H A R T I C L E
+www.ScienceTranslationalMedicine.org
+11 April 2012
+Vol 4 Issue 129 129ra43
+5
+ on April 3, 2015
+stm.sciencemag.org
+Downloaded from 
+(changes in RMR, diet consumed, body temperature, and physical activity levels).
+DISCUSSION
+Our findings reveal a potential mechanism that may account for
+results from animal studies and human epidemiological findings, suggesting that sleep restriction and circadian disruption are associated
+with impaired metabolism and increased risk of obesity and diabetes.
+We found that simultaneous exposure to chronic sleep restriction and
+circadian rhythm disruption causes a 32% decrease in insulin secretion
+in response to a standardized meal. This substantially impaired response led to inadequate glucose regulation: glucose levels were higher
+for a longer time and even rose to prediabetic levels in some participants. The inadequate insulin secretion by the b cell may underlie the
+elevated risk of diabetes in people subject to chronic exposure to sleep
+deficiency and recurrent circadian disruption.
+In addition, our data are consistent with recent epidemiological
+results demonstrating that life-style factors, including habitually short
+sleep duration, increase the risk of weight gain over the life course (30).
+The 8% drop in RMR that we measured in our participants who experienced sleep restriction and circadian disruption translates into an
+~12.5-pound increase in weight over a single year (120 kcal/day ×
+365 days/3500 kcal/pound of fat mass), assuming no changes in activity
+or food intake. This weight gain may in turn elevate diabetes risk.
+In 1999, Spiegel et al. described alterations of multiple hormonal
+axes and glucose intolerance in humans when sleep was restricted to
+4 hours per night for 1 week, leading the authors to hypothesize “…that
+chronic sleep loss could increase the severity of age-related pathologies, such as diabetes…” (1). Generally, impaired glucose metabolism
+is caused in one of two ways: (i) changes in insulin secretion in which
+pancreatic b cells do not secrete enough insulin in response to a glucose stimulus, or (ii) altered insulin sensitivity in which peripheral tissues
+fail to respond to an insulin signal by increasing their glucose uptake, the
+usual response to a meal. In recent experiments, when sleep is restricted
+to 5 hours per night for a week, young adult men show reductions in
+insulin sensitivity (measured with both euglycemic hyperinsulinemic
+clamps and intravenous glucose tolerance tests), with no change in the
+acute insulin response and without a change in RMR (3). These findings
+are consistent with those from middle-aged adults restricted to 5.5 hours
+of sleep per night for 2 weeks, who exhibited decreases in insulin sensitivity (31). Thus, we are beginning to understand the extent to which
+sleep deficiency impairs glucose metabolism, but need more information
+about the extent, mechanisms, and dynamics of these changes. The magnitude (hours of sleep per night) and duration of sleep restriction (days
+to weeks) are likely to be important in determining the speed and extent
+of diabetogenic changes.
+Another recent study demonstrated that acute circadian misalignment (sleeping during the biological day and eating during the biological night), as occurs with jet lag and shift work, results in similar
+adverse effects on glucose metabolism: increased postprandial glucose
+despite increased circulating insulin levels, suggesting reduced insulin
+sensitivity, coupled with an inability of the pancreas to sufficiently increase insulin secretion (21). Circadian misalignment usually also involves some degree of sleep restriction (sleep efficiency declined by
+17% when misaligned in that study), representing a combined physiological challenge. The protocol in the present study was a more prolonged and severe challenge, combining sleep and concurrent circadian
+disruption for an average of 19 days. Sleep restriction alone in younger
+men and middle-aged adults leads to no change in RMR (3, 32). However, our prolonged sleep restriction and circadian disruption protocol
+caused a notable decrease in RMR, along with significantly elevated glucose in response to a meal.
+Quite unexpectedly, and unlike previous results from short-term
+acute sleep interventions, we also found a decreased insulin response
+to a standardized meal, suggesting that there was pancreatic dysfunction unrelated to the small loss of body weight. Previous sleep restriction
+studies have shown reduced insulin sensitivity (3, 31) but no change in
+the insulin response to a meal (1). Although a decreased insulin response to a more metabolically challenging glucose tolerance test has
+been reported in one sleep restriction study (1), two more recent studies
+have not observed this change (3, 31). In contrast, acute circadian misalignment results in a higher postprandial insulin response that is nonetheless inadequate (21). Our findings demonstrate that, with long-term
+(chronic) exposure to sleep restriction and circadian disruption, the
+pancreas exhibits more severe dysfunction, as shown by our observation
+that insulin levels actually decreased despite elevated plasma glucose
+levels. This physiological mechanism could explain the association
+of habitual sleep deficiency and elevated risk for obesity and diabetes
+(5, 6) and for weight gain and diabetes in a longitudinal study of male
+night workers (33, 34). In our study, the effects in these healthy individuals were largely reversible with 9 days of stable circadian re-entrainment
+and recovery sleep.
+All of the metabolic assessments that we made during baseline and
+after exposure to chronic sleep restriction and circadian disruption
+were done at the same transiently realigned phase of the central circadian pacemaker. Controlling for the central circadian pacemaker phase
+of the metabolic assessment ensured that the effects observed were due
+to the combination of the previous histories of prolonged sleep restriction and of circadian disruption, rather than acute misalignment. Further research will be necessary to understand the development of
+metabolic dysregulation via desynchronization of the central circadian
+pacemaker with respect to peripheral tissue oscillators and sleep-wake,
+fasting-feeding, and dark-light cycles (35).
+Peripheral clocks are entrained by food intake in rodents (36). Although no data are available from human studies, it is possible that the
+effects we observed are a result of a reduced temporal coordination
+between central circadian pacemaker and peripheral tissues (37) such
+as the pancreas that may be responding to changes in meal timing independent of central circadian clocks (38). Misalignment of the phase
+of peripheral oscillators (for example, in the pancreas and liver) with
+that of the central circadian pacemaker may thus also play a role in metabolic dysregulation. If the central circadian pacemaker and peripheral
+pacemakers are out of phase, then the normally coordinated response
+to a meal may be dysfunctional and lead to abnormal physiological
+responses to food intake. Peripheral metabolism-related oscillators
+coordinate both metabolic and circadian pathways (39) required for
+normal hepatic lipid metabolism and homeostasis (40). These findings
+and others (35), together with our current results, suggest that synchronized central and peripheral circadian processes may also be necessary
+for the optimal regulation of energy homeostasis in mammals.
+Previous studies of sleep restriction in healthy young men have shown
+a decrease in plasma leptin and an increase in total ghrelin coupled
+with increased hunger and appetite (41, 42), possibly reflecting relative
+underfeeding in those studies. A study of young women exposed to a
+R E S E A R C H A R T I C L E
+www.ScienceTranslationalMedicine.org
+11 April 2012
+Vol 4 Issue 129 129ra43
+6
+ on April 3, 2015
+stm.sciencemag.org
+Downloaded from 
+single night of partial sleep restriction revealed an elevation of fasted
+morning leptin levels (43). Epidemiological studies of short sleep duration have shown that shorter self-reported habitual sleep duration
+is associated with lower leptin levels and higher total ghrelin levels
+(44, 45). In contrast, another laboratory study in middle-aged men and
+women exposed to either 8.5 or 5.5 hours per night of time in bed for
+2 weeks but with ad libitum food observed no differences in leptin or
+ghrelin. Instead, calorie consumption in the form of snacking increased,
+such that the participants consumed more than 200 kcal more food per
+day in the sleep-restricted condition (32). This increased food intake
+may have thereby normalized the leptin- and ghrelin-related hunger
+signal associated with sleep restriction. Although we observed no change
+in fasted morning leptin levels in either young or older participants exposed to prolonged sleep restriction, circadian disruption, and controlled
+caloric intake at the end of this segment and through recovery, 24-hour
+leptin was slightly lower and 24-hour free ghrelin was slightly higher.
+This result may indicate that the combination of sleep restriction plus
+circadian disruption may be a qualitatively different challenge than either sleep restriction or circadian disruption alone, or that the prolonged duration of our stimulus (averaging 19 days) may have been
+responsible for the leptin and free ghrelin results.
+Glucose and cortisol concentrations were higher during the first week of
+the combineddisruptions (relative to baseline), andthese levelspersisted
+atallcircadianphasesthroughthethirdweekofexposure.Incontrast,fasting
+insulin levels were the same as baseline for the first week, yet were lower
+through the third week of exposure and were not accompanied by further
+alterations in glucose. The different alterations in these hormones suggest
+that multiple adaptive or maladaptive processes may be at play in this
+longer-term combined exposure study. The changes in fasted insulin from
+the first to the third weeks of exposure are presumably related to impaired
+insulin responses to meals during the prolonged exposure segment.
+We observed some age-related differences at baseline (for example,
+adiposity, RMR, fasted leptin, and body weight), but generally, the
+effects of the exposure were age-independent: Both young and older
+participants responded to prolonged sleep restriction combined with
+circadian disruption with higher glucose levels and lower insulin responses to a standard meal eaten at a consistent circadian phase. We
+did observe a differential recovery response by age for RMR and postprandial peak glucose. This general lack of age effect was contrary to our
+expectations. We note that we studied healthy nonobese participants to
+ensure that comorbidities did not influence results. Thus, our older
+participants were very likely to be more healthy than the general older
+population at large, in whom responses may be different.
+Our study has limitations. Although we did see differences between
+the first and the third week of the challenge, to determine the actual
+mechanisms underlying these effects, future studies will need to have
+more frequent assessments for weeks to months of exposure, and use
+challenges such as meal responses, intravenous glucose tolerance tests,
+and glucose clamp studies. We did not assess changes by, or control
+for, the phase of the menstrual cycle in female participants, but there
+were no notable differences by sex or between age groups, possibly suggesting no difference between responses in these younger premenopausal and older postmenopausal women. The weight loss observed
+during the sleep restriction and circadian disruption segment may have
+been a result of the participants’ relatively underfed state. However, the
+average observed weight loss was quite minor (1.2% of body weight during the exposure segment). Moreover, in correlation analyses, the degree
+of weight loss in individual participants was not significantly related to
+their metabolic changes, and the weight loss persisted during the recovery phase when metabolic responses had returned to baseline. Thus, the
+reduction in insulin levels with sleep restriction and circadian disruption in the current study likely occurred via mechanisms unrelated to
+changes in body mass or any underfeeding.
+Our results suggest that efforts to reduce the health impact and risk
+of diabetes in shift workers should focus on improving sleep duration
+and circadian realignment strategies to minimize circadian disruption
+and desynchrony of central and peripheral circadian oscillators.
+MATERIALS AND METHODS
+Study design
+All participants were studied in the Intensive Physiological Monitoring
+Unit of the Center for Clinical Investigation at Brigham and Women’s
+Hospital (Boston, MA) and provided written informed consent. All procedures were approved by the Partners Human Research Committee
+and were conducted in accordance with the Declaration of Helsinki.
+Participant recruitment and screening
+Healthyadultparticipantswererecruitedusingnewspaperadvertisements,
+flyers, and Web site postings. To ensure stable circadian rhythms, participants had no history of regular night shift work for the 3 years before
+the study and no history of travel across more than two time zones in the
+3 months before the study. Licensed physicians and clinical psychologists
+performed physical examinations and psychological screenings. Participants underwent an all-night clinical polysomnogram to rule out sleepdisordered breathing and other sleep disorders. Participants were free of
+any disorders of sleep, circadian rhythms, and metabolism and passed a
+urine toxicology screen during screening and upon admission to the
+inpatient study. Participants received payment for volunteering in this
+study, equivalent to ~$10 per hour when in the laboratory.
+Prestudy conditions
+Participants were instructed to maintain a consistent sleep-wake schedule for at least 21 days (mean, 29.3 ± 12.3 days; range, 21 to 69 days)
+before admission with a 10-hour per night scheduled time in bed, at a
+self-selected, regular time, and compliance with these instructions was
+confirmed by wrist actigraphy for at least 3 weeks before admission
+(Actiwatch-L, Mini Mitter). A sleep diary and calls to a time-stamped
+phone answering system assured compliance.
+Inpatient study conditions
+Participants were admitted to the Intensive Physiological Monitoring
+Unit of the Center for Clinical Investigation at Brigham and Women’s
+Hospital for the 39-day inpatient stay (Fig. 1) in a controlled laboratory
+environment free of time cues, maintained at a temperature of 75 ±
+3°F. The first 3 days each included a 12-hour nighttime sleep opportunity; days 2 to 4 had a nap near the middle of the normal waking time
+to achieve sleep satiation. Days 4 to 6 included a 10-hour nighttime
+sleep opportunity (referred to as baseline). This was followed by the
+forced desynchrony portion of the protocol, consisting of eighteen,
+28-hour sleep-wake cycles with a 21.47-hour wake episode and a 6.53-hour
+sleep opportunity (equivalent to 5.6 hours of sleep opportunity per
+24 hours) over 3 weeks. For recovery, participants were realigned to
+their baseline circadian phase for light-dark, meal, and sleep-wake
+cycles, then spent 10 inpatient days each at an entrained circadian
+R E S E A R C H A R T I C L E
+www.ScienceTranslationalMedicine.org
+11 April 2012
+Vol 4 Issue 129 129ra43
+7
+ on April 3, 2015
+stm.sciencemag.org
+Downloaded from 
+phase with a 10-hour nighttime sleep opportunity before being discharged. During wakefulness, participants were allowed to perform activities such as writing, reading, board or card games, movie viewing, arts
+and crafts, listening to or playing music, and mild stretching (exercise was
+prohibited). Research technicians observed participants throughout the
+study, either by closed-circuit television or by direct observation during
+waking episodes throughout the laboratory protocol. Light levels were
+maintained at <0.02 lux during sleep opportunities and at <15 lux during
+wake episodes to avoid circadian phase–resetting effects of light.
+Timing of metabolic assessments and
+recovery sleep episodes
+During the three stages of the experiment, we made metabolic assessments of at least 24 hours at similar circadian phases (±4 hours), as
+determined by CBT collected at 1-min intervals with a rectal thermistor (Measurement Specialties). Circadian period and phase of CBT were
+analyzed with nonorthogonal spectral analysis (NOSA), as previously
+described (28). NOSA analysis was also used to determine the initial
+endogenous CBT minimum. Even though all participants were exposed
+to the same 21-day challenge, we wanted to ensure that standardized
+metabolic measurements were made in the different conditions at closely
+matched central circadian pacemaker phases for each participant. Further, there were slight differences in the intrinsic circadian period among
+participants. For these reasons, the measurement period during the challenge segment occurred on slightly different protocol days among the
+participants. The average period of the internal circadian pacemaker
+was 24.13 ± 0.22 hours (range, 23.46 to 24.50 hours; P = not significant
+for age), the average duration of challenge at the time of the metabolic
+assessments was 19.2 ± 2.8 24-hour days (range, 15 to 22 days), and the
+average difference in circadian phase relative to baseline at the times of
+these measurements was +0.7 ± 1.8 hours.
+Forced desynchrony (circadian disruption)
+metabolic assessments
+Upon waking each day during weeks 1 and 3 of the sleep restriction
+combined with circadian disruption segment, fasted blood samples
+were drawn through an indwelling intravenous catheter for assessment of glucose, insulin, cortisol, leptin, and free ghrelin. By design,
+these samples were collected across a range of circadian phases to quantify the acute and chronic effects of both circadian misalignment and
+circadian disruption with the scheduled light-dark, feeding-fasting,
+and sleep-wake schedule.
+Controlled diet
+During the inpatient portion of the study, participants received an isocaloric, controlled nutrient diet consisting of 55 to 60% carbohydrate,
+15 to 20% protein, 15 to 30% fat, 150 meq Na+ (±20%), 100 meq K+
+(±20%), and a minimum of 2.5 liters of fluid per 24 hours. The initial
+diet was designed based on the Harris-Benedict equation with an activity factor of 1.4 (46). Each participant was given identical breakfast
+meals during the three intensive 24-hour sampling intervals at baseline, at the end of the forced desynchrony, and after 9 days of stable
+circadian re-entrainment and recovery sleep. Participants were required
+to finish all food. A eucaloric diet was maintained by increasing or
+decreasing kilocalories when changes in wake-time, fasted, post-void
+weights exceeded 1 kg. Weighed foods confirmed that actual consumed
+diet changed from baseline by a mean of only 6 kcal/24 hours during
+the forced desynchrony segment.
+Resting metabolic rate
+A validated and Food and Drug Administration–approved indirect calorimeter (Medgem 100, HealtheTech Inc.) was used to estimate RMR in
+kilocalories per day from expired gases (47). Measurements were made
+after wake time for 12 to 15 min before standardized breakfasts.
+Blood sampling
+Fasting blood samples were taken on multiple days throughout the inpatient stay. During the three intensive 24-hour sampling intervals,
+blood sampleswere taken every 10 min for an hour after breakfast, every
+30 min during the following 2 hours, and hourly at all other times.
+Assays
+Glucose was assayed with Gluco-quant Glucose/HK kits (Roche Diagnostics GmbH) with a sensitivity of 2 mg/dl, an inter-assay precision
+CV (coefficient of variation) of 1.7%, and an intra-assay precision CV
+of 1.0%. Insulin and cortisol were assayed with kits from Beckman
+Coulter Inc. The insulin assay had a sensitivity of 0.03 mIU/ml, an interassay precision of 3.1 to 5.6%, and an intra-assay precision of 2.0 to
+4.2%. The cortisol assay had a sensitivity of 0.4 mg/dl, an inter-assay precision of 6.4 to 7.9%, and an intra-assay precision of 4.4 to 6.7%. Leptin
+and active ghrelin were measured with ELISA (enzyme-linked immunosorbent assay) kits (Millipore Corp.). The leptin assay had a sensitivity
+of 0.5 ng/ml for the standard assay (25-ml sample size) and 0.125 ng/ml
+for the sensitive assay and an inter-assay precision of 2.6 to 6.2% for the
+standard assay and 1.3 to 8.6% for the sensitive assay and an intra-assay
+precision of 2.6 to 4.6% for the standard assay and 1.4 to 4.9% for the
+sensitive assay. The sensitive assay was used to repeat samples with
+results below the threshold of the standard assay. The ghrelin assay
+had a sensitivity of 8 pg/ml, an inter-assay precision of 3.5 to 6.6%,
+and an intra-assay precision of 1.6 to 3.6%.
+Study participants
+Of the 24 participants to complete the study protocol, 21 were included
+in these analyses: 11 young (5 female; mean, 23 ± 2 years) and 10 older
+(5 female; 60 ± 5 years). One participant was excluded from these
+analyses because blood samples were not obtained during intensive
+sampling intervals due to intravenous sampling difficulties. One young
+and one older participant were excluded from these analyses because
+their circadian temperature phase on the evaluation day after exposure
+to circadian disruption and sleep restriction was >4 hours different
+from that at baseline.
+Statistical methods
+Data are presented as means ± SD unless otherwise indicated. Linear
+or generalized mixed-effects models were applied to study the effects
+of the history of sleep restriction combined with circadian disruption
+on metabolic measures. Participants were treated as random effects.
+For studying the postprandial responses (baseline, peak, AUC by the
+trapezoidal method, and 90-min profiles), condition (baseline, exposure, recovery), age group, sex, and percent body fat were treated as
+fixed effects and were entered into the initial model, but only significant variables are reported in the final models. Because age was a main
+interest, age and the interaction of age and condition were retained in
+all models. For studying the effect of exposure to the combination of
+circadian disruption and sleep restriction on fasted sample measures
+during the exposure, we used identical models, adding a term for number of weeks into the exposure (beat cycle). Linear regression models
+R E S E A R C H A R T I C L E
+www.ScienceTranslationalMedicine.org
+11 April 2012
+Vol 4 Issue 129 129ra43
+8
+ on April 3, 2015
+stm.sciencemag.org
+Downloaded from 
+were used to study the relationship between changes in insulin and body
+weight and changes in RMR, diet consumed, body temperature, and
+wrist physical activity levels. Significant effects were defined as P <
+0.05. All tests are two-sided (48).

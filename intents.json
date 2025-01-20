@@ -1,0 +1,148 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Привет!",
+        "Здравствуйте!",
+        "Добрый день!",
+        "Привет, как дела?",
+        "Добрый вечер!"
+      ],
+      "responses": [
+        "Привет! Как я могу помочь?",
+        "Здравствуйте! Чем могу быть полезен?",
+        "Добрый день! В чем нужна помощь?"
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "До свидания!",
+        "Пока!",
+        "До встречи!",
+        "Увидимся!",
+        "Прощай!"
+      ],
+      "responses": [
+        "До свидания! Буду рад помочь снова.",
+        "Пока! Берегите себя.",
+        "Увидимся! Хорошего дня!"
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "insulin",
+      "patterns": [
+        "What is insulin?",
+        "Define insulin",
+        "Insulin meaning",
+        "Role of insulin in the body",
+        "What does insulin do?"
+      ],
+      "responses": [
+        "Insulin is a peptide hormone produced by the beta cells of the pancreas, essential for regulating blood glucose levels. It facilitates the uptake of glucose by cells for energy production or storage as glycogen and plays a critical role in lipid and protein metabolism."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "blood_glucose",
+      "patterns": [
+        "What is blood glucose?",
+        "Define blood glucose",
+        "Blood glucose levels",
+        "Normal blood glucose range",
+        "What does blood glucose mean?"
+      ],
+      "responses": [
+        "Blood glucose refers to the amount of glucose present in the bloodstream, typically measured in milligrams per deciliter (mg/dL). Normal fasting blood glucose levels range from 70 to 99 mg/dL, and glucose serves as a primary energy source for cellular processes, especially in the brain and muscles."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "candidemia",
+      "patterns": [
+        "What is candidemia?",
+        "Define candidemia",
+        "Symptoms of candidemia",
+        "What causes candidemia?",
+        "Candidemia treatment"
+      ],
+      "responses": [
+        "Candidemia is a severe bloodstream infection caused by Candida species, which are opportunistic pathogens. It can result from invasive medical procedures, the use of central venous catheters, or weakened immune systems. Symptoms may include fever, chills, and sepsis, requiring prompt antifungal treatment."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "yeasts",
+      "patterns": [
+        "What are yeasts?",
+        "Define yeasts",
+        "Role of yeasts",
+        "Are yeasts harmful?",
+        "Examples of yeasts"
+      ],
+      "responses": [
+        "Yeasts are single-celled fungi that reproduce by budding or fission. While many yeasts, such as Saccharomyces cerevisiae, are harmless or beneficial, some, like Candida albicans, can become pathogenic under certain conditions, leading to infections in the skin, mucous membranes, or bloodstream."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "правильное питание",
+      "patterns": [
+        "Что такое правильное питание?",
+        "Определение правильного питания",
+        "Зачем нужно правильное питание?",
+        "Как поддерживать правильное питание?",
+        "Польза правильного питания"
+      ],
+      "responses": [
+        "Правильное питание — это организация режима и рациона питания, обеспечивающая организм всеми необходимыми питательными веществами в оптимальных количествах и соотношениях для поддержания здоровья, работоспособности и профилактики заболеваний."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "здоровый образ жизни",
+      "patterns": [
+        "Что такое здоровый образ жизни?",
+        "Определение здорового образа жизни",
+        "Как вести здоровый образ жизни?",
+        "Польза здорового образа жизни",
+        "Компоненты здорового образа жизни"
+      ],
+      "responses": [
+        "Здоровый образ жизни — это комплексное поведение и привычки, направленные на поддержание и улучшение физического, психического и социального благополучия, включая рациональное питание, физическую активность, отказ от вредных привычек и соблюдение режима дня."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "физкультурное образование",
+      "patterns": [
+        "Что такое физкультурное образование?",
+        "Определение физкультурного образования",
+        "Цель физкультурного образования",
+        "Польза физкультурного образования",
+        "Что включает физкультурное образование?"
+      ],
+      "responses": [
+        "Физкультурное образование — процесс обучения и воспитания, направленный на формирование знаний, умений и навыков в области физической культуры, развитие физических качеств и воспитание устойчивой потребности в здоровом образе жизни."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "мониторинг здоровья",
+      "patterns": [
+        "Что такое мониторинг здоровья?",
+        "Определение мониторинга здоровья",
+        "Цель мониторинга здоровья",
+        "Как проводить мониторинг здоровья?",
+        "Польза мониторинга здоровья"
+      ],
+      "responses": [
+        "Мониторинг здоровья — это регулярное наблюдение за состоянием организма с использованием медицинских, технологических и самоконтрольных методов для своевременного выявления изменений, профилактики и лечения заболеваний."
+      ],
+      "context": [""]
+    }
+  ]
+}

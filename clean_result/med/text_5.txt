@@ -1,0 +1,502 @@
+2182
+DIABETES, VOL. 48, NOVEMBER 1999
+Disruption of Circadian Insulin Secretion Is
+Associated With Reduced Glucose Uptake in 
+First-Degree Relatives of Patients With 
+Type 2 Diabetes
+Guenther Boden, Xinhua Chen, and Marcia Polansky
+The objective of this study was to evaluate whether
+first-degree relatives (FDRs) of patients with type 2 diabetes had abnormal circadian insulin secretion and, if
+so, whether this abnormality affected their glucose
+metabolism. Six African-American FDRs with normal
+glucose tolerance and 12 matched normal control subjects (who had no family history of diabetes) were
+exposed to 48 h of hyperglycemic clamping (~12 m m o l / l ) .
+Insulin secretion rates (ISRs) were determined by
+deconvolution of plasma C-peptide levels using individual C-peptide kinetic parameters. Detrending and
+smoothing of data (z-scores) and computation of autocorrelation functions were used to identify ISR cycles.
+During the initial hours after start of glucose infusions,
+ISRs were ~60% higher in FDRs than in control subjects
+(585 vs. 366 nmol/16 h, P < 0.05), while rates of glucose
+uptake were the same (5.6 mmol · kg– 1 · h– 1), indicating
+that the FDRs were insulin resistant. Control subjects
+had well-defined circadian (24 h) cycles of ISR and
+plasma insulin that rose in the early morning, peaked in
+the afternoon, and declined during the night. In contrast, FDRs had several shorter ISR cycles of smaller
+amplitude that lacked true periodicity. This suggested
+that the lack of a normal circadian ISR increase had
+made it impossible for the FDRs to maintain their compensatory insulin hypersecretion beyond 18 h of hyperglycemia. As a result, ISR decreased to the level found
+in control subjects, and glucose uptake fell below the
+level of control subjects (61 vs. 117 µmol · kg– 1 · min– 1,
+P < 0.05). In summary, we found that FDRs with normal
+glucose tolerance had defects in insulin action and
+secretion. The newly recognized insulin secretory
+defect consisted of disruption of the normal circadian
+ISR cycle, which resulted in reduced insulin secretion
+(and glucose uptake) during the ascending part of the
+24 h ISR cycle. D i a b e t e s 4 8 :2 1 8 2–2188, 1999
+F
+irst-degree relatives (FDRs) of patients with type
+2 diabetes develop diabetes at a greater rate than
+the normal population (1–3) and have been used to
+uncover early abnormalities that may be important
+in the development of type 2 diabetes. For instance, several
+studies have shown that in glucose-tolerant FDRs, defects in
+insulin action precede defects in insulin secretion (1,4–8). Others, however, have shown the opposite: namely, defects in
+insulin secretion preceding defects in insulin action (9).
+Hence, the question remains unsettled as to whether insulin
+resistance or insulin deﬁciency is the primary pathogenetic
+event in type 2 diabetes.
+We have recently demonstrated that normal subjects have
+circadian (24 h) cycles of insulin secretion and plasma insulin
+levels (rising in the early morning, peaking in the afternoon,
+and declining during the night) (10), which were different
+from the earlier recognized short (10–14 min) and longer (1–3
+h) pulsatile cycles of insulin secretion (11–13). These circadian
+cycles of insulin secretion rate (ISR) and plasma insulin levels were absent in patients with type 2 diabetes (14). It is currently not known whether the absence of circadian ISR cycles
+in type 2 diabetes is a secondary phenomenon, i.e., a consequence of the multiple metabolic and hormonal abnormalities
+of type 2 diabetes, or whether it is a primary, and perhaps
+p a t h o p h y s i o l o g i c a l l y, important phenomenon.
+The goal of this study was, therefore, to determine
+whether FDRs have abnormal circadian insulin secretion
+and, if so, whether this could affect their glucose metabolism.
+To this end, we have measured ISR and glucose uptake rates
+during 48 h of hyperglycemic clamping in FDRs with normal
+glucose tolerance and in matched normal control subjects.
+Hyperglycemia was used because it facilitates recognition of
+circadian ISR periodicity (10).
+RESEARCH DESIGN AND METHODS
+S u b j e c t s . We have studied six African-American FDRs. Of these, four had one and
+the other two had two parents with type 2 diabetes. In addition, we have studied
+12 African-American control subjects without a family history of diabetes. The control subjects were divided into two groups. Group 1 (n = 8) was matched for sex,
+weight, and age with the FDRs. Group 2 (n = 4) was matched with FDRs for sex,
+weight, and age, as well as for ISR (Table 1). All study subjects had normal oral
+glucose tolerance tests (Fig. 1); none were taking any medications or participated
+in regular exercise programs. Their weights were stable for at least 2 months, and
+their diets contained a minimum of 250 g of carbohydrate for at least 2 days before
+the studies. The purpose, nature, and potential risks of the study were explained
+From the Division of Endocrinology/Diabetes/Metabolism and the General
+Clinical Research Center, Temple University School of Medicine, Philadelphia, Pennsylvania.
+Address correspondence and reprint requests to Guenther Boden, MD,
+Temple University Hospital, 3401 N Broad St., Philadelphia, PA 19140.
+Received for publication 11 May 1999 and accepted in revised form
+4 August 1999.
+AUC, area under the curve; FDR, first-degree relative; GIR, glucose infusion rate; GR d, rate of isotopically determined glucose disappearance; ISR,
+insulin secretion rate.
+DIABETES, VOL. 48, NOVEMBER 1999
+2183
+G. BODEN, X. CHEN, AND M. POLANSKY
+to all subjects, and informed consent was obtained. The protocol was reviewed
+and approved by the Institutional Review Board of Temple University Hospital.
+Experimental design. All subjects were admitted to Temple University Hospit a l ’s General Clinical Research Center on the morning of the studies and received
+a standard breakfast at ~9:00 A M. To test the effects of hyperglycemia on insulin
+secretion and action, hyperglycemic clamps (~12 mmol/l) were started between
+1:00 and 2:00 P M and continued for 48 h. A short polyethylene catheter was
+inserted into an antecubital vein for infusion of test substances. Another catheter
+was placed into a contralateral forearm vein for blood sampling. This arm was
+wrapped with a heating blanket (~70°C) to arterialize venous blood.
+Hyperglycemic clamps. A 20% glucose solution was infused at variable rates
+calculated to maintain plasma glucose at ~12 mmol/l. Plasma glucose was monitored, and infusion rates were adjusted every hour, or more frequently when
+needed. The patients fasted but were allowed to drink water. Plasma electrolytes
+were monitored every 6 h, body weight every 12 h, and ﬂuid balance every 6 h.
+Fluid balance was maintained with infusion of normal saline. Potassium and magnesium were added to the glucose infusions as needed to maintain normal
+plasma concentrations. Blood samples were collected every 30 min for the initial 2 h of glucose infusion and every 2 h thereafter for measurement of glucose,
+insulin, and C-peptide.
+C-peptide kinetic studies. C-peptide kinetics, needed to calculate insulin secretory rates, were determined several days before the studies. An intravenous
+bolus of 50 nmol of biosynthetic human C-peptide (Eli Lilly, Indianapolis, IN) was
+administered to each subject after an overnight fast, and plasma C-peptide was
+measured at frequent intervals for 3 h as described by Polonsky et al. (13) and Va n
+Cauter et al. (15). Individual kinetic parameters of C-peptide clearance were
+determined by analysis of the C-peptide decay curves.
+I S R s . The C-peptide kinetic parameters were used to calculate insulin secretory
+rates during the hyperglycemic period by deconvolution of peripheral C-peptide
+concentrations according to Polonsky et al. (16). Plasma volume was assumed
+to be 4.1% of ideal body weight plus 1% of excess body weight (17).
+Determination of diurnal ISR cycles. ISR data were converted to detrended
+z-scores using robust biweight regression (18).
+Detrended z-scores were calculated as (ISR – ISRp r e d i c t e d) / S Dregression, w h e r e
+I S Rp r e d i c t e d equals ISR from the ISR versus time regression and SDr e g r e s s i o n e q u a l s
+the standard deviation of the regression line. The autocorrelation function (A) was
+determined separately for each subject as A(T) = e C(t) · C(t + T)dt, where C i s
+normalized data points, t is the time, and T the lag time of the correlation (19), and
+was used to determine ISR periodicity. Measurements were smoothed using
+splines (20). Regression analysis with ISR as the dependent variable, the cosine
+of time (with periodicity set to 24 h) as the independent variable (21), and ﬁr s t order autocorrelated errors was performed for each subject.
+Glucose turnover. Glucose turnover was determined by isotope dilution analysis before (0 h) and after 24 h of hyperglycemia. After a bolus of 30 µmol/kg,
+[ 6 , 6-2H2]glucose was infused intravenously for 2 h at a rate of 0.3 µmol · kg– 1 · min– 1.
+Glucose was isolated from blood drawn at –90, 0, and 30 min for determination of
+isotope enrichment by gas chromatography mass spectrometry (Model 4610-B;
+Finnigan Mat, San Jose, CA) (22). Rates of glucose appearance and disappearance
+were calculated from the isotope enrichment with Steele’s equation for
+non–steady state conditions (23). Underestimation of glucose appearance rates during hyperglycemia was avoided by adding [6,6-2H2]glucose to the unlabeled glucose
+infused to maintain hyperglycemia (24). In addition, the rate of glucose infused to
+maintain the glucose clamp (GIR) was used as an estimation of glucose uptake.
+Analytical procedures. Plasma glucose was measured with a glucose analyzer
+with the glucose oxidase method; serum free insulin was determined by radioimmunoassay after polyethylene glycol precipitation using an antiserum with minimal (<0.2%) cross-reactivity with proinsulin and with des-31,32-proinsulin (Linco
+Research, St. Charles, MO); C-peptide was determined by radioimmunoassay
+with an antiserum that cross-reacted <4% with proinsulin (Linco); and proinsulin was determined with an antiserum that cross-reacted 95% with des-31,32human proinsulin and <0.1% with des-64,65-human proinsulin, C-peptide, and
+insulin (Linco). Electrolytes were measured at Temple University Hospital’s
+Chemistry Laboratory.
+Statistical analysis. All data were expressed as means ± SE. Statistical signiﬁcance was assessed using analysis of variance and Student’s two-tailed t test when
+indicated. The variations in ISR and insulin concentration with time were analyzed
+by repeated measures analysis of variance with the SAS program (SAS Institute,
+C a r y, NC). The Wilcoxon test was used to compare the median autocorrelations
+of FDR and control subjects and to test for the signiﬁcance of the median of the
+coefficients of the cosine function of time.
+R E S U LT S
+Basal glucose and insulin levels. Basal plasma glucose
+concentrations were 4.8 ± 0.2 mmol/l in control subjects and
+4.8 ± 0.2 mmol/l in FDRs (NS). Basal serum insulin concentrations were 36 ± 6 pmol/l in control subjects and 60 ±
+6 pmol/l in FDRs (P < 0.05). Basal C-peptide concentrations
+were 0.40 ± 0.06 nmol/l in control subjects and 0.62 ± 0.10
+nmol/l in FDRs (P < 0.05). The basal hyperinsulinemia in
+FDRs suggested basal insulin resistance.
+Insulin secretion during hyperglycemia. Glucose concentrations during the 48-h glucose infusion were the same
+in FDR and control subjects (11.8 ± 0.2 and 12.0 ± 0.3 mmol/l,
+r e s p e c t i v e l y, NS) (Fig. 2A). During the initial 2 h of hyperglycemia (from 2:00 to 4:00 P M), ISR rose from 67 ± 9 to 442
+± 54 pmol/min (P < 0.01) in control subjects and from 94 ± 19
+to 736 ± 143 pmol/min (P < 0.01) in FDRs. During the initial
+16–18 h of hyperglycemia, areas under the ISR curves (AUC
+ISR) were ~60% larger in FDR than in control subjects (585
+± 98 vs. 366 ± 60 nmol/16 h, P < 0.05).
+Between 18 and 24 h, ISR remained essentially unchanged
+in FDRs but rose in control subjects as part of their normal
+2 4-h cycle so that at 24 h, ISRs were the same in control subjects and FDRs (Fig. 2B). Between 24 and 48 h, ISRs slowly
+declined in FDRs, while in control subjects, ISRs ﬁr s t
+declined and then started to rise again.
+TABLE 1
+Characteristics of study subjects
+Control subjects
+F D R s
+1
+2
+P
+Sex (M/F)
+5 / 1
+7 / 1
+4 / 0
+N S
+Age (years)
+30 ± 4
+34 ± 3
+33 ± 5
+N S
+Height (cm)
+177.5 ± 3.4
+178.9 ± 3.3
+183.0 ± 3.7
+N S
+Weight (kg)
+87.0 ± 7.3
+83.1 ± 2.5
+89.0 ± 3.5
+N S
+BMI (kg/m2)
+27.6 ± 2.1
+26.2 ± 0.4
+26.9 ± 1.3
+N S
+Control subjects in group 2 had initial ISRs comparable to those
+of FDRs.
+FIG. 1. Plasma glucose concentrations during 2-h oral glucose tolerance tests in 6 FDR (d) and in 12 sex, age, and weight matched normal control subjects (s). All subjects received 75 g of glucose at 0 min.
+Data shown are means ± SE. The difference at 30 min was not statistically significant.
+2184
+DIABETES, VOL. 48, NOVEMBER 1999
+ABNORMALINSULIN SECRETION IN FIRST-DEGREE RELATIVES
+Peripheral insulin concentrations followed closely the
+course of ISRs, rising in response to intravenous glucose and
+attaining higher concentrations in FDR than in control subjects during the initial 16–18 h (AUC insulin 22.7 ± 2.4 vs. 14.4
+± 2.5 nmol · l– 1 · 16 h– 1, P < 0.05), then reaching equal concentrations between 18 and 24 h and declining together
+between 24 and 48 h (Fig. 2C) .
+The inability of FDRs to raise their ISR after 18 h of hyperglycemia could have been a consequence of unsustainably
+high ISR. We, therefore, tested four control subjects (Table 1,
+group 2) whose mean initial ISRs (from 2 to 18 h) were as high
+as those of the FDRs (511 ± 35 vs. 479 ± 26 pmol/min). In contrast to the FDRs, ISR in these control subjects had a normal
+circadian increase, starting at ~18 h, demonstrating that ISR
+in the 600–800 pmol/min range did not disrupt their circadian
+insulin secretion (Fig. 3).
+Glucose uptake. GIR, reﬂecting insulin plus glucose-stimulated glucose uptake, were the same during the initial 18 h of
+hyperglycemia in control subjects and FDRs (AUC GIR 5.6 ±
+0.3 vs. 5.6 ± 0.6 mmol · kg– 1 · h– 1). When the ISR became
+equal in FDR and control subjects between 18 and 24 h, GIR
+in FDRs started to decline relative to control subjects and
+remained lower in FDR than control subjects between 24
+and 48 h (AUC GIR 4.13 ± 0.45 vs. 3.16 ± 0.5 mmol · kg– 1 · h– 1,
+P < 0.05) (Fig. 2D) .
+Rates of isotopically determined glucose disappearance
+(GR d) (the calculation of which, unlike GIR, is not affected
+by residual endogenous glucose production) were similar
+( 7 2 ± 9 vs. 80 ± 4 µmol · kg– 1 · min– 1, NS) in control subjects
+and FDRs, respectively, after ~1 h of hyperglycemia. After
+2 4 h of hyperglycemia, however, GR d was higher in control
+subjects than in FDRs (117 ± 6 vs. 61 ± 6 µmol · kg– 1 · min– 1,
+P < 0.05), conﬁrming the presence of uncompensated insulin
+resistance in FDRs.
+Circadian rhythmicity of ISR. The temporal pattern of
+ISR was markedly different in FDR and control subjects. In
+control subjects, ISR started to rise in the early morning
+hours, peaked in the early afternoon, and then declined to
+reach a nadir between 2:00 and 6:00 A M the next day (Figs. 2
+and 4). The ISR pattern in FDRs was irregular, the detrended
+data showing several peaks of smaller amplitude and shorter
+duration that more or less disappeared upon smoothing (Fig.
+4, upper a n d middle panels). This abnormal pattern of ISR
+was seen in all six FDRs (Fig. 5).
+The ﬁrst-order autocorrelation function in control subjects was positive for lags of 1–4 h, then became negative for
+lags of 4–16 h, and after that reverted to become positive
+again, suggesting a periodicity of ~24 h. The cosine function
+of time in the regression model was highly signiﬁcant (P <
+0.001), conﬁrming periodicity of ISR (Fig. 4, lower panel). In
+contrast, there was no clear periodicity in FDRs. Mean ﬁr s t FIG. 2. Plasma glucose and insulin levels and ISRs and GIRs during 48 h
+of hyperglycemic clamping in six FDRs (d) and eight matched normal
+control subjects (s). A: Glucose; B: ISR; C: insulin; D: GIR.
+FIG. 3. Plasma glucose levels and ISRs during 48 h of hyperglycemic
+clamping in four normal control subjects (s) and six FDRs (d). The
+normal control subjects were selected to have initial ISR comparable
+to those of the relatives.
+DIABETES, VOL. 48, NOVEMBER 1999
+2185
+G. BODEN, X. CHEN, AND M. POLANSKY
+order autocorrelation in FDRs was close to 0, indicating that
+there were short-term ﬂuctuations in ISR over 2-h periods (P =
+0.01 for the difference in short-term ISR ﬂuctuations between
+relatives and control subjects). The 24-h autocorrelation was
+also close to 0, and the autocorrelation function did not have
+a wave-like appearance, which indicated that there was no
+true 24-h periodicity. Similar results were obtained with
+plasma insulin levels (data not shown).
+Plasma cortisol and melatonin. Cortisol and melatonin
+concentrations were determined during one full 24-h cycle to
+test whether these hormones had maintained their normal circadian rhythmicity. Cortisol and melatonin levels both rose,
+peaked, and declined similarly in normal control subjects
+and FDRs (Fig. 6).
+P r o i n s u l i n . To assess whether hyperglycemic stress could
+have caused a dysfunction in the processing of proinsulin to
+insulin, plasma proinsulin and proinsulin-to-insulin ratios
+were measured serially. Basal proinsulin concentrations
+were 6.0 ± 2.1 pmol/l in control subjects and 12.0 ± 1.5 pmol/l
+in FDRs (P < 0.05). Basal molar proinsulin-to-insulin ratios
+were 0.15 ± 0.04 in control subjects and 0.21 ± 0.03 in FDRs
+(NS). During hyperglycemia, proinsulin rose in both groups,
+stabilizing at ~50–60 pmol/l in control subjects and at
+~110–120 pmol/l in FDRs. The proinsulin-to-insulin ratios
+decreased initially during glucose infusion (P < 0.05) (from
+0.15 ± 0.04 to 0.04 ± 02 in control subjects and from 0.21 ± 0.03
+to 0.06 ± 0.007 in FDRs, P < 0.05) and subsequently rose in
+both groups, approaching basal rates at the end of the studies (0.13 ± 0.08 and 0.16 ± 0.03 at 44 h). At no time were
+proinsulin-to-insulin ratios in control subjects and FDRs
+s i g n i ﬁcantly different from each other (Fig. 7).
+D I S C U S S I O N
+Disrupted circadian insulin secretion in FDRs. The normal control subjects in this study exhibited well-deﬁned 24h (circadian) cycles of ISR and insulin levels, rising in the early
+morning hours, peaking in the early afternoon, and declining
+during the night, conﬁrming previous ﬁndings (10). In contrast,
+all six FDRs had no circadian cycles of ISR (or of insulin), but
+instead had several irregular and shorter ISR cycles that
+lacked true periodicity (Figs. 4 and 5). Similar results were
+obtained when plasma insulin levels were analyzed (data not
+shown). The cause for the abnormal patterns of ISR and
+insulin in FDRs is not known. Numerous publications, howe v e r, have demonstrated a strong relationship between the
+light/dark cycle, plasma melatonin levels, a robust marker of
+circadian light/dark periodicity (25,26), and circadian biorhythms, including those associated with blood pressure,
+core body temperature, and plasma cortisol levels (27,28).
+M o r e o v e r, there is strong evidence that nerves, which monoFIG. 4. ISRs in eight normal control subjects (left panels) and in six FDRs (right panels). Mean z-scores of detrended values of the first complete circadian ISR cycle are shown in the upper panels; mean z-scores of detrended and smoothed values in the middle panels; and first-order
+autocorrelation functions in the lower panels.
+2186
+DIABETES, VOL. 48, NOVEMBER 1999
+ABNORMALINSULIN SECRETION IN FIRST-DEGREE RELATIVES
+synaptically connect the retina with suprachiasmatic nuclei
+in the hypothalamus, are the principal pacemakers of circadian periodicity and that their linkage with the retina mediates the synchronization with the light/dark cycle (28). We
+have, therefore, measured plasma cortisol and melatonin levels in an attempt to determine whether the abnormal ISR
+rhythmicity was caused by a central nervous system or a
+b-cell defect. The ﬁnding of normal circadian patterns of
+plasma cortisol and melatonin levels in FDRs (Fig. 6) suggested that the defect may have been located in their b- c e l l s .
+It is interesting that irregularities of pulsatile insulin secretion have been observed previously in FDRs (29). However,
+since the FDRs in that study were already glucose intolerant,
+it was not clear whether these pulsatile secretory abnormalities were of primary or secondary nature. Seen in light of the
+present ﬁndings, however, they suggest that there may be a
+fundamental disturbance of all types of cyclic insulin secretion in FDRs.
+The disrupted circadian ISR pattern reduced insulin secretion and glucose uptake. Initially, b-cells of FDRs seemed to
+function appropriately in response to the acute rise in plasma
+glucose, secreting a greater than normal amount of insulin to
+compensate for the underlying insulin resistance. This
+changed after ~16–18 h, when ISRs rose in control subjects as
+part of their normal 24 h cycles, while ISRs in FDRs either did
+not change or declined. By ~24 h, ISR (and plasma insulin) were
+the same in FDR and control subjects and glucose uptake in
+FDRs had begun to fall below that of control subjects (Fig. 2).
+Thus, the absence of a cyclic ISR rise in FDRs at that time
+appeared to have been responsible for the loss of compensatory
+insulin oversecretion and the decrease in glucose uptake.
+It could be argued that the inability of FDRs to raise their
+ISR after 18 h was due to the fact that their ISRs were already
+very high and could not be raised further. In other words, the
+same would have occurred in normal control subjects, had
+their initial ISRs been equally as high as those of the FDRs.
+FIG. 5. Individual ISRs before detrending and smoothing in six FDRs
+(right panels) and six control subjects (left panels) during 48 h of
+hyperglycemic clamping.
+FIG. 6. z-scores of smoothed values of plasma cortisol concentrations and ISR (upper panels) and of plasma melatonin concentrations and ISR
+(lower panels) during hyperglycemic clamping. Data shown are mean values from one complete circadian cycle.
+DIABETES, VOL. 48, NOVEMBER 1999
+2187
+G. BODEN, X. CHEN, AND M. POLANSKY
+This possibility seems rather unlikely, since we have demonstrated that a group of normal control subjects who had ISRs
+as high as the initial ISRs of FDRs were able to maintain
+their normal circadian ISR cycles for >24 h (Fig. 3). Nevertheless, the possibility cannot be excluded that the FDRs
+had a reduced b-cell mass (30) and that because of that,
+secreting the same amount of insulin as control subjects presented increased secretory stress.
+The reason that FDRs were able to maintain higher ISR than
+control subjects during the initial 16–18 h is not clear. It could
+have been due to the fact that in control subjects, ISR
+declined during most of this period as part of their normal 24-h
+ISR cycle. Alternatively, it is possible that 18 h of hyperglycemia had somehow exhausted the b-cells in FDRs (31).
+To explore possible reasons for the b-cell dysfunction in
+FDRs, we considered the possibility that the prolonged
+hyperglycemia had placed an increased demand on proinsulin
+processing, which may have become dysfunctional (32). This
+seemed reasonable because of reports that patients with
+type 2 diabetes have disproportionally elevated plasma levels of proinsulin and its conversion intermediates, suggesting
+that the processing of proinsulin to insulin was perturbed
+(33–35). If this was the case in FDRs, one would expect to see
+accumulation of proinsulin and its most abundant intermediate metabolite, des-31,32-proinsulin (33,36). This, however,
+was not the case. Plasma proinsulin (which included des31,32-proinsulin) was only ~6% of plasma insulin during the
+ﬁrst 6 h of hyperglycemia and the proinsulin-to-insulin ratio
+was similar in FDR and control subjects at all times (Fig. 7).
+The slow increase in the proinsulin-to-insulin ratios, which
+occurred throughout hyperglycemia in both groups, was
+probably caused by the longer half-life of proinsulin compared
+with insulin (37), which resulted in accumulation of proinsulin
+(and des-31,32-proinsulin) in the blood. Hence, our studies did
+not support the notion that prolonged hyperglycemia in
+FDRs had interfered with processing of proinsulin to insulin.
+L a s t l y, it is necessary to consider what role glucose toxicity/desensitization (38) may have played in the abnormal
+b-cell function in FDRs. We have previously shown in normal
+control subjects that the same degree of hyperglycemia as
+that used here (i.e., ~12 mmol/l) inhibited glucose uptake as
+well as insulin secretion, i.e., produced glucose toxicity after
+~35–40 h (39). Therefore, interpretation of ISR and GIR data
+after ~35 h of hyperglycemia in this study is complicated by
+the development of glucose toxicity/desensitization. On the
+other hand, it is conceivable that b-cells of FDRs were more
+susceptible than those of control subjects to glucose toxicity/desensitization and that, therefore, glucose desensitization may have been responsible for some of the b-cell dysfunction in FDRs.
+Clinical relevance. Here, we have demonstrated an insulin
+secretory defect in insulin-resistant FDRs. The defect consisted of a disruption of the normal circadian insulin secretion cycle that resulted in subnormal insulin secretion (and
+glucose uptake) because of absence of the ascending part of
+the 24-h ISR cycle. The insulin secretory defect was demonstrated under conditions of prolonged hyperglycemia.
+Whether it also affects insulin secretion under everyday living conditions and whether our ﬁndings apply to a larger
+population of FDRs remains to be shown. The fact that the
+FDRs all had normal oral glucose tolerance tests does not rule
+out that the defect in circadian insulin secretion may play an
+important role in the development of glucose intolerance in
+FDRs. First, the glucose tolerance tests were done near the
+nadir (8:00–9:00 A M) of the ISR cycle, i.e., at a time when one
+would not expect to ﬁnd differences between FDR and control subjects. In addition, there is some evidence that the
+secretory defect is progressing from a disrupted (this study)
+to a completely absent (14) circadian ISR cycle.
+A C K N O W L E D G M E N T S
+This work was supported by National Institutes of Health
+Grants R01-AG-07988 and R01-AG-15363 (G.B.) and 2M01RR-349 (General Clinical Research Center branch of the
+National Center of Research Resources) and a mentor- b a s e d
+postdoctoral fellowship grant from the American Diabetes
+Association (G.B.). 
+We thank the nurses of the General Clinical Research Center for excellent patient care, Karen Kresge and Maria Mozzoli for outstanding technical assistance, Constance Harris
+Crews for typing the manuscript, and Eli Lilly, Indianapolis,
+IN, for providing us with biosynthetic human C-peptide.
+R E F E R E N C E S
+1 . Warram JH, Martin BC, Krolewski AS, Soeldner JS, Kahn CR: Slow glucose
+removal rate and hyperinsulinemia precede the development of type 2 diabetes
+in the offspring of diabetic patients. Ann Intern Med 113:909–915, 1990
+2 . Barnett AH, Spiliopoulos AJ, Pyke DA, Stubbs WA, Burrin J, Alberti KGMM:
+Metabolic studies in unaffected co-twins of non-insulin-dependent diabetics.
+Brit Med J (Clin Res Ed) 282:1656–1658, 1981
+3 . Rich SS: Mapping genes in diabetes: genetic epidemiological perspective.
+D i a b e t e s 39:1315–1319, 1990
+4 . Eriksson J, Franssila-Kallunki A, Ekstrand A, Saloranta C, Widen E, Schalin
+FIG. 7. Plasma proinsulin (plus des-31,32-proinsulin) concentrations
+and plasma proinsulin-to-insulin ratios during 48 h of hyperglycemic
+clamping in six FDRs (d) and eight normal control subjects (s) .
+2188
+DIABETES, VOL. 48, NOVEMBER 1999
+ABNORMALINSULIN SECRETION IN FIRST-DEGREE RELATIVES
+C, Groop L: Early metabolic defects in persons at increased risk for non-insulindependent diabetes mellitus. N Engl J Med 321:337–343, 1990
+5 . Lillioja S, Mott DM, Howard BV, Bennett PH, Yki-Jarvinen H, Freymond D,
+Nyomba BL, Zurlo F, Swinburn B, Bogardus C: Impaired glucose tolerance as
+a disorder of insulin action. N Engl J Med 318:1217–1225, 1988
+6 . Vaag A, Henriksen JE, Beck-Nielsen H: Decreased insulin activation of glycogen synthase in skeletal muscles in young non-obese Caucasian ﬁr s t - d e g r e e
+relatives of patients with non-insulin-dependent diabetes mellitus. J Clin
+I n v e s t 89:782–788, 1992
+7 . Haffner SM, Stern MP, Hazuda HP, Mitchell BD, Patterson JK: Increased
+insulin concentrations in nondiabetic offspring of diabetic parents. N Engl J
+M e d 319:1297–1301, 1988
+8 . Gulli G, Ferrannini E, Stern M, Haffner S, DeFronzo RA: The metabolic proﬁle of IDDM is fully established in glucose-tolerant offspring of two MexicanAmerican NIDDM parents. D i a b e t e s 41:1575–1586, 1992
+9 . Pimenta W, Korytkowski M, Mitrakou A, Jenssen T, Yki-Jarvinen H, Evron W,
+Dailey G, Gerich J: Pancreatic beta-cell dysfunction as the primary genetic
+lesion in NIDDM: evidence from studies in normal glucose-tolerant individuals with a ﬁrst-degree NIDDM relative. J A M A 273:1855–1861, 1995
+1 0 . Boden G, Ruiz J, Urbain J-L, Chen X: Evidence for a circadian rhythm of insulin
+secretion. Am J Physiol 271:E246–E252, 1996
+1 1 . Goodner CJ, Walike BC, Koerker DJ, Ensinck JW, Brown AC, Chideckel EW,
+Palmer J, Kalnasy L: Insulin, glucagon, and glucose exhibit synchronous sustained oscillations in fasting monkeys. S c i e n c e 195:177–179, 1977
+1 2 . Plat L, Byrne MM, Sturis J, Polonsky KS, Mockel J, Fery F, Van Cauter E: Effects
+of morning cortisol elevation on insulin secretion and glucose regulation in
+humans. Am J P h y s i o l 270:E36–E42, 1996
+1 3 . Polonsky KS, Given BD, Van Cauter E: Tw e n t y - f o u r-hour proﬁles and pulsatile
+patterns of insulin secretion in normal and obese subjects. J Clin Invest
+81:442–448, 1988
+1 4 . Boden G, Chen X, Urbain JL: Evidence for a circadian rhythm of insulin sensitivity in patients with NIDDM caused by cyclic changes in hepatic glucose
+production. D i a b e t e s 45:1044–1050, 1996
+1 5 . Van Cauter E, Mestrez F, Sturis J, Polonsky KS: Estimation of insulin secretion rates from C-peptide levels: comparison of individual and standard
+kinetic parameters for C-peptide clearance. D i a b e t e s 41:368–377, 1992
+1 6 . Polonsky KS, Licinio-Paixao J, Given BD, Pugh W, Rue P, Galloway J, Karrison T, Frank B: Use of biosynthetic human C-peptide in the measurement of
+insulin secretion rates in normal volunteers and type 1 diabetic patients. J Clin
+I n v e s t 77:98–105, 1986
+1 7 . Sonneberg GE, Hoffman RG, Johnson CP, Kissebah AH: Low and high-frequency insulin secretion pulses in normal subjects and pancreas transplant
+recipients: rate of extrinsic innervation. J Clin Invest 90:545–553, 1986
+1 8 . Guide to Statistical and Mathematical Analysis, S-PLUS. Seattle, WA ,
+StatSci Division MathSoft, 1995, p. 17-2–17-3
+1 9 . Mosteller F, Tukey JW: Data Analysis and Regression. Reading, MA, Addison
+We s l e y, 1977, p. 356–365
+2 0 . Guide to Statistical and Mathematical Analysis, S-PLUS. Seattle, WA ,
+StatSci Division MathSoft, 1995, p. 7-50–7-51
+2 1 . Guide to Statistical and Mathematical Analysis, S-PLUS. Seattle, WA ,
+StatSci Division MathSoft, 1995, p. 17-5–17-17
+2 2 . Wolfe RR: Tracers in metabolic research. In Radioisotope and Stable Iso tope/Mass Spectrometry Methods. New York, Alan R. Liss, 1984, p. 261
+2 3 . Steele R, Wall JS, DeBodo RC, Altszuler N: Measurement of size and turnover
+rate of body glucose pool by the isotope dilution method. Am J Physiol
+187:15–24, 1956
+2 4 . Molina JM, Baron AD, Edelman SV, Brechtel G, Wallace P, Olefsky JM: Use of
+a variable tracer infusion method to determine glucose turnover in humans.
+Am J Physiol 258:E16–E23, 1990
+2 5 . Arendt J: Melatonin. Clin Endocrinol 29:205–209, 1988
+2 6 . Cassone V, Warren W, Brooks D, Lu J: Melatonin, the pineal gland and circadian rhythms. J Biol Rhythms 8 (Suppl. 1):S73–S81, 1993
+2 7 . Czeisler CA: The effect of light on the human circadian pacemaker. In C i b a
+Foundation Symposium 1 8 3. Chichester, UK., Wi l e y, 1995, p. 254–302
+2 8 . Turek FW: Circadian neural rhythms in mammals. Ann Rev Physiol 4 7 : 4 9 – 6 4 ,
+1 9 8 5
+2 9 . O’Rahilly S, Turner RC, Matthews DR: Impaired pulsatile secretion of insulin
+in relatives of patients with non-insulin-dependent diabetes. N Engl J Med
+318:1225–1230, 1988
+3 0 . Kloppel G, Lohr M, Habich K, Oberholzer M, Heitz PU: Islet pathology and the
+pathogenesis of type 1 and type 2 diabetes mellitus revisited. Surv Synth Path
+R e s 4:110–125, 1985
+3 1 . Stern MP: Type II diabetes mellitus: interface between clinical and epimediological investigation. Diabetes Care 11:119–126, 1988
+3 2 . Welsh M, Scherberg N, Gilmore R, Steiner DF: Translational control of insulin
+biosynthesis: evidence for regulation of elongation, initiation and signalrecognition-particle-mediated translational arrest by glucose. Biochem J
+235:459–467, 1986
+3 3 . Sobey WJ, Beer SF, Carrington CA, Clark PMS, Frank BH, Gray IP, Luzio SD,
+Owens DR, Schneider AE, Siddle K, Temple RC, Hales CN: Sensitive and spec i ﬁc two-site immunoradiometric assays for human insulin, proinsulin, 65–66
+and 32–33 split proinsulin. Biochem J 260:535–541, 1989
+3 4 . Kahn SE, Halban PA:. Release of incompletely processed proinsulin is the
+cause of the disproportionate proinsulinemia of NIDDM. D i a b e t e s
+46:1725–1732, 1997
+3 5 . Haffner SM, Mykkanen L, Valdez RA, Stern MP, Holloway DL, Monterrosa A,
+Bowsher RR: Disproportionately increased proinsulin levels are associated
+with the insulin resistance syndrome. J Clin Endocrinol Metab 7 9 : 1 8 0 6 – 1 8 1 0 ,
+1 9 9 4
+3 6 . Temple RC, Carrington CA, Luzio SD, Owens DR, Schneider AE, Sobey WJ,
+Hales CN: Insulin deﬁciency in non-insulin-dependent diabetes. L a n c e t
+i:293–295, 1989
+3 7 . Tillil H, Frank BH, Pekar AH, Broelsch C, Rubenstein AH, Polonsky KS: Hypoglycemic potency and metabolic clearance rate of intravenously administered proinsulin and metabolites. Endocrinology 127:2418–2422, 1990
+3 8 . Rossetti L, Giaccari A, DeFronzo RA: Glucose toxicity. Diabetes Care
+13:610–630, 1990
+3 9 . Boden G, RuizJ, Kim C-J, Chen X: Effects of prolonged glucose infusion on
+insulin secretion, clearance and action in normal subjects. Am J Physiol
+(Endocrinol Metab) 270:E251–E258, 1996

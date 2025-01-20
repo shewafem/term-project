@@ -1,0 +1,262 @@
+26. I. Provencio, H. M. Cooper, R. G. Foster, J. Comp.
+Neurol. 395, 417 (1998).
+27. J. Hannibal et al., J. Neurosci. 17, 2637 (1997).
+28. J. Hannibal, M. Moller, O. P. Ottersen, J. Fahrenkrug,
+J. Comp. Neurol. 418, 147 (2000).
+29. J. J. Gooley, J. Lu, T. C. Chou, T. E. Scammell, C. B.
+Saper, Nature Neurosci. 4, 1165 (2001).
+30. J. Hannibal, P. Hindersson, S. M. Knudsen, B. Georg, J.
+Fahrenkrug, J. Neurosci. 22, 1 (RC191) (2002).
+31. G. E. Pickard, Neurosci. Lett. 55, 211 (1985).
+32. M. E. Harrington, Neurosci. Biobehav. Rev. 21, 705
+(1997).
+33. L. J. Trejo, C. M. Cicerone, Brain Res. 300, 49 (1984).
+34. R. J. Clarke, H. Ikeda, Exp. Brain Res. 57, 224 (1985).
+35. Single-letter abbreviations for the amino acid residues are as follows: A, Ala; C, Cys; D, Asp; E, Glu; F,
+Phe; G, Gly; H, His; I, Ile; K, Lys; L, Leu; M, Met; N, Asn;
+P, Pro; Q, Gln; R, Arg; S, Ser; T, Thr; V, Val; W, Trp; and
+Y, Tyr.
+36. D. G. Green, N. V. Kapousta-Bruneau, Vis. Neurosci.
+16, 727 (1999).
+37. F. A. Dunn, personal communication.
+38. We thank R. R. Reed, and S. S. Wang and H. Zhao
+in his laboratory, for the tau-lacZ construct and
+invaluable advice. We also thank I. Provencio for
+providing the melanopsin BAC clone, J. Nathans
+and H. Sun for discussions, K. Takamiya, Y. Zhang,
+S. A. Ralls, M. Dehoff, B. E. Lonze, and especially M.
+Cowan and the Johns Hopkins Transgenic Facility
+for technical help/advice in the generation of the
+tau-lauZ knock-in mice as well as providing the ES
+cells. We are grateful to R. Richardson and S.
+Carlson for technical assistance with the experiments on colocalization of melanopsin and intrinsic photic sensitivity. Finally, we thank R. Masland
+and members of the Yau laboratory, especially J.
+Bradley, W.-H. Xiong, and H. Zhong, for help/
+critique on the experiments. This work was supported by grants from the U.S. National Eye Institute to D.M.B. and K.-W.Y.
+7 January 2002; accepted 11 January 2002
+Phototransduction by Retinal
+Ganglion Cells That Set the
+Circadian Clock
+David M. Berson,* Felice A. Dunn,† Motoharu Takao†
+Light synchronizes mammalian circadian rhythms with environmental time by
+modulating retinal input to the circadian pacemaker—the suprachiasmatic
+nucleus (SCN) of the hypothalamus. Such photic entrainment requires neither
+rods nor cones, the only known retinal photoreceptors. Here, we show that
+retinal ganglion cells innervating the SCN are intrinsically photosensitive. Unlike other ganglion cells, they depolarized in response to light even when all
+synaptic input from rods and cones was blocked. The sensitivity, spectral tuning,
+and slow kinetics of this light response matched those of the photic entrainment
+mechanism, suggesting that these ganglion cells may be the primary photoreceptors for this system.
+The SCN is the circadian pacemaker of the
+mammalian brain, driving daily cycles in activity, hormonal levels, and other physiological variables. Light can phase-shift the endogenous oscillator in the SCN, synchronizing it with the environmental day-night cycle.
+This process, the photic entrainment of circadian rhythms, originates in the eye and involves a direct axonal pathway from a small
+fraction of retinal ganglion cells to the SCN
+(1–3). A striking feature of this neural circuit
+is its apparent independence from conventional retinal phototransduction. In functionally blind transgenic mice lacking virtually
+all known photoreceptors (rods and cones),
+photic entrainment persists with undiminished sensitivity (4). Candidate photoreceptors for this system are nonrod, noncone retinal neurons, including some ganglion cells,
+that contain novel opsins or cryptochromes
+(5–8).
+To determine whether retinal ganglion
+cells innervating the SCN are capable of phototransduction, we labeled them in the rat
+retina by retrograde transport of fluorescent
+microspheres injected into the hypothalamus
+(9). In isolated retinas, whole-cell recordings
+were made of the responses of labeled ganglion cells to light (10) (Fig. 1, A to E). In
+most of these cells (n 5 150), light evoked
+large depolarizations with superimposed fast
+action potentials (Fig. 1, E to G) (11). The
+light response persisted during bath application of 2 mM cobalt chloride (Fig. 1F; n 5
+42), which blocks calcium-mediated synaptic
+release from rods, cones, and other retinal
+neurons (12). In contrast, other ganglion cells
+prepared and recorded under identical conditions but not selectively labeled from the
+SCN (control cells) lacked detectable response to light even without synaptic blockade (47/50 cells; Fig. 1, I and J) (13). This is
+presumably because rod and cone photopigments were extensively bleached (10). A few
+control cells (3/50) exhibited weak, evanescent responses to light, but these were abolished by bath-applied cobalt (n 5 2).
+To ensure blockade of conventional synaptic influences from rods and cones, we
+supplemented cobalt with a mixture of drugs
+that independently disrupted both the glutamatergic synapses crucial to vertical signal
+transfer through the retina and the ionotropic
+receptors responsible for most inhibitory influences on ganglion cells (14). Robust light
+responses persisted in SCN-projecting ganglion cells under these conditions (Fig. 1G;
+n 5 7). Furthermore, the somata of these
+ganglion cells exhibited photosensitivity even
+when completely detached from the retina by
+microdissection (Fig. 1H; n 5 3). These light
+responses were not an artifact of photic excitation of either of the intracellular fluorophores we used, as the action spectrum of the
+light response (Fig. 2C) differed from the
+absorption spectra of both the retrograde tracer and Lucifer Yellow (LY) used for intracellular staining. Also, light-evoked increases in
+spike frequency were detectable in extracellular recordings, before patch rupture and LY
+dye filling (n 5 5). Whole-cell recordings
+revealed normal light responses when LY
+was omitted from the internal solution (n 5
+8). In contrast, control cells lacked cobaltresistant light responses even when labeled
+with both fluorescent beads and LY (n 5 12;
+Fig. 1I). These data indicate that retinal ganglion cells innervating the SCN are intrinsically photosensitive.
+To determine if these cells could serve as
+the primary photoreceptors for circadian entrainment, we assessed congruence between
+their photic properties and those of the entrainment mechanism. The responses of a single cell
+to narrow-band stimuli of various intensities
+showed that at each wavelength, peak depolarization increased with stimulus energy (Fig. 2,
+A and B). Intensity-response curves exhibited a
+consistent slope when plotted in semilogarithmic coordinates (Fig. 2B), as expected for responses mediated by a single photopigment
+(principle of univariance). The horizontal displacements of the curves from one another reflect the spectral dependence of the pigment’s
+quantum efficiency and yield the spectral sensitivity function shown in Fig. 2C (red curve).
+Other cells exhibited similar action spectra (Fig.
+2C, green curve) (15). These action spectra
+closely matched that predicted for a retinal1based pigment with peak sensitivity at 484 nm
+(Fig. 2C, black). They also resemble action
+spectra derived behaviorally for circadian entrainment in rodents (16, 17), as expected if
+these ganglion cells function as primary
+circadian
+photoreceptors
+(18).
+Judging
+from available spectral evidence, the photopigment in these ganglion cells is more
+likely to be a retinaldehyde-based opsin
+such as melanopsin (5, 19, 20) than a flavin-based cryptochrome (21).
+Department of Neuroscience, Brown University, Providence, RI, 02912 USA.
+*To whom correspondence should be addressed. Email: David_Berson@brown.edu
+†These authors contributed equally to this work.
+R E P O R T S
+8 FEBRUARY 2002
+VOL 295
+SCIENCE
+www.sciencemag.org
+1070
+on January 23, 2019
+ 
+http://science.sciencemag.org/
+Downloaded from 
+The threshold and dynamic range of the
+light response in these ganglion cells were
+also similar to those of the entrainment mechanism. Threshold retinal irradiance for a fullfield stimulus was about 5 3 1011 photons
+s21 cm22 at 500 nm (;lmax; n 5 3) . This
+corresponds to an in vivo corneal irradiance
+of ;2 3 1013 photons s21 cm22, comparable
+to thresholds for circadian phase shifts in
+rodents (;1010 to 1013 photons s21 cm22 at
+500 nm) (22–24) and to ocular illumination
+by the dawn sky. Response saturation in photosensitive ganglion cells occurred at irradiances ;3 logarithmic units above threshold
+(Figs. 2B and 3C), matching the dynamic
+range of entrainment behavior (16, 23, 24)
+and many SCN neurons [(25), but see (26)].
+The circadian entrainment mechanism integrates light energy over very long time
+scales, exhibits little adaptation, and responds
+poorly to brief stimuli (24, 27). Similar features were evident in the behavior of photosensitive ganglion cells. Constant illumination depolarized cells tonically and elevated
+spike frequency, and the amount of depolarization was monotonically related to stimulus
+energy (Fig. 3). Response kinetics were much
+slower than typical for ganglion cells. Latencies to response onset (Vm . 3 standard deviations above baseline) were typically several seconds and ranged from several hundred
+milliseconds for saturating stimuli (Figs. 1F
+and 2A) to ;1 min near threshold (Fig. 3B,
+bottom trace). Latencies from stimulus onset
+to peak depolarization were typically 10 to
+20 s (range: ;2 s to 2 min) and inversely
+Fig. 1. Labeling and light responses of rat ganglion cells innervating the SCN. (A) Fluorescence
+photomicrograph showing deposit (white arrow) of mixed red and green ﬂuorescent microspheres
+(appears as yellow) in the SCN. The red arrows mark boundaries of contralateral SCN. Acridine
+orange was used for green ﬂuorescent Nissl counterstain. ox, optic chiasm; III, third ventricle. Scale
+bar, 500 mm. (B) Two ganglion cells back-ﬁlled from the SCN, photographed in whole mount with
+rhodamine ﬁlter set to show retrograde labeling. The cell at right was patched and recorded. Scale
+bar, 20 mm. (C) Same cells viewed under blue excitation, to show LY ﬁlling of the recorded cell. (D)
+Camera lucida drawing of cell ﬁlled in (C), as viewed in the whole mount after antibody to LY
+immunostaining (35). Scale bar, 100 mm. (E) Strong depolarization and fast action potentials
+evoked in this cell (D) by a light pulse indicated by step in horizontal line below. (F to H) Evidence
+for the intrinsic photosensitivity of ganglion cells selectively retrolabeled from the SCN. (F and G)
+The light response apparent in control Ames solution (black traces) persisted during bath application of 2 mM CoCl2 (red traces) either alone (F) or in combination with a drug mixture blocking
+ionotropic and metabotropic glutamate receptors as well as ionotropic GABA and glycine receptors
+(G) (14). The absence of evoked spikes during drug application probably reﬂects depolarization
+block (tonic sodium channel inactivation) because weaker stimuli evoked spikes (40). (H) Light
+response recorded from the isolated soma of a ganglion cell retrolabeled from the SCN. The cell
+body was bathed in an enzyme solution (papain, ;20 units/ml) with a puffer pipette and then
+mechanically removed from the retina with an empty patch pipette under visual control, amputating its dendrites and axon. (I and J) Control recordings from a conventional ganglion cell (Fig. 4C)
+labeled nonselectively by a deposit of rhodamine beads in the optic chiasm and ﬁlled with LY. Light
+evoked no detectable response (I), although synaptic transmission was not blocked and responses
+to current injection were normal (J) (150 pA). Retinal irradiance of stimuli (in photons s21 cm22):
+(E) 7 3 1012, (F) 2.6 3 1013, (G) 7.2 3 1012, (H) ;1 3 1013, and (I) ..9 3 1013. Stimuli in (E),
+(F), and (G) were 500 nm.
+Fig. 2. Spectral tuning of light response in
+photosensitive ganglion cells. (A) Voltage responses of a single cell to a 500-nm narrowband stimulus at indicated intensities (in log10
+photons s21 cm22). Baseline ; 260 mV for
+each trace. (B) Plots of peak depolarization as a
+function of log retinal irradiance for each of
+several narrow-band spectral lights (400- to
+600-nm wavelength, as indicated; 10-nm width
+at half height); same cell as in (A). Peak was
+obtained from a 1-s boxcar average of raw
+voltages. (C) Spectral sensitivity functions derived for photosensitive ganglion cells from relative displacements of intensity-response functions along the abscissa in (B). Red curve: same
+cell as in (A) and (B). Green curve: group data
+for all cells (n 5 34; number of cells tested per
+wavelength as follows: 400 nm, 5; 420 nm, 3;
+440 nm, 2; 460 nm, 4; 480 nm, 4; 500 nm, 34;
+520 nm, 7; 540 nm, 5; 570 nm, 2; and 600 nm,
+2). Black curve: nomogram for retinal1-based
+photopigment with lmax of 484 nm (41), ﬁt by
+least squares method to the group data.
+R E P O R T S
+www.sciencemag.org
+SCIENCE
+VOL 295
+8 FEBRUARY 2002
+1071
+on January 23, 2019
+ 
+http://science.sciencemag.org/
+Downloaded from 
+related to stimulus energy. Repolarization after intense stimuli required several minutes
+and was sometimes punctuated by spontaneous depolarizations and spike bursts lasting
+up to a minute each (Fig. 3B).
+Photosensitive ganglion cells shared a common morphology (Fig. 4, A and B), as revealed
+by intracellular staining with LY (28). Somata
+were intermediate in diameter among neurons
+of the ganglion cell layer (14.7 6 1.2 mm,
+mean 6 SD; n 5 18). Many cells sent an axon
+into the optic fiber layer; those lacking one had
+presumably lost it during mechanical exposure
+of the soma before recording. The sparsely
+branching, tortuous dendrites of these cells arborized primarily in the outer part (OFF sublayer) of the inner plexiform layer (IPL; Fig.
+4B). Although some dendrites coursed within
+the inner IPL (ON sublayer) for 100 to 200 mm,
+nearly all terminated in the OFF sublayer. Such
+stratification is highly unusual for ganglion
+cells depolarized by light [but see (29, 30)].
+Dendritic fields were large (diameter 497 6
+115 mm; mean 6 SD; n 5 21). Stimuli illuminating the dendrites but not the soma consistently evoked light responses (31). Control
+cells, which lacked cobalt-resistant light responses, had markedly different dendritic morphology (e.g., Fig. 4C).
+These data identify a distinct ganglion cell
+type in the mammalian retina with characteristic dendritic profile and stratification pattern, extraordinarily sluggish and tonic light
+responses encoding ambient light level, and
+axonal projections to the SCN. The most
+striking feature of this cell type, however, is
+its apparent capacity for intrinsic phototransduction. The correspondences between the
+photic properties of these cells and those of
+the entrainment mechanism suggest that these
+unconventional ganglion cells may represent
+the primary photoreceptors for synchronizing
+the circadian clock to environmental time.
+Melanopsin (5, 7) is probably the photopigment responsible for the intrinsic sensitivity of
+these cells to light, as it is selectively expressed
+in the small subset of ganglion cells that are
+intrinsically photosensitive and innervate the
+SCN (32, 33). In amphibians, certain nonretinal
+cells contain melanopsin, and these cells, too,
+are photosensitive, with action spectra resembling those of photosensitive rat ganglion cells
+(Fig. 2C) (5, 19, 20). Melanopsin exhibits
+marked sequence similarity to invertebrate
+opsins (5, 7), which, unlike vertebrate opsins,
+retain
+their
+photoisomerized
+retinaldehyde
+chromophore and typically trigger depolarizing
+light responses when activated. These properties may help to explain why photosensitive
+ganglion cells differ from conventional retinal
+photoreceptors in their response polarity and
+lack of dependence on the pigment epithelium.
+Cryptochromes, blue-light–absorbing, flavinbased pigments, have been proposed as circadian photopigments (8), but spectral evidence
+(Fig. 2C) (21) weighs against their mediating
+the light response in intrinsically photosensitive
+ganglion cells.
+Note added in proof: Further evidence for
+the presence of melanopsin in ganglion cells
+innervating the SCN has emerged (34).

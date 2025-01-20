@@ -1,0 +1,373 @@
+Daily Fasting Blood Glucose Rhythm in Male Mice:
+A Role of the Circadian Clock in the Liver
+Hitoshi Ando, Kentaro Ushijima, Shigeki Shimba, and Akio Fujimura
+Division of Clinical Pharmacology (H.A., K.U., A.F.), Department of Pharmacology, School of Medicine,
+Jichi Medical University, Shimotsuke, Tochigi 329–0498, Japan; and Department of Health Science
+(S.S.), School of Pharmacy, Nihon University, Funabashi, Chiba 274–8555, Japan
+Fasting blood glucose (FBG) and hepatic glucose production are regulated according to a circadian
+rhythm. An early morning increase in FBG levels, which is pronounced among diabetic patients, is
+known as the dawn phenomenon. Although the intracellular circadian clock generates various
+molecular rhythms, whether the hepatic clock is involved in FBG rhythm remains unclear. To address this issue, we investigated the effects of phase shift and disruption of the hepatic clock on the
+FBG rhythm. In both C57BL/6J and diabetic ob/ob mice, FBG exhibited significant daily rhythms with
+a peak at the beginning of the dark phase. Light-phase restricted feeding altered the phase of FBG
+rhythm mildly in C57BL/6J mice and greatly in ob/ob mice, in concert with the phase shifts of mRNA
+expression rhythms of the clock and glucose production–related genes in the liver. Moreover, the
+rhythmicity of FBG and Glut2 expression was not detected in liver-specific Bmal1-deficient mice.
+Furthermore, treatment with octreotide suppressed the plasma growth hormone concentration
+butdidnotaffectthehepaticmRNAexpressionoftheclockgenesortheriseinFBGduringthelatter
+half of the resting phase in C57BL/6J mice. These results suggest that the hepatic circadian clock
+plays a critical role in regulating the daily FBG rhythm, including the dawn phenomenon.
+(Endocrinology 157: 463–469, 2016)
+A
+n early morning increase in fasting blood glucose
+(FBG) levels and/or insulin requirements is known as
+the dawn phenomenon (1). This phenomenon is pronounced among type 1 diabetic patients (1), but the condition occurs also in those with type 2 diabetes (2, 3) and
+in nondiabetic subjects (4). Clinical studies in the 1980s
+using pharmacological inhibition suggested that GH, but
+not cortisol, is responsible for the dawn phenomenon (5–
+7). Another study revealed that nocturnal surges in GH
+cause an increased rate of hepatic glucose production during the early morning hours by decreasing hepatic insulin
+sensitivity (8).
+In patients with type 2 diabetes, hepatic glucose production exhibits circadian rhythmicity, which causes daily
+variation in insulin sensitivity (9). In animals, hepatic gluconeogenesis is increased at the beginning of the active
+phase, consistent with elevated activity of the rate-controlling enzyme phosphoenolpyruvate carboxykinase (10,
+11). In addition, transcripts of numerous components related to glucose metabolism, including glucose 6-phosphatase and glucose transporter type 2, are expressed with
+a circadian rhythm in the liver (12). Furthermore, a subset
+of the clock genes that constitute the intracellular circadian pacemaker are reported to mediate gluconeogenesis
+and glucose export in hepatocytes (13, 14). Collectively,
+these findings suggest that a hepatic circadian clock mediates
+the
+circadian
+regulation
+of
+hepatic
+glucose
+production.
+Consistent with the rhythm of hepatic glucose production, basal (fasting) blood glucose exhibits an obvious
+daily rhythm in rats with a peak at the beginning of the
+active phase (15). The rhythm appears to be regulated by
+the central clock residing in the hypothalamic suprachiasmatic nucleus because FBG does not exhibit daily variISSN Print 0013-7227
+ISSN Online 1945-7170
+Printed in USA
+Copyright © 2016 by the Endocrine Society
+Received April 28, 2015. Accepted November 24, 2015.
+First Published Online December 10, 2015
+Abbreviations: BMAL1, brain and muscle Arnt-like protein-1; FBG, fasting blood glucose;
+ZT, Zeitgeber time.
+B R I E F
+R E S E A R C H
+R E P O R T
+doi: 10.1210/en.2015-1376
+Endocrinology, February 2016, 157(2):463–469
+press.endocrine.org/journal/endo
+463
+The Endocrine Society. Downloaded from press.endocrine.org by [${individualUser.displayName}] on 16 February 2016. at 11:07 For personal use only. No other uses without permission. . All rights reserved.
+ation in suprachiasmatic nucleus–lesioned rats (15). However,whetherthehepaticcircadianclockdirectlyregulates
+the daily FBG rhythm and the dawn phenomenon remains
+unclear. Peripheral circadian clocks, including the hepatic
+clock, are controlled by the central clock, which is reset
+mainly by light, whereas the hepatic clock rhythm is affected more by feeding (16, 17). Therefore, elucidating the
+roles of feeding and the hepatic clock in the dawn phenomenon is important and would be clinically useful. In
+the present study, we found that the daily FBG rhythms in
+normal and diabetic mice are influenced by feeding time
+and that the dawn phenomenon is observed in GH-suppressed mice but not in liver-specific circadian clock–disrupted mice.
+Materials and Methods
+Animals
+The protocol for this study was approved by the Institutional
+Animal Experiment Committee of Jichi Medical University. All
+animal procedures were performed in accordance with the Institutional Regulation for Animal Experiments and Fundamental Guideline for Proper Conduct of Animal Experiment and
+Related Activities in Academic Research Institutions under the
+jurisdiction of the MEXT of Japan. All efforts were made to
+minimize animal suffering.
+Six-week-old male C57BL/6J and B6.V-Lepob/J (ob/ob) mice
+were obtained from Charles River Japan. C57BL/6J-background,liver-specificBmal1-deficient(L-Bmal1/)andcontrol
+(flox/flox) mice (18) homozygous for floxed Bmal1, with and
+without Cre driven by the albumin promoter, respectively, were
+bred and raised at the Center for Experimental Medicine of Jichi
+Medical University. All mice were maintained under specific
+pathogen-free conditions and controlled temperature and humidity with a 12:12-hour light/dark cycle and fed a regular diet
+(CE-2; CLEA Japan) and water ad libitum.
+Experiments
+Only male mice were used in this study. Zeitgeber time (ZT)
+was used to describe the experimental time with ZT 0 defined as
+lights on and ZT 12 as lights off. To reduce the number of mice,
+a crossover design was used in experiments 1 and 3 as described
+below.
+Experiment 1
+Twelve-week-oldC57BL/6Jandob/obmice(eachn9)were
+fastedfor24hoursfromZT0orZT12(n4and5,respectively,
+for each strain). At 15 weeks of age, the mice were fasted again
+for 24 hours from the other ZT. Glucose concentrations in the
+blood(takenfromthetail)weremeasuredevery6hoursthroughout the fasting period using a Glutest Ace R (Sanwa Kagaku
+Kenkyusyo).
+Experiment 2
+Twenty-four C57BL/6J mice were divided into 2 groups at 10
+weeks of age. Half of the mice were given food only during the
+light phase (from ZT 0 to ZT 12) and the other half were fed ad
+libitum. After 14 days, the mice were fasted from ZT 12 and then
+killedtoobtainliversamplesatZT18,0,6,and12.Othergroups
+of 10-week-old C57BL/6J (n  9) and ob/ob mice (n  5) were
+also subjected to the same 2-week time-restricted feeding regimen and then fasted for 24 hours from ZT 12 to investigate daily
+FBG profiles.
+Experiment 3
+Twelve- to 14-week-old L-Bmal1/ (n  17) and control
+(flox/flox) mice (n  15) were fasted from ZT 12 and then killed
+toobtainliversamplesatZT18,0,6,and12.Toinvestigatedaily
+FBG rhythms, other groups of L-Bmal1/ (n  9) and control
+mice (n  5) were fasted for 24 hours twice (from ZT 0 or ZT 12)
+at an interval of at least 2 weeks from 12 to 15 weeks of age.
+Experiment 4
+Twelve-week-old C57BL/6J mice (n  12) were divided into
+2 groups, injected with 20 mg/kg octreotide (Sandostatin LAR;
+Figure 1. Daily FBG profiles in mice. C57BL/6J (A and B) and ob/ob (D
+and E) mice (each n  9) were fasted for 24 hours twice from ZT 0 (A
+and D) or ZT 12 (B and E) in 3-week intervals. Other groups of C57BL/
+6J mice (C, n  9) and ob/ob mice (F, n  5) were subjected to a 2week light-phase restricted feeding regimen and then fasted for 24
+hours from ZT 12. Data represent the means and SD and were
+analyzed using repeated-measures ANOVA followed by Bonferroni
+post hoc testing. Different letters indicate significant differences (P 
+.05) between time points. The white and black bars indicate light and
+dark phases, respectively.
+464
+Ando et al
+Daily Fasting Blood Glucose Rhythm
+Endocrinology, February 2016, 157(2):463–469
+The Endocrine Society. Downloaded from press.endocrine.org by [${individualUser.displayName}] on 16 February 2016. at 11:07 For personal use only. No other uses without permission. . All rights reserved.
+NovartisPharmaceuticalsJapan)orsalineintramuscularlyatZT
+12 and then fasted for 24 hours. Blood glucose concentrations
+were measured every 6 hours, and then the mice were killed to
+obtain blood and liver samples at the end of the fasting period
+(ZT12).ThebloodobtainedwasmixedimmediatelywithEDTA
+and aprotinin, and the plasma was stored at 80°C until assayed. Plasma concentrations of GH were determined using an
+ELISA kit (AKRGH-010; Shibayagi).
+Real-time quantitative PCR
+RNA extraction and real-time quantitative PCR were performed as described previously (19). Specific sets of primers and
+TaqMan probes are reported in Supplemental Table 1.
+Statistical analyses
+Data are presented as means and SD. Differences between 2
+datasets were analyzed using the Mann-Whitney U test, the Wilcoxon signed rank test, or the Student t
+test. Daily rhythmicity was evaluated
+with
+repeated-measures
+or
+one-way
+ANOVA followed by Bonferroni post
+hoc testing. The calculations were performed using the SPSS software (version
+16.0 J for Windows). A P value of .05
+was considered to indicate statistical
+significance.
+Results
+In this study, we defined FBG as a
+blood glucose level 6 hours or longer
+after the start of fasting. When fasting was started at the beginning of
+the light phase, FBG levels increased
+slightly during the light phase and
+then decreased significantly during
+the dark phase in C57BL/6J mice
+(Figure 1A). In contrast, when fasting was started at the beginning of
+the dark phase, FBG levels decreased
+during the dark phase and continued
+to increase during the following light
+phase (Figure 1B). In addition, we
+conducted same experiments using
+obese diabetic ob/ob mice, because
+they have severe insulin resistance
+with marked hyperinsulinemia and
+therefore exhibit large fluctuations
+in
+blood
+glucose
+concentrations
+(20).
+As
+expected,
+ob/ob
+mice
+showed
+similar,
+but
+more
+pronounced, daily changes in FBG (Figure 1, D and E), than C57BL/6J mice.
+In both mouse strains, maximal levels of FBG were observed at the beginning of the dark phase (ie, at
+“dawn” for the nocturnal animals),
+regardless of the starting time of
+fasting.
+To examine the involvement of
+the hepatic clock in the dawn phenomenon,
+we
+first
+investigated
+Figure 2. Effects of time-restricted feeding on daily mRNA expression profiles of clock (A) and
+glucose production–related genes (B) in the liver of C57BL/6J mice. The intervention group (E)
+was given food only during the light phase for 2 weeks, whereas the control group (F) was fed
+ad libitum. These mice were fasted from ZT 12 and then killed to obtain liver samples at ZT 18, 0,
+6, and 12. The data obtained by real-time PCR were analyzed using the comparative threshold
+cycle method. Because the Rplp0 mRNA levels in the mice liver were not rhythmic (19), this gene
+was used as an endogenous control. Data represent the means and SD of 3 mice per time point
+and are expressed relative to the lowest mean value in the control group. Different letters
+indicate significant differences (P  .05) between time points in each group (one-way ANOVA
+followed by Bonferroni post hoc testing). *, P  .05; **, P  .01 vs the control group at each
+time point (Student t test).
+doi: 10.1210/en.2015-1376
+press.endocrine.org/journal/endo
+465
+The Endocrine Society. Downloaded from press.endocrine.org by [${individualUser.displayName}] on 16 February 2016. at 11:07 For personal use only. No other uses without permission. . All rights reserved.
+whether time-restricted feeding influences not only the hepatic clock but also the FBG rhythm. As shown in Figure
+2A, 2-week restriction of food intake to the light (resting)
+phase greatly shifted the oscillation phase of hepatic
+mRNA expression of all of the clock genes examined in
+C57BL/6J mice under a ZT 12–started fasting condition.
+In addition, this feeding condition appeared to affect the
+mRNA expression rhythms of the glucose production–
+related molecules, although the rhythmicity of the genes
+other than Glut2 was not statistically significant probably
+due to the small number of animals (Figure 2B). FBG
+dropped to lower levels during the latter half of the light
+phase in time-restricted–fed mice (Figure 1C), in contrast
+to the result in control mice (Figure 1B). Moreover, in
+ob/ob mice, the acrophase was obviously shifted from the
+beginning of the dark phase (Figure 1E) to the beginning
+of the light phase (Figure 1F).
+Next, we investigated the daily FBG rhythm in mice
+with liver-specific deletion of brain
+and
+muscle
+Arnt-like
+protein-1
+(BMAL1), the core and essential
+component of the intracellular circadian clock (21). As expected, this deletion did not influence the daily
+feeding rhythm (Supplemental Figure 1) but significantly affected the
+rhythmic mRNA expression of the
+clock genes, especially Bmal1 and
+Dbp, in the liver of mice even under
+a ZT 12–started fasting condition
+(Figure 3A). Moreover, consistent
+with previous results in fed mice
+(13), daily Glut2 rhythm disappeared in L-Bmal1/ mice (Figure
+3B). Similar to C57BL/6J mice (Figure 1, A and B), control (flox/flox)
+mice exhibited significant fluctuations in FBG in both ZT 0–started
+and ZT 12–started fasting trials (Figure
+4,
+A
+and
+B).
+Conversely,
+L-Bmal1/ mice did not generate
+any 24-hour rhythmicity in FBG
+(Figure 4, A and B). These results
+clearly suggest that the hepatic clock
+is involved in the daily FBG rhythm.
+Because nocturnal secretion of
+GH is thought to cause the dawn
+phenomenon in humans (6, 8), we
+further investigated the effect of octreotide-suppressed GH on elevated
+FBG
+levels
+in
+C57BL/6J
+mice.
+Plasma GH concentrations were
+suppressedsubstantially24hoursafter the octreotide administration at
+ZT 12 (Supplemental Figure 2).
+Conversely, hepatic mRNA expression of the clock and glucose production-related genes was not affected
+by this treatment (Supplemental Table2).Bloodglucoselevelsdecreased
+during the dark phase (ZT 12–ZT 0)
+Figure 3. Effects of liver-specific disruption of Bmal1 on daily mRNA expression profiles of clock
+(A) and glucose production–related genes (B) in mouse livers. L-Bmal1/ (E) and control (flox/
+flox) mice (F) were fasted from ZT 12 and then killed to obtain liver samples at ZT 18, 0, 6, and
+12. The data obtained by real-time PCR were analyzed using the comparative threshold cycle
+method with Rplo0 as an endogenous control. Data represent the means and SD of 3 to 5 mice
+per time point and are expressed relative to the lowest mean value in the control group.
+Different letters indicate significant differences (P  .05) between time points in each group
+(one-way ANOVA followed by Bonferroni post hoc testing). *, P  .05; **, P  .01 vs the control
+group at each time point (Student t test).
+466
+Ando et al
+Daily Fasting Blood Glucose Rhythm
+Endocrinology, February 2016, 157(2):463–469
+The Endocrine Society. Downloaded from press.endocrine.org by [${individualUser.displayName}] on 16 February 2016. at 11:07 For personal use only. No other uses without permission. . All rights reserved.
+after the start of fasting and the injection in both octreotide- and vehicle-treated mice (data not shown). In the
+control group, FBG levels significantly increased from ZT
+6 to ZT 12 (Supplemental Figure 3A), similar to those in
+nontreated mice (Figure 1A). Notably, FBG concentrations were also elevated at the beginning of the active
+phaseinallthemicetreatedwithoctreotide(Supplemental
+Figure 3B). Thus, the dawn phenomenon in the present
+model was detected even under the GH-suppressed
+condition.
+Discussion
+Consistent with previous findings in rats (15), basal blood
+glucose exhibited daily rhythmicity with a peak at the beginning of the active phase using the simple mouse model
+used in this study. In this model, mice were fasted for 24
+hours, but no mice exhibited severe hypoglycemia (blood
+glucose level of 3.0 mmol/L) throughout the experiments. Specifically, the FBG trough levels in ob/ob mice
+were 7 mmol/L. Therefore, posthypoglycemic hyperglycemia was probably not involved in increased blood glucose levels in this model. Conversely, the hepatic intracellular clock may play a role in the fluctuation of FBG
+because L-Bmal1/ mice did not exhibit such rhythmicity. Previous (13, 18) and present studies (Supplemental
+Figure 1) showed that L-Bmal1/ mice exhibit normal
+circadian rhythmicity of both locomotor activity and feeding behavior, suggesting that the function of the central
+clock is intact. Thus, the present study provides further
+evidence of the crucial role of the hepatic clock in regulating glucose metabolism.
+In humans, the dawn phenomenon is caused by increased hepatic glucose production during the early morning hours (8). In this study, elevated FBG levels were observed at the beginning of the active phase in both normal
+and diabetic mice fed ad libitum. In addition, the rising
+phase of FBG was shifted by the time-restricted feeding
+procedure, consistent with the alteration of mRNA expression rhythmicity of the glucose production-related
+molecules. Furthermore, in L-Bmal1/ mice, the temporary increase in FBG levels disappeared, in concert with
+thedisruptedexpressionrhythmicityofGLUT2,themajor
+glucose transporter of hepatocytes. Based on these results,
+elevatedbloodglucoselevelsobservedinthismousemodel
+were considered the dawn phenomenon. Interestingly, the
+influence of the time-restricted feeding on FBG rhythm
+was mild in normal mice, compared with that in diabetic
+mice (Figure 1). This may suggest that some factors such
+as insulin sensitivity in the muscle and adipose tissues
+modify the FBG rhythm driven by the hepatic clock.
+In patients with type 1 diabetes, suppression of nocturnal spikes of GH secretion by somatostatin results in the
+disappearance of the dawn phenomenon (6, 8). In contrast, in the present study, treatment with a somatostatin
+analog did not inhibit the rise of glucose levels in male
+mice. Reportedly, GH levels are higher during the light
+phase than during the dark phase in female mice, but similardailyrhythmicitycannotbedetectedinmalemice(22).
+Collectively, these findings suggest that the dawn phenomenon occurs even in the absence of GH surges during
+the resting phase, at least in male mice. Nevertheless, because somatostatin suppresses not only GH secretion but
+Figure 4. Daily FBG profiles in control and L-Bmal1/ mice. Control
+(F; n  5) and L-Bmal1/ mice (E; n  9) were fasted for 24 hours
+twice from ZT 0 (A) or ZT 12 (B) at an interval of at least 2 weeks. Data
+represent the means and SD and were analyzed using repeatedmeasures ANOVA followed by Bonferroni post hoc testing. Different
+letters indicate significant differences (P  .05) between time points in
+each group. **, P  .01 vs the control group at each time point.
+doi: 10.1210/en.2015-1376
+press.endocrine.org/journal/endo
+467
+The Endocrine Society. Downloaded from press.endocrine.org by [${individualUser.displayName}] on 16 February 2016. at 11:07 For personal use only. No other uses without permission. . All rights reserved.
+also the secretion of various other hormones, including
+insulin and glucagon (23), close attention is required to
+interprettheresultsofstudiesusingasomatostatinanalog.
+Further studies are needed to clarify the mechanism underlying the discrepancy between the results obtained in
+human and animal studies.
+Inthepresentstudy,time-restrictedfeedingaffectednot
+only the daily hepatic expression rhythms of the clock
+genesbutalsotheFBGlevelsinmice.Consequently,eating
+habits could possibly affect the dawn phenomenon in humans, especially in diabetic patients. Studies on mice have
+shown that the hepatic clock phase is affected by both the
+amount of food and the interval between feeding time
+points (24). In addition, food composition determines the
+degree of food entrainment of the hepatic clock (25).
+Therefore, skipping breakfast, night eating, and/or a severelyunbalanceddietmightaffectthedawnphenomenon
+in humans. Hopefully, these possibilities will be examined
+inthenearfuture,becausecontinuousglucosemonitoring,
+which detects the dawn phenomenon even in patients with
+type 2 diabetes (26), is commonly used.
+In conclusion, FBG exhibited an obvious 24-hour
+rhythm with a peak near the beginning of the active phase
+in mice. This rhythm, including the temporal rise corresponding to the dawn phenomenon, was altered in concert
+with the phase shift of the hepatic clock in time-restricted
+feeding mice and was not detected in liver-specific clockdisrupted mice. Because these results suggest that the hepatic clock plays a critical role in generating rhythmicity of
+basal blood glucose, further clinical studies are needed to
+explore the relationship in diabetic patients.
+Acknowledgments
+We thank Hisae Shiokawa, Michiyo Yoshioka, and Naho Nakazawa for their technical assistance.
+Address all correspondence and requests for reprints to: Hitoshi Ando, MD, PhD, Division of Clinical Pharmacology, Department of Pharmacology, School of Medicine, Jichi Medical
+University, Shimotsuke, Tochigi 329–0498, Japan. E-mail:
+h-ando@jichi.ac.jp.
+This work was supported by the Japan Society for the Promotion of Science [Grant-in-Aid for Scientific Research (C)
+24590666] and the Ministry of Education, Culture, Sports, Science and Technology of Japan (Program for the Strategic Research Foundation at Private Universities 2011–2015 “Cooperative Basic and Clinical Research on Circadian Medicine”
+S1101022).
+Disclosure Summary: The authors have nothing to disclose.

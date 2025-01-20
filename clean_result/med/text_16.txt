@@ -1,0 +1,172 @@
+387
+□CASEREPORT □
+An Elderly Case of Type 2 Diabetes which Developed in
+Association with Oral and Esophageal Candidiasis
+Hirofumi Takasawa, Yoshihiko Takahashi, Makiko Abe, Keiichiro Osame, Shigeru Watanabe,
+Tomoko Hisatake, Kazuki Yasuda, Yasushi Kaburagi, Hiroshi Kajio and Mitsuhiko Noda
+Abstract
+A 75-year-old woman who had been healthy except for mild glycemia and lipidemia discovered three and
+a half months before admission experienced severe dysphagia secondary to oral and esophageal candidiasis.
+She eventually developed diabetic hyperosmolar syndrome and ketoacidosis. Since anti-GAD antibody was
+negative and her diabetes was controlled with a moderate dose of insulin, we made a diagnosis of type 2 diabetes. Her only risk factors for candidiasis were hyperglycemia, age, and continuous denture use. The fact
+that her diabetes developed in association with oral candidiasis supports the hypothesis that there is a bidirectional interrelationship between diabetes and oral infection.
+Key words: denture, candidiasis, hyperosmolar syndrome, ketoacidosis
+(DOI: 10.2169/internalmedicine.46.1898)
+Introduction
+Candidiasis is one of the most common infections associated with diabetes. Most of the cases of diabetes-related
+candidiasis reported in Japan have been associated with
+chronic poor glycemic control (usually for years) and secondary factors such as 1) use of immunosuppressants, 2) malignant disease, 3) administration of intravenous hyperalimentation, and 4) antibiotic use. Below we report a case of
+newly diagnosed type 2 diabetes accompanied by severe oral
+candidiasis and esophageal candidiasis (OC and EC, respectively), in which there was an evidence that the diabetes and
+clinically evident Candida infection both developed within a
+short interval in the absence of any of the well-known secondary factors mentioned above.
+Case Report
+The patient was a 75-year-old woman who was found to
+have mild glycemia (fasting plasma glucose 117 mg/dl),
+mildly elevated hemoglobin A1c level (6.0%), and moderate
+lipidemia (total cholesterol 234 mg/dl, and fasting triglyceride 329 mg/dl) during an annual health checkup in early
+January 2005, but who was otherwise healthy. Her height
+was 151 cm, and body weight was 47 kg at the time of the
+checkup. She never smoked, rarely drank alcohol, and had
+no noteworthy medical history except for cataract surgery at
+70 years of age and a cutaneous herpes zoster infection at
+65 years of age. Her father died of laryngeal cancer, but
+there was no other family history of major illness. Notably,
+she had hardly any teeth and wore dentures almost constantly.
+In early April 2005, she started a series of domestic trips
+and began to experience fatigue, thirst, and dysphagia during her trips. She had lost 5 kg in one week. In mid-April,
+her dysphagia became so severe that she could not eat solid
+food and could only drink water. A few days later, she went
+to a clinic by herself, and the physician noted very dry skin,
+a white coating in her mouth, fissured tongue, and signs of
+extreme exhaustion. Esophageal cancer was suspected. Gastric fiberscopy was performed the next day, and glucose was
+infused (approximately 16 g of glucose) during the examination. The examination revealed severe candidiasis of oral
+mucosa, larynx, and entire esophagus. The diagnosis of candidiasis was confirmed by staining esophageal specimens,
+and amphotericin B syrup was prescribed. The next evening,
+the patient was transferred to our hospital because she was
+confused and had a gait disturbance.
+The patient soon lapsed into hypovolemic shock, and a
+Department of Endocrinology and Metabolism, International Medical Center of Japan, Tokyo
+Received for publication June 20, 2006; Accepted for publication November 14, 2006
+Correspondence to Dr. Mitsuhiko Noda, mnoda@imcj.hosp.go.jp
+DOI: 10.2169/internalmedicine.46.1898
+388
+Figure 1. Clinical Course. The dysphagia improved and 
+the patient resumed oral feeding prior to administration of 
+fluconazole. However, the CRP level increased on hospital 
+day 5, and the antifungal therapy was started. After day 34, 
+she was referred to another hospital for follow-up. GF: gastric fiberscopy; DIV: drip infusion of regular insulin; R+N: 
+three injections of regular insulin daily plus bedtime NPH insulin injection.
+Table 1. Summary of the Laboratory Findings
+drip infusion was started immediately. Her body temperature
+was 36.5℃, and physical examination revealed a white coating of the oral cavity and severe dehydration. Her chest and
+heart were normal to auscultation, and no masses were
+found in the abdomen. We failed to notice the condition of
+her dentures because of the emergency admission.
+Laboratory data showed severe hyperglycemia (plasma
+glucose 1,369 mg/dl), an elevated HbA1c level (10.6%), and
+renal dysfunction (Table 1). Serum lactate was mildly increased and the anion gap was very high (32.4 mEq/l).
+There was moderate acidemia (pH=7.196), and plasma osmotic pressure deduced from serum sodium, potassium,
+BUN, and glucose was very high (398 mOsm/l). Based on
+these findings, a diagnosis of diabetic hyperosmolar syndrome complicated by ketoacidosis was made.
+Antinuclear antibody and rheumatoid factor were negative, and the immunoglobulin G level was within the normal
+range. A chest X-ray and abdominal CT scan did not show
+any abnormal findings, such as malignant disease or an abscess. An eye examination showed no evidence of diabetic
+retinopathy or fungal endophthalmitis, and Candida septicemia was ruled out by the blood culture and Candida antigen
+test. Anti-glutamic acid decarboxylase (GAD) antibody was
+negative. Urinary C-peptide excretion was impaired at first
+(8.3 μg/day), but after intensive insulin therapy it recovered
+to 33.1 μg/day (Table 1). The dysphagia improved even after
+discontinuation of amphotericin B syrup, and it was possible
+to resume oral feeding at the end of the month. However,
+the C-reactive protein value rose on day 5 (Fig. 1), and fluconazole was administered orally until the middle of the
+next month. Since glycemic control had improved, bedtime
+insulin was discontinued, and the patient was discharged on
+three injections of regular insulin a day (6 units before
+breakfast and 4 units each before lunch and dinner).
+Her final visit to our hospital was on day 34, and she was
+referred to another local hospital at that time. Her diabetes
+has been well controlled with twice daily injections of a
+mixed type of insulin (30% of insulin aspart and 70% of insulin aspart protamine suspension), 8 units before breakfast
+and 4 units before dinner, and her hemoglobin A1c level
+was 6.5% at the 9-month follow-up examination. There have
+been no recurrences of the OC or EC. Since 1) anti-GAD
+antibody was not detected, 2) the urinary C-peptide excretion had recovered to a level that showed her diabetes was
+not insulin dependent, and 3) her diabetes control was stable
+on a moderate dose of insulin, the final diagnosis was type
+2 diabetes.
+Discussion
+We have summarized the cases of glycemia-related OC
+and EC reported in Japan from 1995 to 2004 in Table 2. Except for case 9, in which there was impaired glucose tolerance (IGT), and case 10, in which diabetes was newly diagnosed, the OC and/or EC occurred in patients with longterm hyperglycemia (more than 2 years) or with repeated
+episodes of ketoacidosis (case 2 and case 7). Diabetes is
+considered as a risk factor for EC because of 1) impaired
+immunity and 2) stasis of esophageal contents as a manifestation of neuropathy (1). Although an oral glucose tolerance
+test was not performed in early January 2005 and latent diaDOI: 10.2169/internalmedicine.46.1898
+389
+Table 2. Summary of Case Reports of Diabetes-related 
+Oral and/or Esophageal Candidiasis in Japan From 1995 to 
+2004
+betes was not completely ruled out at that time, the fasting
+plasma glucose level and hemoglobin A1c value in the present case indicated that the duration of clinically overt diabetes was less than three and a half months, a duration that
+was unlikely to have been long enough to have caused
+chronic immune dysfunction or diabetic neuropathy.
+OC in diabetes has recently been reviewed (2), and the
+evidence available is still limited. In several papers to address the correlation between OC and diabetes, we have had
+a deep interest in the hypothesis regarding the interrelationship between diabetes and oral infection that states that diabetes will trigger oral infection, and conversely that oral infection can promote insulin resistance and is also a risk factor for developing diabetes (3). Continuous denture wearing
+has been suggested to be a risk for OC (2), and our patient
+wore dentures almost all the time. We speculate that 1) her
+series of trips may have led to insufficient denture cleaning
+and increased contamination of her dentures, which was
+likely to have promoted Candida growth; 2) the clinical
+Candida infection may have promoted insulin resistance and
+worsened her diabetes; and 3) an increased glucose level in
+her saliva may have further encouraged Candida growth.
+This vicious cycle would contribute to the progression of
+type 2 diabetes and spread of candidiasis. Consistent with
+this speculation, a recent report described the case of an elderly Japanese woman whose only risk factors for OC were
+contaminated dentures and impaired glucose tolerance (IGT)
+(4). Dysphagia, especially in our aged patient, would easily
+lead to deterioration of nutritional status and dehydration,
+and that would have further contributed to insulin resistance
+and the spread of the Candida infection, and consequently,
+to extreme hyperglycemia. It was also likely that the patient
+consumed a substantial volume of glucose-containing beverages, which may have increased the glycemia and given rise
+to glucotoxicity, which causes pancreatic beta cell failure
+(5). It is not uncommon for type 2 diabetes to become complicated by ketoacidosis as a result of relative insulin deficiency, an increase in counterregulatory hormones, and severe dehydration (6).
+Biological analyses have revealed mechanisms by which
+hyperglycemia triggers candidiasis specifically to diabetic
+patients; 1) neutrophil dysfunction, 2) impaired opsonization
+because of glucose binding to the third component of complement, and 3) virulence of the pathogens that enables
+them to grow rapidly in the hyperglycemic environment (7).
+Candida albicans, the most frequently detected Candida
+species in oral mucosa specimens from diabetic patients (8,
+9), contains a glucose-inducible protein that inhibits phagocytosis (7). Thus, apart from the neutrophil dysfunction, hyperglycemia itself may be a risk factor for candidiasis. In
+fact, a middle-aged Japanese man who had repeated OC and
+EC was found to have no abnormalities of neutrophil function or lymphocyte proliferation, and it is noteworthy that
+his symptoms were not sufficiently controlled by antifungal
+drugs alone, but only in combination with insulin therapy
+(Table 2 case 6, ref. 10).
+In light of the current review in odontology, however,
+whether or not hyperglycemia is an independent factor for
+OC remains a matter of controversy (2). Recent reports indicate that oral Candida carriage is not directly associated
+with age, denture wearing, gender, or glycemic control (8,
+9). Even though glycemic control is not independently correlated with the Candida carriage, cases reported in Japan
+suggest a relationship between clinically evident OC and
+diabetes (Table 2 and this paper). The accumulation of multiple risk factors including hyperglycemia, denture wearing,
+improper tooth brushing, and aging may trigger OC and EC.
+Many reports suggest that type 2 diabetes is a risk factor
+for periodontal disease (ref.11, for example), and conversely,
+a randomized controlled trial of the effectiveness of treatment of periodontal disease on glycemic control indicated
+that effective treatment of periodontal infection with doxycycline is associated with a reduction in the HbA1c level
+(12). Also, a Japanese study has indicated that poor glycemic control is associated with poor periodontal status, such
+as increased Candida on the tongue and that the oral microbial flora and salivary function improve after controlling
+fasting glycemia (13). Thus, there is increasing evidence for
+a bidirectional interrelationship between oral health and diabetes. Oral infection is common in the elderly, and poor
+dental health combined with systemic diseases such as diabetes may be associated with increased mortality (14). The
+present patient developed severe hyperglycemia and dehydration, and consequently a life-threatening diabetic complication. An oral hygiene program has shown significant improvement in colonization of the oral mucosa and dentures
+by Candida (15). Greater attention should be paid to oral
+health as a means of preventing serious systemic disease in
+the elderly.
+We thank Dr M. Kishimoto for critical reading of this manuscript.
+DOI: 10.2169/internalmedicine.46.1898
+390
