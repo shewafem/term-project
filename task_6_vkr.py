@@ -15,7 +15,7 @@ database = {
     "спортивные технологии": "совокупность методов, устройств, программного обеспечения и оборудования, применяемых для улучшения спортивных достижений, анализа данных, предотвращения травм и повышения качества тренировок и соревнований."
 }
 
-model = Word2Vec.load("model_vkr.model")
+model = Word2Vec.load("models/model_vkr.model")
 
 def vector_num(query):
     query = query.lower()
@@ -27,7 +27,7 @@ def vector_num(query):
     for word in words:
         if model.wv.has_index_for(word):
             word_vectors.append(model.wv.get_vector(word))
-    
+
     # print(word_vectors)
     if len(word_vectors) > 0:
         average_vector = np.mean(word_vectors, axis=0)
@@ -43,19 +43,19 @@ def directory_query(query):
 
     for key, description in database.items():
         key_vector = vector_num(key)
-        if (len(key_vector) > 0) & (len(average_vector) > 0):    
+        if (len(key_vector) > 0) & (len(average_vector) > 0):
             similar = cosine_similarity([average_vector],[key_vector])[0][0]
         if similar > closest_similar:
             closest_similar = similar
             closest_key = key
-        
+
         description_vector = vector_num(description)
-        if (len(description_vector) > 0) & (len(average_vector) > 0):    
+        if (len(description_vector) > 0) & (len(average_vector) > 0):
             similar = cosine_similarity([average_vector],[description_vector])[0][0]
         if similar > closest_similar:
             closest_similar = similar
             closest_key = key
-    
+
     if closest_key is not None:
         print("Описание:", database[closest_key])
     else:
